@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>Networking Plus Registration and Prize Draw</title>
+	<link href="reg2009.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<form method="post" action="reg2009.php">
+<div class="border">
+	<a name="top"></a>
+	<!-- 
+		The page redirects to this url when the form is submitted.
+	-->
+	<input type="hidden" name="sponsor_url" value="http://www.kadiumpublishing.com/forms/networkingplus/formsubmitted.htm">
+	<!--
+		This address gets sent the email
+	-->
+	<input type="hidden" name="registration_addr" value="kathym@kadiumpublishing.com">
+	
+	<div class="tablebg">
+		<h2>PERSONAL DETAILS</h2>
+		<br>
+		<p>You <strong>must</strong> complete all details in this section to qualify<br>
+			for registration and/or entry in this months prize draw.</p>
+		<table id="personal">
+			<tr>
+				<td><b>Forename</b></td>
+				<td><input type="text" name="P_forename" size=30></td>
+				<td><b>Organisation</b></td>
+				<td><input type="text" name="P_company" size=30></td>
+			</tr>
+			<tr>
+				<td><b>Surname</b></td>
+				<td><input type="text" name="P_surname" size=30></td>
+				<td><b>Address</b></td>
+				<td><input type="text" name="P_address1" size=30></td>
+			</tr>
+			<tr>
+				<td><b>Job Title</b></td>
+				<td><input type="text" name="P_jobtitle" size=30></td>
+				<td><b>City/Town</b></td>
+				<td><input type="text" name="P_address2" size=30><br></td>
+			</tr>
+			<tr>
+				<td><b>Telephone</b></td>
+				<td><input type="text" name="P_phone" size=30></td>
+				<td><b>County</b></td>
+				<td><input type="text" name="P_county" size=30></td>
+			</tr>
+			<tr>
+				<td><b>Email</b></td>
+				<td><input type="text" name="P_email" size=30></td>
+				<td><b>Postcode</b></td>
+				<td><input type="text" name="P_postcode" size=30></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id="regtype">
+		<h1><strong>NEW READERS<br>
+			REGISTER NOW FOR YOUR FREE COPY</strong></h1>
+		<br>
+		<p><strong>Networking+</strong> will be delivered by post free of charge to registered readers only.<br>
+			To qualify you <strong>MUST</strong> complete <strong>all</strong> the following questions.</p>
+		<br>
+		<p><input type="radio" name="R_new_registration" value="yes" checked>
+			<strong>New Registrations:</strong>	I wish to receive Networking+</p>
+		<p><input type="radio" name="R_new_registration" value="no">
+			<strong>Re-register:</strong> Please update my details<br></p>
+		<br>
+		<p>To cancel your readership please email separately your details to
+	       <strong><a href="kathym@kadiumpublishing.com">kathym@kadiumpublishing.com</a></strong></p>
+	</div>
+
+	<div class="tablebg">
+		<h2>REGISTRATION</h2>
+		<br>
+		<p>To qualify for registration you <strong>must</strong> answer all the questions in this section.</p>
+		<table>
+			<tr>
+				<td><strong>About You</strong></td>
+				<td><strong>About Your Organisation</strong></td>
+			</tr>
+		   	<tr>
+				<td>Which of the following best describes your job function?<br>
+					<select name="R_job_function">
+						<option>Design</option>
+						<option>Planner</option>
+						<option>Technician</option>
+						<option>Engineer</option>
+						<option>Installer</option>
+						<option>Maintainence</option>
+						<option>Support</option>
+						<option>Administrator</option>
+						<option>Analyst</option>
+						<option>Management</option>
+						<option>Director</option>
+						<option>Consultant</option>
+						<option>Trainer</option>
+						<option>Specialist</option>
+						<option>Architect</option>
+						<option>Implementation</option>
+						<option>Other</option>
+					</select>
+				</td>
+				<td>Number of employees?<br>
+					<select name="R_employees">
+						<option>Under 25</option>
+						<option>26-100</option>
+						<option>101-500</option>
+						<option>501-1,000</option>
+						<option>1,001-5,000</option>
+						<option>5,001-10,000</option>
+						<option>10,001+</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>Size of organisation?<br>
+					<select name="R_turnover">
+						<option>Under £5million </option>
+						<option>£5-£10million</option>
+						<option>£10-£100million</option>
+						<option>£100-£250million</option>
+						<option>£250-£500million</option>
+						<option>£500million and over</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+		   	   <td>How are you involved in acquiring network products/services?<br>
+					<select name="R_aquisition">
+						<option>Approve acquisition</option>
+						<option>Determine need</option>
+						<option>Define product specifications/features</option>
+						<option>Evaluate supplier</option>
+						<option>Select brand</option>
+						<option>Select vendor/source</option>
+						<option>Influence purchase</option>
+						<option>Not Involved</option>
+					</select>
+			   </td>
+			   <td>Annual IT budget?<br>
+					<select name="R_budget">
+						<option>Under £25,000</option>
+						<option>£25-£100,000</option>
+						<option>£100-£500,000</option>
+						<option>£500-£1million</option>
+						<option>Over £1million</option>
+					</select>
+			   </td>
+			</tr>
+			<tr>
+		   	   <td>Which of the following describes your company's activities?<br>
+					<select name="R_activities">
+						<option>Agriculture/Mining/Oil/Chemical</option>
+						<option>Architechture/Construction</option>
+						<option>Business services</option>
+						<option>Computer consultant</option>
+						<option>Distributor/Retailer</option>
+						<option>Education</option>
+						<option>Engineering</option>
+						<option>Finance/Banking/Accounting</option>
+						<option>Government</option>
+						<option>Hotel/Catering</option>
+						<option>Legal/Insurance/Property</option>
+						<option>Manufacturer</option>
+						<option>Media/Marketing/Advertising</option>
+						<option>Medical/Healthcare</option>
+						<option>Research/Development</option>
+						<option>Service industry</option>
+						<option>Telecommunications</option>
+						<option>Transportation</option>
+						<option>Utilities/Energy/Water</option>
+						<option>VAR/Systems integrator</option>
+						<option>Other</option>
+					</select>
+			   </td>
+			   <td>Is your network...<br>
+					<select name="R_network">
+						<option>International</option>
+						<option>Intranet</option>
+						<option>Local</option>
+						<option>National</option>
+						<option>Regional</option>
+						<option>None</option>
+					</select>
+			   </td>
+			</tr>
+		</table>
+		<br>
+		<div id="reg_para">
+			<p>Please specify your job function/company's activities if not listed above<br>
+				<textarea name="R_unlisted" cols=70 rows=1></textarea></p>
+			<p><strong>For readership verification purposes, please enter the town or city of your birth<br>
+				(or the first two letters of the town or city of your birth). [For example, London or LO]</strong><br>
+				<textarea name="R_maidenname" cols=70 rows=1></textarea></p>
+			<p>Are you happy to receive promotional material from other companies?
+				<input type="radio" name="R_data_sharing" value="Yes" checked> Yes 
+				<input type="radio" name="R_data_sharing" value="No"> No<p>
+		</div>
+	</div>
+
+	<br>
+ 
+	<p class="fsize9"><input name="R_enter_draw" type="checkbox" value="yes">
+		<strong>Tick here to confirm that you would like to enter the CNET draw.</strong><br>
+		<span class="fsize8">The CNET Draw outlined in the March 2009 issue is open to existing registered readers and new
+		readers who register on-line at www.kadiumpublishing.com before 22 April 2009. To enter, all readers must meet the terms 
+		of control criteria required to receive Networking+ magazine.</span></p>
+	<p class="fsize8">Kadium Ltd and CNET reserve the right to decide on the readers that can enter the draw.</p>
+	<p class="fsize8">Terms &amp; Conditions: The offer is open to existing readers and new readers who register online 
+		before 22 April 2009. To apply for this<br>
+		offer ALL READERS must complete the online registration form by visiting www.kadiumpublishing.com and ticking the
+		PROMOTION ENTRY BOX. You must be over 18 and live in the United Kingdom.<br></p>
+	<p class="fsize9"><input type="checkbox" name="R_existing_reader" value="yes">
+		<strong>Please tick the box if you are already a registered reader</strong><br>
+		<span class="fsize8">Networking+ reserves the right to refuse any application if the applicant does not comply with the qualifying terms and conditions of the terms of control for this controlled circulation magazine. 
+		If you do not qualify, you may be notified and offered a paid subscription.</span></p>
+	<br>
+	<div class="centred">
+		<a name="bottom"></a>
+		<input id="submitbtn" type="submit" value="Submit">
+		<input id="cancelbtn" type="reset" value="Clear Form">
+	</div>
+</div>
+</form>
+</body>
+</html>

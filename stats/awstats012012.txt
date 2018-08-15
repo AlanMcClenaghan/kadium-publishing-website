@@ -1,0 +1,4028 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201201 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2624                
+POS_VISITOR 37182               
+POS_DAY 156798              
+POS_DOMAIN 3677                
+POS_LOGIN 4947                
+POS_ROBOT 5140                
+POS_WORMS 6611                
+POS_EMAILSENDER 6742                
+POS_EMAILRECEIVER 6885                
+POS_SESSION 157809              
+POS_SIDER 158029              
+POS_FILETYPES 7020                
+POS_OS 7311                
+POS_BROWSER 7617                
+POS_SCREENSIZE 9659                
+POS_UNKNOWNREFERER 9733                
+POS_UNKNOWNREFERERBROWSER 11279               
+POS_ORIGIN 12666               
+POS_SEREFERRALS 12824               
+POS_PAGEREFS 13062               
+POS_SEARCHWORDS 19815               
+POS_KEYWORDS 24667               
+POS_MISC 2288                
+POS_ERRORS 27052               
+POS_CLUSTER 4803                
+POS_SIDER_404 27221               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120201000830 28938 8356309 48495399547
+FirstTime 20120101003754
+LastTime 20120131233924
+LastUpdate 20120209171420 28938 5051 23886 0 0
+TotalVisits 4218                
+TotalUnique 1006                
+MonthHostsKnown 1731                
+MonthHostsUnknown 966                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 175 1166 28135667 505 613 6941536
+1 327 1276 32986134 570 629 10043557
+2 149 801 32526213 897 968 10059791
+3 116 618 23827959 304 349 17711647
+4 258 973 16809592 324 419 10115005
+5 225 1622 31101930 251 384 10733974
+6 412 2005 49151025 476 595 12229792
+7 510 3144 96795698 446 657 24741511
+8 352 3197 100752057 456 623 9172992
+9 644 7773 172781180 693 1181 26317204
+10 658 6971 130429632 542 1133 38514779
+11 772 13713 277988038 526 1336 27128849
+12 608 11590 218760046 787 1424 15818782
+13 893 14560 286304157 607 1305 23626558
+14 710 14520 246516558 1003 2058 20969908
+15 681 12399 221657926 1083 1822 13666945
+16 723 10399 203241888 1040 1691 30271309
+17 425 6766 137280652 827 1307 26937691
+18 321 3578 115780039 529 715 25564610
+19 340 1716 43310161 523 590 27539585
+20 306 2224 57588557 654 807 30880162
+21 283 3018 78160382 414 525 17548853
+22 336 2002 52241054 689 825 16653649
+23 198 1336 40541609 849 943 15123234
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 62
+ip 3793 37461 966335201
+com 3661 43451 795690038
+net 1305 18979 334914227
+uk 642 15547 263494998
+in 370 3737 142291776
+za 152 1704 52808113
+zw 81 600 10815273
+de 47 312 10614513
+pl 27 162 7069129
+br 19 235 3430279
+ua 6 12 90795
+il 6 137 1444814
+sc 6 99 1258251
+tr 3 3 594717
+rs 0 2 302332
+cn 9 9 122409
+ph 3 36 1755771
+es 0 26 646782
+ug 12 99 963915
+ru 3 104 1387540
+my 0 12 293272
+no 6 162 2336047
+tt 3 78 2059164
+mx 11 218 3886381
+fr 9 189 3606445
+ro 2 66 748770
+dk 12 186 3951094
+sg 3 99 1218049
+id 8 128 1953462
+co 0 3 453498
+zm 18 21 66567
+th 6 102 980694
+si 3 78 2222148
+ie 12 276 3209154
+org 12 258 7018933
+cz 8 26 382408
+fi 4 72 1238694
+edu 0 12 293272
+lt 3 27 3775182
+ke 15 207 1440564
+be 4 75 953920
+jp 8 83 984559
+tw 3 18 1064587
+gr 15 224 18051084
+mw 16 140 2504790
+au 9 263 4656341
+ch 3 18 371275
+us 3 66 1178751
+gh 3 81 2386959
+tv 0 12 293272
+pk 12 177 3181542
+it 3 165 3361913
+ca 3 63 1202082
+ly 12 75 523065
+ar 6 155 3219112
+nl 0 54 1191880
+mn 3 90 1041303
+arpa 13 296 5843411
+se 6 221 2516141
+nz 9 33 652257
+ae 0 12 293272
+na 11 111 2031967
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+kadium 124 278 3133350 20120125135652
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 36
+bot[\s_+:,\.\;\/\\-] 1940 61141062 20120131225910 0
+msnbot 1067 10667092 20120131160215 0
+googlebot 854 87612513 20120131213735 0
+yandex 568 105036699 20120131114318 0
+baiduspider 405 3375866 20120131213205 0
+mj12bot 360 4384530 20120131084126 0
+bspider 324 3917852 20120131212302 0
+java\/[0-9] 177 3616644 20120130130651 0
+sogou 177 289923 20120131130541 0
+[\s_+:,\.\;\/\\-]bot 165 1793732 20120127175640 0
+no_user_agent 149 6108645 20120130134728 0
+spider 34 508946 20120131005128 0
+seznambot 67 2812555 20120131204737 0
+mail\.ru 5 483436 20120130065746 0
+ng\/1\. 36 879816 20120130171453 0
+phantom 58 622804 20120130163558 0
+facebook 33 2545657 20120128230018 0
+htmlparser 12 154452 20120115195615 0
+surveybot 14 209566 20120130193424 0
+psbot 19 144554 20120130203523 0
+yodaobot 24 182457 20120123001158 0
+discovery 96 1679895 20120131111416 0
+wget 6 6993900 20120110112516 0
+cfnetwork 3 44907 20120118232644 0
+msnbot\-media 157 3879296 20120131133653 0
+crawl 106 10870063 20120131161057 0
+nutch 42 6915930 20120131185447 0
+exabot 11 149161 20120126020421 0
+ia_archiver 2 18190 20120128222017 0
+libwww 17 254473 20120129021022 0
+findlinks 39 419234 20120131193341 0
+slurp 18 40806 20120106223912 0
+robot 152 4779577 20120125231233 0
+python 62 686377 20120127064120 0
+wordpress 78 33687 20120105024649 0
+speedy 8 90024 20120131195729 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 3513 6699480 0 0
+asp 224 84300 0 0
+png 20237 145793186 0 0
+pdf 1089 641885050 0 0
+htm 1251 10361240 0 0
+pl 124 3079922 0 0
+swf 448 24721636 0 0
+php 2511 37437833 0 0
+html 5223 56614139 0 0
+jpg 57821 765011921 0 0
+gif 34926 1002979447 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 21
+linuxsuse 336
+blackberry 155
+linuxandroid 1346
+macintosh 36
+winlong 7463
+winxp 46909
+win2000 47
+linuxfedora 33
+win95 18
+winunknown 28
+linuxcentos 117
+j2me 228
+win2003 1721
+winnt 432
+win98 31
+linuxubuntu 324
+linux 2340
+winme 4
+macosx 16696
+Unknown 1075
+win2008 48028
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 121
+safari5.0.3 120
+chrome15.0.874.102 63
+firefox3.6.24 359
+msie6.0 3802
+msie5.23 3
+firefox3.6 120
+firefox10.0 832
+firefox3.0.14 2
+firefox4.0 357
+safari4.0.5 2
+safari5.0 3
+safari5.0.6 180
+curl 6
+safari5.0.2 232
+msie8.0 29086
+firefox2.0.0.14 3
+chrome17.0.928.0 84
+firefox6.0.1 141
+firefox3.6.1 2
+msie7.0 28048
+firefox9.0.1 8859
+firefox3.6.20 165
+chrome16.0.912.21 12
+safari5.1.1 456
+msie5.01 64
+chrome18.0.1017.2 180
+firefox3.0 20
+firefox3.6.21 87
+lg\- 10
+chrome15.0.874.120 123
+firefox10.0.1 4
+firefox3.5.2 6
+safari7.0.0.296 71
+firefox2.0.0.6 6
+firefox3.6.4 12
+firefox7.0.1 410
+firefox3.5.10 141
+chrome14.0.794.0 87
+mozilla 3526
+safari5.0.4 93
+netscape5.0 6
+chrome16.0.912.77 2745
+chrome8.0.552.11 3
+chrome10.0.648.151 2
+netscape4.0 3
+firefox3.6.3 399
+firefox3.0.10 82
+firefox8.0.1 2938
+safari 40
+chrome15.0.874.106 156
+firefox5.0 362
+safari4.1.3 903
+firefox4.0.1 43
+firefox3.6.11 3
+android 1336
+msie5.17 3
+firefox8.0 1629
+opera9.00 18
+firefox9.0 12
+chrome12.0.742.112 93
+firefox3.5.3 33
+lotus\-notes 297
+opera9.80 542
+chrome15.0.874.121 268
+iphone 1555
+firefox0.10.1 3
+firefox6.0.2 572
+chrome13.0.782.112 342
+chrome10.0.648.204 69
+chrome16.0.912.4 75
+chrome8.0.552.237 168
+msie5.0 9
+msie9.0 8101
+firefox3.6.10 396
+chrome16.0.912.63 3845
+Unknown 706
+chrome17.0.963.26 75
+chrome14.0.835.202 228
+firefox3.0.8 2
+safari5.0.5 3
+chrome10.0.648.127 58
+blackberry 84
+chrome3.0.195.32 2
+chrome11.0.696.68 12
+firefox3.5.6 3
+safari3.1.2 6
+firefox3.6.25 2262
+msie5.12 3
+chrome16.0.883.0 3
+msie5.14 24
+samsung 3
+chrome12.0.742 887
+chrome14.0.797.0 2
+firefox3.6.17 68
+firefox3.0.11 18
+chrome0.2.149.27 5
+chrome9.0.597 3
+msie5.5 32
+msie6.1 3
+chrome12.0.742.122 363
+safari7.1.0.7 16
+firefox3.0.5 9
+firefox3.0.3 18
+firefox2.0.0.11 2
+firefox1.0.7 3
+chrome16.0.912.75 11437
+safari4.0 61
+firefox1.5.0.6 9
+firefox3.0.6 114
+safari5.1.2 2898
+firefox5.0.1 9
+safari4.0.4 159
+firefox3.6.18 273
+firefox6.0 688
+safari5.1 1621
+firefox3.6.12 93
+chrome5.0.375.70 18
+firefox3.5 87
+opera9.52 5
+firefox3.6.8 68
+firefox3.6.13 96
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+gvfs/1.6.1 20120130122230
+EventMachine_HttpClient 20120125094059
+CamelHttpStream/1.0_Evolution/3.2.1 20120117094617
+gvfs/1.10.0 20120130141010
+Booster/1.0 20120128041757
+Acoon_v4.1.0_(www.acoon.de) 20120116060828
+Acoon_v4.9.5_(www.acoon.de) 20120131154023
+Mozilla/5.0_(compatible;_Butterfly/1.0;__http://labs.topsy.com/butterfly/)_Gecko/2009032608_Firefox/3.0.8 20120127044837
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_1.0.0;_en-US)_AppleWebKit/534.11__(KHTML,_like_Gecko)_Version/7.1.0.7_Safari/534.11_ 20120130134729
+Opera/9.80_(Series_60;_Opera_Mini/6.5.27354/26.1395;_U;_en)_Presto/2.8.119_Version/10.54 20120124140724
+linkdex.com/v2.0 20120131004336
+Mozilla/5.0_(compatible) 20120122084052
+cmsworldmap.com 20120103015828
+CamelHttpStream/1.0_Evolution/2.30.3 20120131084313
+Opera/9.80_(Series_60;_Opera_Mini/6.5.27310/26.1305;_U;_en)_Presto/2.8.119_Version/10.54 20120103165119
+Mozilla/4.0 20120116013040
+Mozilla/5.0 20120111064004
+CamelHttpStream/1.0_Evolution/3.2.2 20120130135218
+SAMSUNG-GT-C3200/1.0_NetFront/3.5_Profile/MIDP-2.0_Configuration/CLDC-1.1 20120106044900
+igde.ru 20120112020624
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120106044842
+eZ_Publish_Link_Validator 20120130062030
+Mozilla/4.0_(compatible;) 20120131223055
+HttpComponents/1.1 20120131215811
+Mozilla/5.0_(compatible;_en-US;_RGAnalytics/1.0)_http://reverseget.com/domain/kadiumpublishing.com 20120101190117
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 21
+gvfs/1.6.1 20120130122230
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.4760;_Pro;_ms-office;_MSOffice_14) 20120130133858
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.4734;_Pro;_ms-office;_MSOffice_14) 20120130181218
+EventMachine_HttpClient 20120125094059
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.6023;_Pro;_ms-office;_MSOffice_14) 20120130142952
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.6106;_Pro;_ms-office;_MSOffice_14) 20120131075633
+CamelHttpStream/1.0_Evolution/3.2.1 20120117094617
+Microsoft_Office/14.0_(Windows_NT_5.1;_Microsoft_Outlook_14.0.5128;_Pro;_ms-office;_MSOffice_14) 20120130140323
+gvfs/1.10.0 20120130141010
+Booster/1.0 20120128041757
+Acoon_v4.1.0_(www.acoon.de) 20120116060828
+Acoon_v4.9.5_(www.acoon.de) 20120131154023
+linkdex.com/v2.0 20120131004336
+cmsworldmap.com 20120103015828
+CamelHttpStream/1.0_Evolution/2.30.3 20120131084313
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.5128;_Pro;_ms-office;_MSOffice_14) 20120130143454
+CamelHttpStream/1.0_Evolution/3.2.2 20120130135218
+igde.ru 20120112020624
+eZ_Publish_Link_Validator 20120130062030
+Microsoft_Office/14.0_(Windows_NT_5.1;_Microsoft_Outlook_14.0.4760;_Pro;_ms-office;_MSOffice_14) 20120117122718
+HttpComponents/1.1 20120131215811
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5474 35059
+From1 11 368
+From2 1435 1913
+From3 615 1695
+From4 2887 88332
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+google 1339 1366
+search 4 11
+mywebsearch 2 2
+live 26 382
+bing 40 62
+infospace 0 3
+yahoo 24 87
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 116
+http://www.learningtechnologies.co.uk/exhibitor-list/ 141 141
+http://www.networkingplus.co.uk 82 82
+http://www.learningtechnologies.co.uk/exhibitor-list2/ 45 45
+http://www.learningandskillsevents.com/exhibitor-list/ 33 33
+http://www.orangeask.com 21 21
+http://www.learningandskillsevents.com/exhibitor-list2/ 20 20
+http://www.datacentreworld.com/partners 17 17
+http://www.networkingplus.co.uk 13 13
+http://www.smstopakistan.com/free-sms-pakistan-mobile.aspx 13 13
+http://a3p.dwpub.com/mediaoutlet/edit/id/2645 12 12
+http://networkingplus.co.uk 1 1
+http://www.theksisters.com 3 3
+http://search1.sky.com/web 6 6
+http://www.telona.org 3 3
+http://www.featuresexec.com/mo/2645/ 2 2
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/uk/en-US/controller.html 0 12
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/uk_bt/en-GB-x-bt/controller.html 0 60
+http://sg.mg40.mail.yahoo.com/neo/launch 0 12
+http://mail.myvle.org/zimbra/ 0 12
+http://mail.kelso.scotborders.sch.uk/cp/ps/Mail/widgets/MailMessageBody 0 12
+http://tomameuk.mail.everyone.net/eonapps/ft/wm/page/view 0 12
+http://www.tineye.com/search/d4a69edd838c2b4c474bd7ee1ad667483d3a9d4b/ 8 10
+http://translate.googleusercontent.com/translate_c 0 72
+http://www.convergenceindia.org/journals.asp 5 5
+http://webmail/cgi-bin/openwebmail/openwebmail-read.pl 0 3
+http://www.bharatexhibitions.com/english/LBS2012subspnsrs.php 3 3
+http://www.cloudwf.com/event-info/supporters-and-partners.html 2 2
+http://statsvillage.com 3 3
+http://www.ucexpo.co.uk/Partners/Networking-Plus 9 9
+http://www.satsig.net/cgi-bin/yabb/YaBB.pl 3 3
+http://www.featuresexec.com/mo/2645 3 3
+http://127.0.0.1:81 0 6
+http://www.scutecul.ro 2 2
+http://www.medialist.co.za/client/Application.aspx 4 4
+http://webmail.123-reg.co.uk/ox6/ox.html 0 24
+http://mail.aol.com/35412-111/aol-6/en-gb/suite.aspx 0 12
+http://uk.mg40.mail.yahoo.com/neo/launch 0 24
+http://mail.rensoftuk.com/webmail/main.php 0 12
+http://frogserver/myfrogtrade/email.phtml 0 12
+http://www.www.networkingplus.co.uk 2 2
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/us/en-US/controller.html 0 60
+http://192.168.1.250:8181/ViewSessionMsg/4/part1--B 0 12
+http://mail.aol.com/35412-111/aol-6/en-gb/Lite/MsgRead.aspx 0 12
+http://www.infinata5.com/biopharm/AccessPoint.aspx 3 3
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/fr/fr-FR/controller.html 0 12
+http://www.replify.com/company-news/networkingplus-report-on-wocs/ 3 3
+http://www.gorkanadatabase.com/profiles/media/outlet/ 3 3
+http://www.bharatexhibitions.com/english/LTE2012subspnsrs.php 3 3
+http://www.fia-online.co.uk/elinks.htm 9 9
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/uk_bt/en-GB-x-bt/view.html 3 3
+http://www.charitygiving.co.uk/ychiow%C2%A0%2A%2A%2A 3 3
+http://mail.dynamiteit.com/ox6/ox.html 0 24
+http://www.onedigital.info/www/modules.php 0 19
+http://mail.parkcommunity.devon.sch.uk/owa/ 0 12
+http://127.0.0.1:81 0 6
+http://www.kadiumpublishingmail.co.uk/lists/admin/FCKeditor/editor/fckeditor.html 0 42
+http://tv.atmpro.net/samsung-logo.html 0 16
+http://communicasia.com/supporting-media.html 3 3
+http://webmail.skyband.mw/view.asp 3 3
+http://www.semrush.com/info/kadiumpublishing.com 5 5
+http://www.semrush.com/uk/info/kadiumpublishing.com 6 6
+http://www.whorush.com/search/ 10 10
+http://www.featuresexec.com/mo/17712/ 6 6
+http://www.cloudwf.com/media-and-press/supporters-and-partners/558-networking.html 9 9
+http://mobivite.net/es/c458a5dd-8290-4bec-bde2-c52b3bc04223/T346774 3 3
+http://datacentreworld.com/partners 3 3
+http://extrabot.com/help/prepigamemuheno.htm 12 12
+http://webmail.afdr.co.uk/reademail.php 0 16
+http://www.featuresexec.com/mediaoutlets/profile.php 3 3
+http://www.netcomsshow.co.uk/index.php 3 3
+http://mail.safepcdisposal.co.uk/Main/frmPreview.aspx 0 12
+http://mc2.mweb.co.za/v2.6/web/divMessageContentiFrame.htm 0 3
+http://webmail.ntlbusiness.com/agent/mobmain 0 12
+http://www.dailywireless.org/2012/01/02/hackerspace-satellite/ 3 3
+http://classic.netaddress.com/tpl/Message/223TWSPPS/Read 0 12
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/gr/el-GR/controller.html 0 12
+http://www.allengooch.com/Outlook/CMK.vcf 3 3
+http://freemail.ukr.net/q/start 0 3
+http://www.dailywireless.org 3 3
+http://us.mg5.mail.yahoo.com/neo/launch 0 24
+http://www.communicasia.com/supporting-media.html 3 3
+http://www.jessazh.be 3 3
+http://www.thekentongroup.com/newsroom/display_news.cgi 6 6
+http://www.cerebralbusiness.com/lte/Media.asp 3 3
+http://www.thedeathofthecopier.com/2009/03/samsung-rolls-out-managed-print.html 0 19
+http://mail.tdc.dk/viewattach.cgi 0 12
+http://webmail.eastriding.gov.uk/mail/School/4625admin.nsf/($Inbox)/ab5cdd3130a0c3bc8025799500428b2a/Body/M2 0 12
+http://www.thedeathofthecopier.com/2009_03_01_archive.html 0 7
+http://networkingplus.co.uk 1 1
+http://www.infosec.co.uk/page.cfm/Link=26 3 3
+http://www.bharatexhibitions.com/english/VASI2012subspnsrs.php 3 3
+http://africa.comworldseries.com/nawc/ 5 5
+http://companycheck.co.uk/company/02910633 3 3
+http://127.0.0.2:187/messages/ 0 16
+http://mail.saintmichaels.org.uk/cp/ps/Mail/widgets/MailMessageBody 0 12
+http://nigeria.comworldseries.com/media-partners/ 3 3
+https://www.tmforum.org/Sponsors/5638/home.html 4 4
+http://mail.ranelagh.bracknell-forest.sch.uk/cp/ps/Mail/widgets/MailMessageBody 0 12
+http://eaafrica.comworldseries.com/media-partners/ 3 3
+http://cpw.mail.aol.com/34561-111/talktalk-5/en-gb/Lite/MsgRead.aspx 0 12
+http://www.webstatschecker.com/stats/domain/kadiumpublishing.com 2 2
+http://mail.aol.com/35412-111/aol-6/en-gb/Suite.aspx 0 36
+http://www.indeed.com.co 3 3
+http://mediatlasei.prnewswire.com/Profile/ProfileStrict.aspx 2 2
+http://admin.inboxvision.com/usr/obj/msgpreview.php 0 12
+http://www.bigfinder.de 3 3
+http://email11.secureserver.net/webmail.php 0 12
+http://www.one-digital.com.mx/www/modules.php 0 3
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/9/1.0.35/uk/en-GB/controller.html 0 267
+http://us.mg3.mail.yahoo.com/neo/launch 0 3
+http://ipexpo.co.uk/Partners/Networking-Plus 2 2
+http://6cms.globalknowledge.net/Admin/ViewPage.aspx 2 2
+http://reverseget.com/domain/kadiumpublishing.com 3 3
+http://hp.knuddels.de/homepages/knuddels.de/hp/68/ramsiii.html 0 3
+http://itfan.lt/2010/04/29/samsung-story-station-isorinis-kietasis-diskas-su-usb-3-0/ 0 34
+http://10.7.43.150:8082/WorldClient.dll 0 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 149
+kadium+publishing 138
+networking 119
+networking+plus 104
+kadium 80
+network+plus 61
+networking+plus+magazine 57
+kadiumpublishing 46
+south+asian+wireless+communications 32
+networking+magazine 26
+kadium+ltd 22
+kadium+media 3
+1q+2011+issue+of+south+asian+wireless+communications 3
+southern+african%c2%a0+wireless+communications 3
+south+asian+wireless+communications%09 3
+excel+wins+cabling+supplier+of+the+year+award 3
+kadium+advertising 3
+help+in+publication+in+wireless 3
+radio+communicators+remote+africa 2
+granti%40kadiumpublishing.com 3
+wireless+and+mobile+communication+in+london 2
+wireless+communicatin+services+in+south+africa 3
+rahiel+nasir+-+meraki+introduces+industry%e2%80%99s+first+cloud+managed+switches+radically+expands+cloud+managed+security+appliance+family 2
+south+african+wireless 2
+kathleen+moynihan+kadium+publishing 9
+north+african+wireless+communications 15
+wireless+communication+services+in+nigeria 3
+publication+of+wireless+network 2
+buy+wireless+communication+products+online 3
+african+wireless+communications+yearbook 21
+mobile+service+in+north+africa 2
+carsten+brinkschulte+january+2012 2
+south+asian+wireless+communications+rahiel+nasir 3
+africa+wireless+communications 3
+kadumpublishing.com 3
+north+african+wireless+communications+magazines 3
+sawc+magazine 3
+kadeium 3
+kathy+moynihan 3
+african+wireless+yearbook 3
+netorking 3
+rahiel+nasir+kadium 3
+eastern+european+wireless+communications 3
+asymmetrical+systems+backhaul 3
+n.african+%26+s.african+wireless+communications 3
+spell 2
+alan+mcclenaghan+new+zealand 3
+networking+kadium 3
+uk+mobile+and+wireless+communications+market 3
+netwroking 3
+kathy+moynahan+southern+africa 3
+north+africa+wireless+communications 3
+asia+wireless+communication 3
+south+african+wireless+communication 2
+kadium+publishing. 3
+net+orking 3
+do+asymmetrical+systems+point+the+way+forward+for+backhaul 3
+sumsung 3
+african+wireless+magazine 3
+networkingplus.co.uk 11
+ian+grant+kadium 3
+green+telecom+2012+india 3
+needs+of+wireless+communication 3
+network+plus+training+in+uk 3
+african+wireless+communications 3
+asia+online+wireless+communications 3
+wireless+communications+asia 3
+logo+samsum 2
+nawc+show+2012 3
+the+email+from+europe+by+rahiel+nasir 2
+magazines+for+wifi+networking 3
+samsung 3
+ian+grant+networking+kadium 3
+yearbook+african+communications 3
+data+centre+dynamics+training+filetype+pdf 3
+southern+african+wireless+media+kit 3
+handycafe 2
+afritel+case+study 3
+kadiumpublishing.com 16
+south+asian+wireless+communications+india 3
+celcite 2
+bradley+shaw 3
+northern+africa+wireless 3
+go 6
+wireless+communications+and+networks+by+professional+publications 6
+hotcourses+newspaper+distributions 3
+kadium+gold 2
+kadium+sales+walton+on+thames 3
+networking+plus+awards 3
+networkingplus 9
+wimax+fwa+point+to+point 3
+southern+africa+wireless+communications+magazine 6
+networking+free+subscription 2
+southern+africa+wireless 6
+wireless+communications+africa 3
+network+plus+magazine 2
+kadium+publicshing 2
+compare+infinera+with+another+vendor 3
+kadium+networking 2
+wireless+networking+plus 6
+gps+tracker+buyers+in+africa+emails+of+2011 2
+jon+howell+south+asian+wireless+communications 3
+northern+african+wireless+communications+-+rahiel+nasir+rahieln%40kadiumpublishing.com 6
+kadiuzam 3
+kathy+moynihan+killiney 3
+kadium+limited 5
+communications+in+north+africa 3
+i+want+to+know+about+technology+in+gabon 3
+iain+grant+north+african+wireless+communications 3
+netwoking+plus 2
+networking+plus+mag+uk 3
+kadium+african+wirelesss+communications 2
+rahiel+nasir 3
+samsung+logo 18
+mtc+launch+a+4g 2
+southern+african+wireless+communications 12
+south+africa+wireless+system 3
+african+wireless+communications+yearbook+circulation 15
+plus+design+netwrork 3
+looking+out+for+new+business+rahiel+nasir+wireless+communications 3
+southern+african+wireless+magazine 3
+wireless+communication+and+networks+by+professional+publications 3
+wireless+communication+magazines 3
+communication+in+south+asia 6
+southern+african+wireless+connection 3
+networking+publications 3
+samb%40kadiumpublishing.com 4
+wifi+network+solutions+africa 3
+netwokingplus.co.uk 3
+samsung+engineering+logo 2
+northern+african+wireless+communications 21
+o3b 3
+kadium+magazine 3
+vas+india+2012+pdf 3
+news+feature+vs.+editorial+feature 3
+wireless+communications+south+africa 3
+www.kadiumpublishing.com 11
+cloud+computing+facts+and+figures+filetype+pdf 3
+plus+network+uninstall 3
+kadiumpublishing.comm 3
+sansung 3
+southern+african+wireless+communications+yearbook 6
+networkin+plus 6
+nothernwireless.pk 3
+network+plus+jobs+london 3
+southern+african+wireless 15
+yolande+alexander+cape+town 2
+kadium+publishing+ltd 3
+activity+for+wireless+communication 2
+wireless+test+equipment+markets+from+2011+to+2018 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 223
+networking 334
+kadium 292
+wireless 282
+plus 256
+communications 202
+publishing 150
+african 144
+magazine 103
+network 77
+south 66
+want 3
+compare 3
+markets 3
+another 3
+%26 3
+netwoking 2
+fwa 3
+buy 3
+issue 3
+email 2
+north 29
+infinera 3
+facts 3
+business 3
+january 2
+london 5
+appliance 2
+2012 11
+products 3
+yolande 2
+granti%40kadiumpublishing.com 3
+jon 3
+africa 48
+technology 3
+asia 15
+security 2
+and 17
+system 3
+tracker 2
+limited 5
+of 13
+mobile 7
+- 8
+kathleen 9
+publications 12
+asymmetrical 6
+kadumpublishing.com 3
+thames 3
+publishing. 3
+carsten 2
+launch 2
+kadeium 3
+advertising 3
+figures 3
+online 6
+logo 22
+communicators 2
+netorking 3
+way 3
+a 2
+spell 2
+industry%e2%80%99s 2
+switches 2
+activity 2
+remote 2
+feature 6
+meraki 2
+alan 3
+systems 6
+netwroking 3
+in 33
+european 3
+subscription 2
+kathy 9
+shaw 3
+pdf 9
+sumsung 3
+networkingplus.co.uk 11
+data 3
+by 11
+moynahan 3
+rahieln%40kadiumpublishing.com 6
+wifi 6
+publication 5
+circulation 15
+alexander 2
+connection 3
+filetype 6
+moynihan 15
+training 6
+samsung 23
+orking 3
+free 2
+4g 2
+howell 3
+backhaul 6
+i 3
+dynamics 3
+sawc 3
+handycafe 2
+kadiumpublishing.com 16
+yearbook 48
+celcite 2
+uninstall 3
+award 3
+mtc 2
+go 6
+samsum 2
+zealand 3
+wirelesss 2
+eastern 3
+europe 2
+news 3
+kit 3
+networkingplus 9
+market 3
+india 9
+know 3
+sales 3
+forward 3
+rahiel 22
+on 3
+green 3
+wimax 3
+awards 3
+vas 3
+iain 3
+engineering 2
+study 3
+telecom 3
+out 3
+networkin 6
+kadiuzam 3
+african%c2%a0 3
+editorial 3
+gps 2
+communications%09 3
+equipment 3
+vs. 3
+with 3
+southern 60
+family 2
+magazines 9
+computing 3
+do 3
+expands 2
+distributions 3
+case 3
+design 3
+wins 3
+to 9
+newspaper 3
+publicshing 2
+radically 2
+from 5
+afritel 3
+professional 9
+services 6
+netwrork 3
+kadiumpublishing 46
+radio 2
+managed 4
+gabon 3
+nasir 22
+buyers 2
+year 3
+the 8
+uk 9
+test 3
+samb%40kadiumpublishing.com 4
+netwokingplus.co.uk 3
+walton 3
+town 2
+net 3
+nigeria 3
+jobs 3
+cloud 7
+ian 6
+o3b 3
+media 6
+cape 2
+about 3
+new 6
+killiney 3
+centre 3
+show 3
+for 11
+n.african 3
+cabling 3
+www.kadiumpublishing.com 11
+networks 9
+service 2
+hotcourses 3
+excel 3
+kadiumpublishing.comm 3
+bradley 3
+introduces 2
+northern 30
+grant 9
+sansung 3
+ltd 25
+needs 3
+solutions 3
+mag 3
+2018 3
+communicatin 3
+gold 2
+nothernwireless.pk 3
+supplier 3
+help 3
+2011 8
+1q 3
+nawc 3
+first 2
+looking 3
+s.african 3
+point 9
+mcclenaghan 3
+emails 2
+asian 47
+vendor 3
+communication 30
+brinkschulte 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 25 7148
+401 10 4730
+302 2665 0
+206 1696 133073998
+504 2 642
+301 32 10335
+404 6623 1870749
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 225
+/phpMyAdmin/index.php 3 -
+/form%20email/logo2012.jpg 6 -
+/phpmanager/index.php 3 -
+/xmap.html 16 -
+/www.stonesoft.com 3 -
+/ccount/cummins-power.htm 3 -
+/ccount/http 2 -
+/click 168 -
+/websql/index.php 3 -
+/www.htdata.co.uk 3 -
+/PDFS/YEARBOOK2011.PDF 3 -
+/www.intelsat.com 2 -
+/service-delivery-platform.html 16 -
+/www.socomec.com 6 -
+/privacy.html 16 -
+/phpmyadmin/print.css 3 http://d7c.kadiumpublishing.com/phpmyadmin/print.css
+/ccount/contact-singapore.html 3 -
+/email%20forms/questionnaire2012.htm 6 http://kadiumpublishing.com/email%20forms/questionnaire2012.htm
+//forums/includes/xml/bitfield_vbseo.xml 8 -
+/www.huawei.com 3 -
+/www.teligent.se 8 -
+/ccount/33-38-kva.htm 3 -
+/plus/mytag_js.php 12 -
+/messaging.html 16 -
+/www.kvmchoice.com 3 -
+//wp-content/themes/TheStyle/timthumb.php 6 -
+/about-us.html 16 -
+//wp-content/plugins/cac-featured-content/timthumb.php 3 -
+/call-completion.html 16 -
+/teligent-telecom-introduces-network-spanning-number-translation-services-nts-application.html 16 -
+/voipzone.html 16 -
+//wp-content/plugins/uBillboard/timthumb.php 9 -
+/sitemap.asp 2 -
+/pdfs/eewcmediapack2010.pdf 3 -
+/sqlweb/index.php 3 -
+/umbraco/css/umbracoGui.css 3 -
+//wp-content/themes/eNews/timthumb.php 6 -
+//wp-login.php 2 -
+/pdfs/NETmediapack2011.pdf 18 -
+/indexfiles/africa-map.jpg 7 http://image.youdao.com/imagesa
+/nawc/nawc1109.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/nawc/nawc1109.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/pdfs/NAWC_mediapack_2011.pdf 6 -
+/forms/africa/nawchome.htm 43 -
+/ccount/compact-range.htm 3 -
+/ccount/industries.htm 3 -
+/PMA/index.php 3 -
+/joomla/administrator/index.php 3 http://d7c.kadiumpublishing.com/joomla/administrator/index.php
+/newsletter/2011_04/header1104.png 2 -
+/ccount/contact-philippines.html 3 -
+/mailto:kathym@kadiumpublishing.com 3 http://www.kadiumpublishing.com/form%20email/questionnaire2011.htm
+/wp-login.php 6 -
+/www.arabsat.com 5 -
+//forum/includes/xml/bitfield_vbseo.xml 8 -
+/dbadmin/index.php 3 -
+/yearbook/oracle2011.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/yearbook/oracle2011.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/upload.php 3 -
+/forms/networkingplus/samsunglogo.jpg 2 file:///Applications/Install/0FE8AEF0-FE75-E011-81D2-78E7D1FA76F8/Install/
+//wp-content/plugins/simple-post-thumbnails/timthumb.php 3 -
+/newsletter/2010_11/top_tips1011.png 2 -
+//wp-content/plugins/dukapress/lib/timthumb.php 3 -
+/pdfs/NAWC_features_2011.pdf 3 -
+/p/m/a/index.php 3 -
+/www.wildpackets.com 3 -
+/in-services.html 16 -
+/www.kellsystems.co.uk 3 -
+/webadmin/index.php 3 -
+/www.nokiasiemensnetworks.com 3 -
+/ccount/contact-sweden.html 3 -
+/sawc/800x100static.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/sawc/800x100static.jpg&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/in-the-news.html 16 -
+/ccount/lifecycle-costs.htm 3 -
+/http:/www.communicasia@sesallworld.com 3 -
+/forms/asia/sasia_reg.htm&rct=j&sa=U&ei=a4UOT6qeOuqViQfjhIEk&ved=0CJQBEBYwKDisAg&q=Wireless+Communications+mailing&usg=AFQjCNHT5YmMdaptrTgyFlgvnYOPLrkyGw 3 www.kadiumpublishing.com
+/www.weeeit.com 6 -
+/newsletter/2011_11/ftl-bottom-banner.gif 6 -
+/mass-calling-and-voting.html 16 -
+/images/call1.png 3 -
+/Tools/phpMyAdmin/index.php 3 -
+/sqlmanager/index.php 3 -
+/email%20forms/email2012.htm 6 http://kadiumpublishing.com/email%20forms/email2012.htm
+/blog//wp-login.php 2 -
+/www.riello-ups.co.uk 6 -
+/ccount/17-27-kva.htm 3 -
+/misc/tabledrag.js 3 -
+/crossdomain.xml 7 -
+/php-my-admin/index.php 3 -
+/mysqlmanager/index.php 3 -
+/pdfs/nawc_mediapack_2011 53 -
+/careers.aspx 7 -
+/5PX2200iRTN.aspx 2 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 3 -
+/www.aten.com 3 -
+/teligent-to-extend-functionality-of-bt-s-ride-call-termination-platform-3.html 12 -
+/mysqladmin/index.php 3 -
+//includes/xml/bitfield_vbseo.xml 8 -
+/5PX3000iRTN.aspx 2 -
+//wp-content/plugins/smooth-slider/scripts/timthumb.php 3 -
+/ccount/contact-malaysia.html 3 -
+/phpMyAdmin-2/index.php 3 -
+//wp-content/plugins/directorypress/thumbs/timthumb.php 3 -
+//wp-content/themes/sakura/plugins/woo-tumblog/functions/cache/timthumb.php 3 -
+/welcome-to-o3b.aspx 5 -
+/index%20files/sml-net-up.jpg%3Figclip%3D0x0x150x200&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/index%20files/sml-net-up.jpg%3Figclip%3D0x0x150x200&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/index 6 -
+/ccount/privacy-policy.htm 3 -
+/searchresults.aspx 5 -
+/form%20email/email2012.htm 9 -
+/legal.cfm 2 -
+/form%20email/logo2012.gif 9 -
+/legal.html 16 -
+/net/getronics-webbanner.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/net/getronics-webbanner.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+//wp-content/themes/DeepFocus/timthumb.php 6 -
+/countries.asp 2 -
+/form%20email/questionnaire2011_files/questionnaire.css 3 http://www.kadiumpublishing.com/form%20email/questionnaire2012.htm
+//wp-content/plugins/islidex/js/timthumb.php 3 -
+/.well-known/host-meta 5 -
+/pdfs/SAWC_mediapack_2011.pdf 3 -
+/robots.txt 2888 -
+/copyright-pu.asp 2 -
+/www.apc.com/promo 3 -
+/legal-pu.asp 2 -
+/press-releases.html 16 -
+//wp-content/plugins//wp-content/plugins/highlighter/libs/timthumb.php 3 -
+/pdfs/yearbook2011.pdf 46 http://www.kadiumpublishing.com/yearbook.html
+/wordpress/wp-login.php 3 http://d7c.kadiumpublishing.com/wordpress/wp-login.php
+/yearbook/footprints.jpg 176 http://www.kadiumpublishing.com/yearbook.html
+/PMA2005/index.php 3 -
+/admin/index.php 3 -
+/pdfs/eewcfeatures2010.pdf 3 -
+/products-services.html 16 -
+/indexfiles/uk-map.JPG 7 http://image.youdao.com/imagesa
+/ccount/index.htm 3 -
+/myadmin/index.php 3 -
+/mysql-admin/index.php 3 -
+/Products-services/Backup-Power-UPS/Protection-Station.aspx 2 -
+//wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php 3 -
+/www.amos-spacecom.com 2 -
+/charging.html 16 -
+/teligent-awarded-1m-deal-in-africa-26.html 6 -
+/php-myadmin/index.php 3 -
+//wp-content/plugins/dp-thumbnail/timthumb/timthumb.php 3 -
+/cgi-bin/awstats.pl 6 -
+/pdfs/Networking_mediapack_2011.pdf 17 -
+//wp-content/themes/SimplePress/timthumb.php 6 -
+/phpMyAdmin2/index.php 3 -
+/form%20email/bg2011.pdf 3 -
+/newsletter/2011_11/ftl-top-banner.gif 4 -
+/wp//wp-login.php 2 -
+/contact-me.html 16 -
+/urchin.js 5 http://www.kadiumpublishing.com/ccount/click.php
+/webdb/index.php 3 -
+/teligent-s-voipzone-enables-operators-to-integrate-voip-and-mobile-data-calls-into-billable-service-plans-44.html 10 -
+/ccount/enquire.htm 3 -
+/ccount/contact-usa.html 3 -
+/ccount/contact-france.html 3 -
+/pma/print.css 3 -
+/pma/index.php 3 -
+/sitecore/login 3 -
+/ccount/8-11-kva.htm 3 -
+/ibm.com/car/uk 3 -
+/ccount/environmental-impact.htm 3 -
+/indexfiles/europe-map.jpg 7 http://image.youdao.com/imagesa
+/WebResource.axd 11 -
+/net/isx_100x400_a_bose.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/net/isx_100x400_a_bose.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/5PX2200iRT.aspx 2 -
+/www.olson.co.uk 3 -
+/awstats/awstats.pl 3 -
+/ccount/specification.htm 3 -
+/www.xirrus.com 3 -
+/ccount/contact-germany.html 3 -
+/download-form-product-brief.html 16 -
+//wp-content/plugins/wp_rokstories/timthumb.php 3 -
+/5PX3000iRT3U.aspx 2 -
+/www.fibre.co.uk 3 -
+/phpmyadmin2/index.php 3 -
+/pma2005/index.php 3 -
+/5PX1500iRTN.aspx 2 -
+/video-player.aspx 2 -
+/teligent-telecom-introduces-network-spanning-number-translation-services-nts-application-46.html 16 -
+/forms/africa/paid_subs.htm 115 -
+/labels.rdf 3 -
+/5PX1500iRT.aspx 11 -
+/neptun/neptun.php/oktopus/download/6613 3 http://www.kadiumpublishing.com/ccount/click.php
+/newsletter/2011_02/networkingplus-enewsextra 3 -
+/www.hughes.com 6 -
+/forms/networkingplus/kathym@kadiumpublishing.com 40 -
+/emailimages/banner.png 5 -
+/form%20email/kathym@kadiumpublishing.com 33 -
+/newsletter/2011_08/1-header1108.png 9 -
+//vbulletin/includes/xml/bitfield_vbseo.xml 8 -
+/include/dialog/select_soft_post.php 7 -
+/ccount/contact-morocco.html 3 -
+/Edit/editor/filemanager/connectors/asp/connector.asp 9 -
+/teligent-announces-new-p90-e-solution-acting-as-a-transitional-gateway-to-bridge-legacy-next-generation-service-delivery-platforms-18.html 16 -
+/teligent-shows-how-mnos-can-capitalise-on-over-the-top-services-with-voipzone-at-mwc-32.html 4 -
+/forms/asia/paid_subs.htm 57 -
+/ccount/contact-united-kingdom.html 3 -
+//vb/includes/xml/bitfield_vbseo.xml 8 -
+/newsletter/2010_08/new_this_month.png 4 -
+/images/ 3 -
+/form 6 -
+/www.skywareglobal.com 6 -
+/CHANGELOG.txt 3 -
+/www.phoenixdatacom.com 3 -
+/mysql/print.css 3 -
+/about.cfm 2 -
+/yearbook/space_62.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf 3 http://www.kadiumpublishing.com/yearbook/space_62.gif&Code=1046&Markup=6&Width=128&Height=120&Cap=142&network=ezsurf
+/mysql/index.php 3 -
+//wp-content/themes/DailyNotes/timthumb.php 6 -
+//wp-content/plugins/wp_mobile_detector/timthumb.php 3 -
+/net/psiber.swf 1882 http://www.kadiumpublishing.com/net.html
+/ibm.com/luggage/uk 3 -
+/mambots/editors/wysiwygpro/document.php 3 -
+/wordpress//wp-login.php 2 -
+/pdfs/Networking_features_2011.pdf 14 -
+//wp-content/plugins/wp-thumbie/timthumb.php 3 -
+/neptun/neptun.php/oktopus/image/6633.flv 3 -
+/uploader.php 2 -
+//wp-content/plugins/category-grid-view-gallery/includes/timthumb.php 3 -
+/index.php 16 -
+/phpmy-admin/index.php 3 -
+/o3b-advantage.aspx 4 -
+/privacy.cfm 2 -
+/phpmyadmin/index.php 3 -
+/homepage.aspx 7 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2697
+64.39.23.124 424 424 4782706 20120131224409
+64.39.23.123 379 379 4268474 20120131170248
+host81-149-26-38.in-addr.btopenworld.com 271 5315 71638406 20120131163041
+88-108-255-150.dynamic.dsl.as9105.com 184 748 11722962 20120130152912
+abs-static-2.195.102.118.aircel.co.in 167 167 85518806 20120128114423
+smtp.griffinsg.net 146 146 1652437 20120131233924
+replacedb.customscoop.com 136 136 1571667 20120131130504
+redhill.customscoop.com 133 133 1515255 20120131204238
+85.31.219.20 132 132 135090318 20120131215811
+server37.customscoop.com 127 127 1476079 20120131165303
+host-92-21-64-209.as13285.net 0 12 293272 
+118.subnet110-137-62.speedy.telkom.net.id 6 123 1473006 20120125132136
+mailo3.halifax.co.uk 0 20 561056 
+webcache-01.slc.ifl.net 0 12 25488 
+cluster.transtk.ru 0 12 99288 
+120.141.223.183 0 3 453498 
+host86-166-178-223.range86-166.btcentralplus.com 0 28 586544 
+50-57-68-14.static.cloud-ips.com 6 6 39177 20120117054808
+host-78-147-92-61.as13285.net 0 12 293272 
+ycar10.mobile.sp1.yahoo.com 0 3 453498 
+host86-129-124-49.range86-129.btcentralplus.com 3 84 919728 20120111134352
+74.125.156.92 0 14 184571 
+arcl10.cc.bbsrc.ac.uk 0 12 293272 
+62.200.52.25 6 81 3222501 20120119183358
+msnbot-207-46-12-14.search.msn.com 3 3 473637 20120111011155
+pool-98-110-164-30.bstnma.fios.verizon.net 3 75 2207397 20120124165944
+host86-179-110-61.range86-179.btcentralplus.com 3 105 974901 20120113151554
+85.12.108.89 0 12 293272 
+static-3.253.98.14.tataidc.co.in 2 4 346256 20120131082646
+mail.h2no.co.uk 0 12 293272 
+212.183.128.84 0 12 293272 
+217.207.126.242 0 12 293272 
+5acb762b.bb.sky.com 12 183 3549945 20120111202359
+ycar4.mobile.bf1.yahoo.com 0 6 906996 
+194.62.210.37 0 12 245872 
+host86-185-218-205.range86-185.btcentralplus.com 0 12 293272 
+nj02ga03k3y12.us.db.com 0 4 220384 
+v2035.eth0.proxy03.pf2.sxgfl.ifl.net 0 12 293272 
+212.20.225.132 0 12 293272 
+202.156.13.11.cache.maxonline.com.sg 0 51 491292 
+195.224.68.225 33 426 7930860 20120124161309
+host86-161-94-33.range86-161.btcentralplus.com 0 12 293272 
+189-11-49-45.ctaje701.dsl.brasiltelecom.net.br 0 6 210984 
+82.198.250.7 0 12 293272 
+msnbot-207-46-199-15.search.msn.com 3 3 27489 20120112181550
+cpc5-haye18-2-0-cust940.haye.cable.virginmedia.com 18 165 2673948 20120103175307
+host-92-26-84-106.static.as13285.net 0 24 293272 
+ra-gw.as41400.net 2 50 1403862 20120130154729
+93.95.125.92 0 60 293272 
+host-2-99-58-141.as13285.net 0 12 293272 
+31.73.240.142 0 12 293272 
+mail.eml.com 6 150 3430636 20120119183259
+cpc8-bour5-2-0-cust158.15-1.cable.virginmedia.com 0 12 293272 
+wall.ius-software.si 3 78 2222148 20120118091948
+80.248.3.187 0 3 33096 
+msnbot-207-46-199-13.search.msn.com 3 3 28200 20120113061930
+elliotteng.plus.com 0 21 372846 
+ee-in-f156.1e100.net 0 2 66782 
+195.43.48.146 0 22 139293 
+cpc13-acto2-2-0-cust226.4-2.cable.virginmedia.com 3 87 1008810 20120106134903
+webdefence.cluster-g.websense.net 0 24 293272 
+157.203.43.103 0 12 293272 
+67-207-136-128.static.cloud-ips.com 6 6 89814 20120125114024
+109.232.59.6 9 258 4012479 20120105120811
+195.224.17.9 0 16 293272 
+host86-152-56-254.range86-152.btcentralplus.com 3 105 1068636 20120114213534
+74.125.78.83 0 2 374262 
+host81-136-152-194.in-addr.btopenworld.com 0 12 293272 
+41.212.40.22.wananchi.com 12 162 3135006 20120114124102
+213-131-124-12.onyx.net 0 12 293272 
+74.125.92.83 0 4 174130 
+host86-176-41-232.range86-176.btcentralplus.com 0 12 293272 
+94-30-21-110.xdsl.murphx.net 0 3 33096 
+pd95265fd.dip0.t-ipconnect.de 0 6 66192 
+109.224.28.250 0 12 293272 
+62.60.98.134 0 120 293272 
+host109-152-247-100.range109-152.btcentralplus.com 0 24 586544 
+server32.customscoop.com 120 120 1400251 20120131195231
+86.34.227.205 3 84 919728 20120119115151
+ez-in-f86.1e100.net 0 24 806166 
+cpc3-hari13-2-0-cust734.hari.cable.virginmedia.com 0 16 356106 
+195-195-80-222.arts.ac.uk 3 93 1032987 20120124153957
+host-8-192-68-109.uk.sharedband.net 0 12 293272 
+host-80-194-37-162.static.cable.virginmedia.com 0 4 83130 
+41.217.216.194 15 96 950742 20120107071328
+host86-138-41-26.range86-138.btcentralplus.com 0 12 293272 
+209.85.224.99 0 6 106227 
+81-232-95-126-no12.business.telia.com 0 12 293272 
+46.60.252.96 0 12 273818 
+136.148.168.157 0 12 293272 
+88.211.26.58 0 96 586544 
+5ac89d9b.bb.sky.com 0 24 481364 
+195-26-62-149.adsl.izrsolutions.com 0 12 293272 
+82-69-177-37.dsl.in-addr.zen.co.uk 0 12 293272 
+200-161-80-159.dsl.telesp.net.br 0 3 453498 
+5e014ec7.bb.sky.com 0 12 293272 
+119.237.88.202.asianet.co.in 3 12 6432279 20120117112426
+adsl-213.46.190.45.tellas.gr 0 3 33096 
+212.183.128.252 0 20 398452 
+195.33.27.172 0 12 293272 
+mail.infiniti-e.com 0 12 293272 
+host-80-195-116-101.static.cable.virginmedia.com 6 104 2374946 20120130163027
+78-105-45-129.zone3.bethere.co.uk 0 12 293272 
+84.93.188.104.bizsurf.pte-ag1.dyn.plus.net 4 58 1550698 20120131095614
+host217-36-201-155.in-addr.btopenworld.com 0 12 0 
+86.96.226.89 3 15 84846 20120111061940
+149.254.180.202 0 12 293272 
+59.95.78.200 21 189 3979509 20120120095051
+196.216.13.20 12 96 1048371 20120118071750
+213.120.209.210 0 3 4161 
+gateway.eidos.co.uk 0 12 293272 
+unallocated.star.net.uk 6 178 2595644 20120112164737
+194.73.217.5 0 12 293272 
+webcache-03.segfl.ifl.net 0 36 586544 
+host-80-194-70-84.static.cable.virginmedia.com 0 12 293272 
+host-92-21-63-106.as13285.net 10 148 3458668 20120130181715
+79-112-32-113.iasi.fiberlink.ro 2 60 682578 20120128061249
+abts-north-static-105.21.160.122.airtelbroadband.in 6 117 1105239 20120110091930
+ez-in-f90.1e100.net 0 12 147948 
+sdcwebdproxy4.europe.hp.net 0 12 293272 
+86.96.226.87 0 18 316068 
+52-89-6-80.static.virginmedia.com 0 12 293272 
+212.161.12.55 12 147 3066582 20120110165947
+192.73.31.49 0 4 83130 
+12.191.136.2 0 3 33096 
+host86-169-62-107.range86-169.btcentralplus.com 0 12 293272 
+mail.gmail59.cn4e.com 3 3 44907 20120117010417
+pv7079-0479221560.pck.nerim.net 0 3 33096 
+cpc19-nmal17-2-0-cust46.croy.cable.virginmedia.com 8 184 2385654 20120127174822
+wf-171-99-140-67.revip9.asianet.co.th 0 24 181125 
+109-231-196-192.cust-109.exponential-e.net 0 12 293272 
+66.249.17.155 3 84 919728 20120113200033
+74.125.92.90 0 4 11082 
+80.74.250.29 3 87 1018665 20120103134701
+115.112.233.75.static-chennai-vsb.vsnl.net.in 3 87 924930 20120119151433
+host86-138-160-123.range86-138.btcentralplus.com 0 12 293272 
+salt-ext.roke.co.uk 0 12 293272 
+tr2.cfs.co.uk 0 24 586544 
+212.100.20.77 0 12 293272 
+87.114.124.65.plusnet.thn-ag2.dyn.plus.net 3 87 1019667 20120110010827
+static.200.54.9.176.clients.your-server.de 3 3 33687 20120112171944
+anon-189-90.vpn.ipredator.se 3 84 951753 20120107125717
+46.18.178.25 2 40 632598 20120131102442
+80.249.48.137 0 10 54669 
+spok-gw.adsl.newnet.co.uk 0 12 293272 
+194.81.216.16 0 12 293272 
+98.129.136.178 4 4 45352 20120130172856
+66.28.253.179 2 73 1517264 20120130230153
+s11-05.opera-mini.net 3 75 2207397 20120103165118
+72.32.150.128 24 24 278509 20120131224948
+nero.nfusion.com 0 2 302332 
+cpc1-watf8-2-0-cust814.15-2.cable.virginmedia.com 0 36 293272 
+bd66e01e.virtua.com.br 2 56 613152 20120131005338
+wm-helpfile.jhb.stormnet.co.za 0 6 66192 
+218.94.2.3 0 3 33096 
+aputeaux-651-1-41-53.w81-249.abo.wanadoo.fr 3 84 919728 20120111153504
+cpc1-slam6-2-0-cust85.2-4.cable.virginmedia.com 0 12 293272 
+57.250.239.184 4 110 2380110 20120130135715
+213.205.232.90 0 4 45784 
+207-226-183-125.static.pccwglobal.net 3 3 1295670 20120114151414
+115.187.17.150 3 3 44907 20120105101212
+2-54-254-19.orange.net.il 0 3 33096 
+199.229.190.154 3 90 2419110 20120118154621
+host81-142-72-161.in-addr.btopenworld.com 0 12 293272 
+host-2-99-41-116.as13285.net 0 60 293272 
+host86-137-94-190.range86-137.btcentralplus.com 21 267 6590187 20120110174757
+host81-148-7-1.in-addr.btopenworld.com 3 81 2231130 20120111101304
+187.194.201.18 0 3 453498 
+wsip-70-184-66-215.oc.oc.cox.net 3 3 90039 20120107195151
+89.107.243.1 0 2 302332 
+74.125.42.86 0 3 453498 
+109-238-76-113.spitfireuk.net 6 111 980694 20120123154555
+host109-158-103-127.range109-158.btcentralplus.com 0 30 401682 
+host86-155-43-216.range86-155.btcentralplus.com 0 12 293272 
+82.132.215.201 0 12 293272 
+193-34-3-1.chelmnet.pl 6 66 5394081 20120110224147
+139.85.223.10 20 299 5289528 20120127052048
+cec6e47c1.dhcp.bluecom.no 6 135 2009679 20120102173226
+proxy5.uclan.ac.uk 0 14 316164 
+dex-252-40.dxi.net 4 62 702714 20120130122242
+bluecoat1.northgate-is.com 0 12 293272 
+webgw3.thls.bbc.co.uk 0 14 453418 
+gateway.kcom.com 12 109 5100010 20120110165258
+cpc3-pool3-0-0-cust735.15-1.cable.virginmedia.com 18 165 5104377 20120105124323
+132.185.151.196 0 8 245872 
+83-244-191-66.cust-83.exponential-e.net 0 24 321218 
+dslb-188-096-253-017.pools.arcor-ip.net 0 93 1000617 
+31.100.81.67 3 3 0 20120113200523
+196.46.120.68 39 39 42506178 20120104181932
+217.150.110.235 0 12 293272 
+host-91-143-75-98.2i3.net 0 21 644184 
+ip-217-204-106-228.easynet.co.uk 0 24 0 
+122.183.241.250 1 28 306576 20120109052840
+212.74.12.11 0 12 293272 
+192.223.140.46 0 21 148881 
+194.74.190.3 0 20 343268 
+44ob.scansafe.net 0 20 503414 
+117.96.6.131 0 3 33096 
+81.145.32.90 0 16 376402 
+213.205.232.94 0 12 293272 
+213.1.224.215 0 72 1173088 
+5ad15ea1.bb.sky.com 2 58 637970 20120131175915
+zen-inetgw-2a.nhs.uk 0 32 398452 
+ch2-bl10.sitebuildit.com 2 2 29938 20120130165133
+static-177-50.oosha.co.uk 0 36 293272 
+41.197.100.170 3 102 1044267 20120107115003
+213.86.197.188 0 45 1081519 
+snnmail3.angloamerican.co.uk 0 6 146636 
+webcache-02.segfl.ifl.net 0 12 293272 
+host-92-21-12-136.as13285.net 0 12 293272 
+77.72.129.74 3 3 44907 20120117145714
+host213-123-246-112.in-addr.btopenworld.com 0 8 105180 
+adsl-fixed-239-90.heliweb.de 0 14 453418 
+cpc1-chfd2-2-0-cust204.12-3.cable.virginmedia.com 0 12 293272 
+199.19.249.196 61 61 2906381 20120131180143
+mail.lawrencegrant.co.uk 0 12 293272 
+72.32.150.135 9 9 107478 20120110131404
+cpc1-nrte13-0-0-cust531.8-4.cable.virginmedia.com 0 12 293272 
+217.33.159.20 0 18 357528 
+autocore.demon.co.uk 0 4 83130 
+64.233.182.90 0 12 331608 
+212.134.79.30 0 74 794090 
+81.176.230.39 5 11 147425 20120126155210
+host86-159-143-213.range86-159.btcentralplus.com 0 24 586544 
+195.59.182.13 0 12 293272 
+109.174.162.130 12 249 5870373 20120119173527
+212.183.128.216 9 135 2898528 20120113135453
+77.127.50.25 0 3 33096 
+87-194-153-53.bethere.co.uk 0 12 293272 
+193.61.255.222 0 10 233034 
+ycar5.mobile.bf1.yahoo.com 0 3 453498 
+static-208-80-194-27.as13448.com 6 6 89814 20120124235703
+113-151-250-212.static.virginmedia.com 0 12 293272 
+robot.acoon.de 14 14 170171 20120131154023
+satishouse.demon.co.uk 0 36 353510 
+93-97-46-155.zone5.bethere.co.uk 0 12 293272 
+host-80-195-146-107.static.cable.virginmedia.com 0 12 245872 
+95.146.58.233 0 12 293272 
+135.196.28.254 12 144 3169068 20120107154056
+cpc1-finc12-2-0-cust354.4-2.cable.virginmedia.com 0 12 293272 
+207-229-146-97.c3-0.drb-ubr1.chi-drb.il.cable.rcn.com 9 390 6692043 20120111154934
+impact.santrex.net 9 9 101133 20120124164132
+61.245.168.34 3 84 919728 20120111161044
+cpc2-farn3-0-0-cust990.6-2.cable.virginmedia.com 0 36 879816 
+46.227.48.36 9 108 2871891 20120112232032
+41-133-134-250.dsl.mweb.co.za 2 58 679110 20120130142245
+abts-kk-static-ilp-102.23.181.122.airtel.in 12 243 2675949 20120111090546
+mailout.itconnectsu.com 0 12 293272 
+193.63.61.226 0 12 293272 
+74.125.78.88 0 5 200711 
+cpc3-finc12-2-0-cust51.4-2.cable.virginmedia.com 15 105 2133873 20120117230137
+mail.strategicpr.net 36 447 3758187 20120111132710
+5adcd662.bb.sky.com 0 21 533166 
+dbss1bcx01.chase.com 0 12 293272 
+host86-186-48-85.range86-186.btcentralplus.com 0 12 293272 
+outmail.gedling.gov.uk 0 12 293272 
+74.125.64.95 0 10 48578 
+server1.mnpa.co.uk 0 12 293272 
+vc-gp-s-41-29-10-242.umts.vodacom.co.za 0 3 33096 
+87.192.76.2 9 87 2282469 20120110102336
+125.18.31.244 2 22 492032 20120127050251
+store.dcgrid.com 3 3 44907 20120123003724
+74.125.156.84 0 6 265838 
+host86-182-31-202.range86-182.btcentralplus.com 0 12 293272 
+82.132.210.214 0 12 293272 
+mail.timstar.co.uk 0 36 25488 
+31-56-195-204.rasana.net 0 3 453498 
+165.143.155.55 18 231 5661231 20120112114447
+88-199-156-250.tktelekom.pl 0 12 293272 
+91.85.171.140 0 12 293272 
+2.31.17.239 8 104 2174136 20120131152253
+dmz.neterix.org 0 12 293272 
+189.27.17.227.dynamic.adsl.gvt.net.br 3 3 44907 20120109175225
+demon-gw.bhouse07.co.uk 3 84 919728 20120117093211
+demon-gw.roycecomms.com 0 24 318760 
+wk-25-108.guest.rdg.ac.uk 0 8 105180 
+ssh-dhcp-95-125.lut.ac.uk 0 48 1147600 
+432ob.scansafe.net 9 189 3721298 20120119143132
+mailgate.nikeconsultants.co.uk 0 60 293272 
+mpc-6.sohonet.co.uk 0 28 586544 
+host86-159-210-99.range86-159.btcentralplus.com 0 24 586544 
+mail.dangoteglobal.com 3 87 1018665 20120116173106
+209.85.224.88 0 3 13626 
+109.174.149.210 0 8 105180 
+host86-162-205-132.range86-162.btcentralplus.com 0 72 439302 
+cpc2-enfi15-2-0-cust167.hari.cable.virginmedia.com 0 24 563349 
+cpc1-finc10-0-0-cust703.4-2.cable.virginmedia.com 0 12 293272 
+87-194-183-64.bethere.co.uk 3 3 1587414 20120110125211
+213-1-255-66.capitalharlow.mezzonet.net 0 12 293272 
+82-69-135-253.dsl.in-addr.zen.co.uk 0 32 293272 
+64.88.164.100 3 3 44907 20120122031053
+209.85.226.94 3 3 20505 20120114124938
+82-68-159-62.dsl.in-addr.zen.co.uk 0 4 83130 
+212.183.128.11 0 12 293272 
+wg1.staffordshire.gov.uk 0 24 293272 
+5acfbab3.bb.sky.com 0 12 293272 
+pat.emea.verizonbusiness.com 0 12 293272 
+2.50.242.238 9 105 1267716 20120117054812
+host81-149-93-222.in-addr.btopenworld.com 0 6 44942 
+mail.natcen.ac.uk 0 12 293272 
+ip-217-204-71-178.easynet.co.uk 2 14 354574 20120130111554
+urlc3.mail.mud.yahoo.com 4 4 59876 20120130140114
+host86-166-231-116.range86-166.btcentralplus.com 2 58 679110 20120126002734
+91.224.27.228 0 12 293272 
+c-24-20-120-64.hsd1.or.comcast.net 6 111 1118745 20120105010208
+67-60-31-46.cpe.cableone.net 0 12 293272 
+123.125.67.155 3 3 44907 20120111215027
+webdefence.cluster-j.websense.net 0 12 293272 
+212.183.128.92 0 12 293272 
+31.93.183.228 0 12 293272 
+38.108.87.99 6 129 2895147 20120113163334
+92.42.55.190 3 63 1587087 20120117112135
+host81-147-60-170.range81-147.btcentralplus.com 0 3 33096 
+109-231-209-66.cust-109.exponential-e.net 0 36 879816 
+83-244-228-214.cust-83.exponential-e.net 0 12 293272 
+c-24-18-172-7.hsd1.wa.comcast.net 3 60 826275 20120109051848
+195.194.236.103 0 16 245872 
+78-86-163-186.zone2.bethere.co.uk 0 116 293272 
+host-80-193-242-181.static.cable.virginmedia.com 0 12 293272 
+74.125.78.90 0 4 211562 
+mail.mtl.mw 16 140 2504790 20120126101201
+41.75.204.28 12 180 4118853 20120120221326
+host109-148-105-48.range109-148.btcentralplus.com 3 24 431388 20120114192054
+81.144.190.231 0 12 0 
+ycar2.mobile.bf1.yahoo.com 0 3 453498 
+5ac0f7a6.bb.sky.com 6 114 1655034 20120123152306
+109-204-39-65.vcf.mops2.co.uk 0 36 293272 
+ee-in-f153.1e100.net 2 2 18326 20120125154944
+72-21-198-66.amazon.com 3 90 933912 20120118201003
+78.197.189.80.dyn.plus.net 0 12 293272 
+51.60.in-addr.arpa.tm.net.my 0 12 293272 
+ipv4-95-152-202-34.static.as8844.net 0 24 586544 
+host217-41-55-207.in-addr.btopenworld.com 2 60 684948 20120130151214
+host86-173-9-150.range86-173.btcentralplus.com 4 94 1372682 20120130120051
+host94-175-249-6.not-set-yet.virginmedia.net 0 40 293272 
+46.208.179.239 0 20 293272 
+50.23.239.14-static.reverse.softlayer.com 21 21 314349 20120124155858
+port-209.sbp-pathways.adsl.newnet.co.uk 8 132 3008018 20120130122236
+soho68-134.sohonet.co.uk 9 72 4076847 20120124105418
+host86-150-33-193.range86-150.btcentralplus.com 3 84 919728 20120118213505
+cotat973.static.otenet.gr 3 90 2254533 20120105104835
+80-45-132-40.static.dsl.as9105.com 0 10 133126 
+dsl-212-135-221-124.dsl.easynet.co.uk 0 12 293272 
+212.58.43.2 0 4 25488 
+58.68.130.200 3 3 44907 20120110065225
+93-96-163-169.zone4.bethere.co.uk 0 8 105180 
+host109-158-1-105.range109-158.btcentralplus.com 0 68 293272 
+89.202.128.66 24 264 4185384 20120112133314
+6.126.146.82.ipv4.evonet.be 2 64 857790 20120126143716
+building070704.claranet.co.uk 3 84 919728 20120116173051
+74.125.92.84 0 4 112214 
+cpc3-soli5-2-0-cust917.perr.cable.virginmedia.com 0 12 65076 
+s27-07.opera-mini.net 3 42 260766 20120110070406
+81.134.239.154 0 12 293272 
+31.92.125.42 0 16 105180 
+5e0c555c.bb.sky.com 0 12 293272 
+vpn.franciscopartners.co.uk 0 12 293272 
+host81-145-110-46.range81-145.btcentralplus.com 3 93 946911 20120124144542
+com18-136.mcscom.mn 0 15 127023 
+proxy11.messagelabs.net 0 36 857904 
+cpc4-acto1-2-0-cust192.4-2.cable.virginmedia.com 0 12 293272 
+host86-137-90-99.range86-137.btcentralplus.com 0 12 293272 
+ec2-184-73-82-130.compute-1.amazonaws.com 6 6 77226 20120113201510
+81-178-181-248.dsl.pipex.com 15 225 4671822 20120110112509
+027fdab5.bb.sky.com 0 12 293272 
+193.113.57.167 0 12 293272 
+parent-proxy-des-nat.zqwdrqsz.com 0 9 0 
+121.243.116.133.static-chennai.vsnl.net.in 3 87 928848 20120124105358
+mac-c02df0tadc7c.admbs.mbs.ac.uk 0 12 293272 
+ez-in-f84.1e100.net 3 9 126009 20120117114643
+host86-167-27-179.range86-167.btcentralplus.com 18 213 3360519 20120123114042
+193.116.157.158 0 12 293272 
+87.86.134.146 0 12 293272 
+110.8.166.212 0 3 453498 
+host86-145-21-127.range86-145.btcentralplus.com 0 12 293272 
+195.194.75.205 0 24 586544 
+82.33.210.228 3 6 41943 20120117065604
+talbot.holbud.co.uk 0 24 586544 
+triband-mum-120.60.15.172.mtnl.net.in 3 87 2404359 20120123163256
+85.116.188.2 0 12 0 
+188.29.48.67.threembb.co.uk 0 24 586544 
+host86-176-166-136.range86-176.btcentralplus.com 0 12 293272 
+194.72.121.18 4 64 741944 20120131135103
+msnbot-65-52-108-22.search.msn.com 3 6 52026 20120115085706
+host81-130-208-44.in-addr.btopenworld.com 0 12 293272 
+188.28.104.246.threembb.co.uk 2 58 679110 20120125144655
+mx00.ardlin.net 0 14 316164 
+74.125.78.95 6 16 226724 20120117214025
+164.143.240.33 0 12 293272 
+gate221.custdc.net 0 4 42346 
+proxy37.messagelabs.net 0 27 595722 
+212.74.97.221 0 36 879816 
+host81-152-188-127.range81-152.btcentralplus.com 0 12 293272 
+212.23.51.7 0 33 666118 
+www2.londonweb.net 0 24 293272 
+host81-158-40-0.range81-158.btcentralplus.com 0 21 403902 
+cpc1-watf8-2-0-cust762.15-2.cable.virginmedia.com 10 102 2000334 20120131185728
+62.196.241.83.in-addr.dgcsystems.net 3 33 339807 20120117144028
+38.100.21.20 45 60 489924 20120112092018
+87.86.168.34 0 12 293272 
+109-231-192-149.cust-109.exponential-e.net 0 12 293272 
+sjck-dmz-wsa-2.cisco.com 0 12 293272 
+cpc3-hers3-0-0-cust660.6-3.cable.virginmedia.com 2 60 685098 20120126124249
+host1.m5media1.com 24 24 247542 20120105131826
+cpc7-bexl7-2-0-cust21.2-3.cable.virginmedia.com 0 14 316164 
+209.85.224.95 0 6 97824 
+194.154.121.4 0 12 293272 
+webmail.reldom.org 3 81 852816 20120123134632
+212.140.165.49 0 3 33096 
+41.203.64.131 12 108 994554 20120117144522
+46-64-72-149.zone15.bethere.co.uk 0 12 293272 
+ec2-107-21-154-107.compute-1.amazonaws.com 10 10 121434 20120130204056
+84-203-36-190.mysmart.ie 3 84 919728 20120116135024
+port-45.xxx.th.newnet.co.uk 0 12 293272 
+s02-11.opera-mini.net 0 6 906996 
+host86-180-89-65.range86-180.btcentralplus.com 0 12 293272 
+fpc1-trow3-0-0-cust4.aztw.static.cable.virginmedia.com 0 72 293272 
+cpc1-stav9-0-0-cust1285.17-3.cable.virginmedia.com 3 9 143835 20120113152731
+mail.bunzlvend.com 0 36 879816 
+mail.migrationsolutions.com 0 12 293272 
+host109-149-73-78.range109-149.btcentralplus.com 6 94 2038404 20120130131541
+194.0.236.86 0 8 245872 
+cpc2-pres2-0-0-cust918.18-3.cable.virginmedia.com 0 12 293272 
+bzq-179-147-107.static.bezeqint.net 0 12 132384 
+80.169.174.242 0 12 293272 
+209.85.224.94 0 3 19890 
+inet-aumc07-o.oracle.com 0 58 293272 
+mail1.cselimited.co.uk 0 12 293272 
+msnbot-207-46-195-198.search.msn.com 3 3 282000 20120122015752
+94.236.99.250 22 22 231323 20120130182558
+31.185.207.77 3 90 1023714 20120111154508
+212.183.128.237 0 12 293272 
+ez-in-f81.1e100.net 0 24 640701 
+host109-153-111-135.range109-153.btcentralplus.com 0 4 83130 
+host-64-47-5-4.masergy.com 0 12 293272 
+72.14.202.82 0 3 8391 
+193.82.145.106 0 12 293272 
+187-11-33-218.dsl.telesp.net.br 0 3 453498 
+83-244-158-42.cust-83.exponential-e.net 11 265 4348990 20120126112345
+144.160.226.53 0 12 293272 
+212.183.128.207 0 12 293272 
+94.98.140.236 3 102 1510203 20120123172426
+41.85.139.66 12 102 1316241 20120117092046
+uawifi-nat-210-23.arizona.edu 0 12 293272 
+client-213-81-126-9.brhm-bam-3.brhm.adsl.tesco.net 9 186 5458362 20120102210124
+88-119-151-21.static.zebra.lt 0 6 459477 
+173.225.17.50 6 6 89814 20120120073617
+pd952632f.dip0.t-ipconnect.de 0 2 22064 
+cpc2-stok5-0-0-cust978.1-4.cable.virginmedia.com 0 12 293272 
+host86-152-7-32.range86-152.btcentralplus.com 0 76 589140 
+cpc4-heme4-0-0-cust209.9-1.cable.virginmedia.com 6 159 3202086 20120125014104
+host86-154-78-16.range86-154.btcentralplus.com 0 12 293272 
+02dd8997.bb.sky.com 0 18 439302 
+host-92-20-17-33.as13285.net 0 12 293272 
+31-221-16-158.cust-31.exponential-e.net 0 12 293272 
+80.79.208.20 15 384 4436359 20120105161749
+83-244-245-98.cust-83.exponential-e.net 0 24 25488 
+212.183.128.85 0 20 398452 
+180.215.172.6 3 90 937791 20120117100045
+postnews2.google.com 0 9 231591 
+74.125.64.89 0 8 20224 
+217.23.233.124 6 78 2072682 20120103094049
+proxy43.messagelabs.net 2 6 52232 20120131114026
+82-69-76-102.dsl.in-addr.zen.co.uk 0 24 586544 
+207.204.104.64 9 138 3404511 20120120143326
+41-134-15-90.dsl.mweb.co.za 9 72 671697 20120131065640
+host86-143-44-221.range86-143.btcentralplus.com 0 12 293272 
+41.190.93.171 15 114 1333107 20120111140158
+82.132.210.109 0 12 293272 
+ec2-107-22-19-174.compute-1.amazonaws.com 6 6 64638 20120113031912
+74.125.92.80 0 4 96598 
+74.125.156.83 0 8 17428 
+194.74.151.3 0 24 293272 
+209.85.226.86 0 9 169269 
+host81-149-212-99.in-addr.btopenworld.com 0 12 293272 
+91.84.15.25 3 87 928710 20120125105056
+77.51.250.2 3 24 431388 20120119133344
+host-89-240-185-140.as13285.net 0 24 586544 
+mail.masterpoint.co.uk 0 12 293272 
+194.176.219.2 0 36 293272 
+fe1-gw.sos.fmn.uk.net 8 98 2158374 20120131091256
+190-179-204-59.speedy.com.ar 6 153 2916780 20120118185144
+v2035.eth0.proxy03.pf3.sxgfl.ifl.net 2 66 1043076 20120130091320
+124.105.245.162.pldt.net 2 58 619140 20120128065951
+135.196.110.134 0 12 293272 
+guard.hivemind.org 0 24 318760 
+46-18-217-226.virtual1.co.uk 0 24 586544 
+user1.west.com 2 2 309056 20120117184852
+8.18.36.22 2 44 785834 20120125203625
+92.244.76.144 0 2 302332 
+gatekeeper.storcase-eu.com 0 6 146636 
+host81-139-163-18.in-addr.btopenworld.com 0 12 25488 
+host6-25-static.93-94-b.business.telecomitalia.it 3 153 2926455 20120103113508
+202.156.11.11.cache.maxonline.com.sg 0 12 293272 
+110-16-104-213.static.virginmedia.com 0 12 293272 
+82.153.203.206 0 8 105180 
+188.64.200.127 0 12 293272 
+188-222-185-112.zone13.bethere.co.uk 0 12 293272 
+bd051d89.virtua.com.br 3 15 978861 20120109123838
+gate.next.co.uk 0 33 666118 
+triband-del-59.177.232.133.bol.net.in 6 102 1494762 20120117105046
+93-96-3-232.zone4.bethere.co.uk 0 12 293272 
+cpc1-haye18-0-0-cust155.haye.cable.virginmedia.com 0 12 293272 
+95.147.2.219 0 12 293272 
+ip-80-238-1-133.bskyb.com 6 157 3265416 20120119162057
+h111.n1.ips.mtn.co.ug 12 99 963915 20120112084420
+balvenie.enterprise.abslpower.com 0 8 105180 
+199.67.138.48 0 15 0 
+mailgate.dpie.com 0 100 2256760 
+host81-143-83-203.in-addr.btopenworld.com 0 18 439302 
+vc-gp-n-41-19-51-104.umts.vodacom.co.za 0 3 33096 
+212.219.188.68 0 12 293272 
+83.229.65.43 9 162 1685343 20120120112441
+server44.customscoop.com 123 123 1387374 20120131113613
+212.183.128.12 3 87 1167412 20120117130749
+89.238.157.210 0 24 491744 
+176-35-64-190.xdsl.murphx.net 6 102 980694 20120105082256
+cpc3-haye17-2-0-cust80.haye.cable.virginmedia.com 0 24 586544 
+209.85.226.83 0 3 453498 
+gate-isdn.admin.theplanet.net 0 30 245872 
+135.196.5.36 0 12 293272 
+74.125.78.87 0 3 4803 
+5ade6266.bb.sky.com 0 12 293272 
+74.125.64.91 2 21 414681 20120131154146
+213.1.255.146 0 12 293272 
+outside.eu.insight.com 0 30 732574 
+88-202-224-17.rdns.as8401.net 0 12 245872 
+195.166.55.170 6 42 6474222 20120117074235
+static.88-198-25-216.clients.your-server.de 3 3 33687 20120104151906
+80.70.54.5 0 12 293272 
+213.207.42.6 0 26 845116 
+217.138.11.150 32 684 14599151 20120131095359
+macphie-adsl.demon.co.uk 0 76 295868 
+195.153.40.189 6 78 2802114 20120110161908
+82.71.186.61 0 24 586544 
+c-69-181-42-54.hsd1.ca.comcast.net 6 108 1088235 20120116214456
+host86-165-3-79.range86-165.btcentralplus.com 0 12 293272 
+43ob.scansafe.net 0 8 105180 
+hosted-by.leaseweb.com 6 6 89814 20120111105824
+dslb-088-073-115-104.pools.arcor-ip.net 3 78 2060649 20120124112903
+cpc2-nmal16-0-0-cust400.croy.cable.virginmedia.com 3 72 2037294 20120109063942
+160.77.123.79.in-addr.arpa 0 12 293272 
+host-85-201-63-61.brutele.be 0 9 66192 
+72.14.202.89 0 7 81406 
+94-30-25-45.xdsl.murphx.net 0 12 293272 
+82-68-197-118.dsl.in-addr.zen.co.uk 0 21 533166 
+cpc2-kemp6-2-0-cust123.9-2.cable.virginmedia.com 0 12 293272 
+88-119-152-242.static.zebra.lt 0 2 302332 
+197.251.149.168 12 78 2956623 20120108165950
+host217-42-214-144.range217-42.btcentralplus.com 3 84 919728 20120103200836
+194.80.22.133 0 12 293272 
+85-210-71-23.dynamic.dsl.as9105.com 0 24 586544 
+inet-emmc02-o.oracle.co.uk 0 12 293272 
+194.216.131.21 0 12 293272 
+cellgate.btcellnet.net 3 99 957024 20120109145244
+74.125.90.83 2 2 26958 20120131151124
+host86-180-127-10.range86-180.btcentralplus.com 0 40 962946 
+mail.evolvetele.com 0 12 293272 
+83.229.6.157 27 240 3570345 20120104112100
+195.182.68.150 0 3 453498 
+5adbe8ea.bb.sky.com 9 195 3883065 20120117001230
+82.132.211.231 0 10 133126 
+unalloc-80-249-247-166.net1.ie 3 72 1253316 20120104120952
+82.71.192.193 0 40 376402 
+196-215-25-21.dynamic.isadsl.co.za 3 60 1152483 20120111090209
+196.215.137.114 12 120 1023684 20120117073811
+80.249.48.136 0 8 3936 
+194.153.138.23 12 225 4426077 20120104163441
+cpc1-nmal17-2-0-cust7.croy.cable.virginmedia.com 0 48 25488 
+sp2.careerjet.net 30 30 449070 20120122084052
+ez-in-f92.1e100.net 0 9 54465 
+118.101.250.195 0 2 302332 
+mail.masterline.in 0 3 33096 
+sw1.s1.uk.shinenetwork.com 3 105 1064379 20120125100010
+c-98-234-238-18.hsd1.ca.comcast.net 3 96 951789 20120124231640
+cpc2-hari10-2-0-cust41.hari.cable.virginmedia.com 0 12 293272 
+msnbot-207-46-12-123.search.msn.com 3 3 2008761 20120122174818
+host86-160-33-114.range86-160.btcentralplus.com 21 258 6344964 20120105114710
+179.39.125.91.dyn.plus.net 0 12 245872 
+host217-45-203-73.in-addr.btopenworld.com 0 12 293272 
+vc-gp-s-41-30-175-142.umts.vodacom.co.za 0 3 33096 
+mail.iasb.org.uk 0 12 293272 
+no-reverse-defined.iwcommunitylearning.ac.uk 0 12 293272 
+195.246.109.29 0 18 439302 
+198.175.152.211 3 105 1292574 20120120142314
+fynn-adsl.demon.co.uk 0 8 105180 
+95.71.65.72 18 18 197967 20120118020130
+213.122.172.230 18 270 5944881 20120118115908
+12.129.87.3 0 8 105180 
+80.248.230.98 2 2 21764 20120125160558
+msnbot-207-46-195-207.search.msn.com 2 4 24772 20120128195029
+79.127.93.58 3 96 2272119 20120123164957
+host-92-12-125-19.as43234.net 0 12 293272 
+193.1.209.101 2 68 646568 20120130114140
+193.113.48.17 6 144 3255331 20120117122507
+217.111.163.2 2 58 673200 20120126011542
+cpc2-finc14-2-0-cust485.4-2.cable.virginmedia.com 0 12 293272 
+marsant.co.il 0 3 33096 
+8.10.7.131 6 87 964635 20120113154238
+host86-166-5-145.range86-166.btcentralplus.com 3 90 1027647 20120111104937
+85.12.96.12 0 12 293272 
+cc-networks-190-183.lut.ac.uk 0 12 293272 
+94-193-219-188.zone7.bethere.co.uk 0 64 293272 
+193.57.56.10 3 63 1202082 20120123161034
+fpc1-nmal10-0-0-cust4.croy.static.cable.virginmedia.com 0 24 25488 
+cust106-dsl93-89-129.idnet.net 0 8 105180 
+host-92-24-98-148.ppp.as43234.net 2 52 1511692 20120129193122
+99-187-136-143.lightspeed.clmasc.sbcglobal.net 4 94 1409938 20120125210541
+79.173.139.61 6 87 2507142 20120116100940
+85.31.219.25 6 6 937221 20120102075526
+69.80.108.223 2 56 613152 20120130221053
+212.219.63.66 0 16 293272 
+5ad40309.bb.sky.com 3 84 919728 20120105104626
+cpc2-cmbg6-0-0-cust555.5-4.cable.virginmedia.com 0 12 293272 
+awork063015.netvigator.com 6 102 1081647 20120125080910
+217-105-222-30.edu.multikabel.nl 0 3 33096 
+host81-138-20-121.in-addr.btopenworld.com 0 24 586544 
+static-208-80-194-67.as13448.com 6 6 89814 20120116041846
+193.27.213.50 0 4 83130 
+95.148.16.62 0 12 25488 
+209.85.226.90 0 3 8115 
+31-221-1-53.cust-31.exponential-e.net 15 195 1199334 20120106111618
+ec2-107-20-66-173.compute-1.amazonaws.com 6 6 82382 20120131004336
+dsl-hvkbrasgw1-fe81f800-2.dhcp.inet.fi 0 12 293272 
+ip212-238-97-250.hotspotsvankpn.com 0 10 0 
+services-nath-uk.westlb.co.uk 0 4 25488 
+174.34.147.90.rdns.ubiquityservers.com 6 168 1839456 20120104235719
+82.198.250.66 0 12 293272 
+85.205.122.153 0 12 293272 
+remote.extronics.com 0 12 245872 
+host109-158-3-235.range109-158.btcentralplus.com 6 110 2081266 20120127164435
+mail.netone.co.zw 36 123 1120089 20120120094945
+d57da712.static.ziggozakelijk.nl 0 12 293272 
+72.14.202.90 3 10 44955 20120119063852
+v2035.eth0.proxy01.pf4.sxgfl.ifl.net 0 32 293272 
+78-62-148-149.static.zebra.lt 0 3 453498 
+195.171.160.215 0 12 293272 
+ip-83-134-23-248.dsl.scarlet.be 2 2 29938 20120129132122
+98-9-17-86.static.virginmedia.com 0 4 83130 
+64.233.182.89 0 9 651276 
+209.85.224.84 0 3 4815 
+194.83.16.10 0 12 293272 
+tb-in-f92.1e100.net 0 9 246909 
+112-79-36-8.live.vodafone.in 9 108 1238463 20120102170559
+195.226.62.165 0 22 233034 
+186.214.152.58.static.host.gvt.net.br 3 3 25779 20120123134039
+82-69-23-212.dsl.in-addr.zen.co.uk 10 100 2042872 20120126185711
+182.68.39.86 2 37 592344 20120103101050
+pool-108-1-241-166.altnpa.east.verizon.net 8 180 856946 20120127211334
+host109-156-217-153.range109-156.btcentralplus.com 0 12 293272 
+host217-36-226-196.in-addr.btopenworld.com 0 10 133126 
+194.9.246.48 3 87 1018665 20120116171922
+host81-149-189-156.in-addr.btopenworld.com 0 12 293272 
+84.233.139.196 0 120 1534219 
+host-92-25-29-42.as13285.net 3 81 2221905 20120123190012
+ee-in-f155.1e100.net 2 7 488890 20120125154956
+2.25.52.131 0 12 293272 
+jark.gotadsl.co.uk 0 12 293272 
+5acba308.bb.sky.com 0 12 293272 
+188-122-33-32.xdsl.5gdsl.com 0 12 293272 
+212.159.198.85 0 6 85726 
+41-134-15-210.dsl.mweb.co.za 0 3 33096 
+2.29.151.88 0 12 293272 
+pound.admin.cam.ac.uk 0 24 293272 
+hide.forcol.co.uk 0 12 293272 
+host-80-193-68-109.ag1.uk.sharedband.net 0 12 293272 
+pc5.par2adsl.ftech.co.uk 0 12 293272 
+209.85.224.91 0 6 119031 
+ams3-dmz-wsa-4.cisco.com 0 20 25488 
+196.1.105.91 0 3 33096 
+msnbot-157-55-112-227.search.msn.com 3 3 26994 20120113105934
+203-6-205-11.reed-elsevier.com.au 3 87 924777 20120111013811
+ld4-filter.hertsgfl.org.uk 0 12 293272 
+cpc22-watf10-2-0-cust324.15-2.cable.virginmedia.com 18 243 3247674 20120110185205
+195.248.81.241 5 130 2716404 20120131122626
+suffolk_hide.cache.e2bn.org 0 20 293272 
+94-30-75-42.xdsl.murphx.net 25 385 7766055 20120131150257
+212.50.184.130 0 24 586544 
+brahamst.essexschools.org.uk 0 24 293272 
+02dc772f.bb.sky.com 0 12 293272 
+mailgate.symons-gay.co.uk 0 12 293272 
+85-189-32-179.clear.managedbroadband.co.uk 0 24 293272 
+host31-52-190-86.range31-52.btcentralplus.com 0 12 293272 
+41.221.224.92 0 6 66192 
+5e01fee3.bb.sky.com 0 12 293272 
+ez-in-f94.1e100.net 0 6 20814 
+mail.buechler.org 0 30 732574 
+host217-42-249-81.range217-42.btcentralplus.com 0 12 293272 
+95.148.254.107 0 12 293272 
+host86-155-2-118.range86-155.btcentralplus.com 0 6 85726 
+apac-ext.nics.nxp.com 12 123 1644480 20120102060056
+host81-137-144-234.in-addr.btopenworld.com 15 180 4753581 20120124144952
+203.82.92.111 2 6 350242 20120131031322
+78-33-182-97.static.enta.net 0 12 293272 
+d122-109-229-162.per802.wa.optusnet.com.au 0 12 293272 
+195.27.52.146 0 60 293272 
+137.108.145.39 0 12 293272 
+kermit.coopervision.eu.com 0 12 293272 
+host109-157-45-107.range109-157.btcentralplus.com 0 12 293272 
+fw1tre.e-bros.fi 0 2 302332 
+v2035.eth0.proxy02.pf2.sxgfl.ifl.net 0 12 293272 
+212.183.128.108 0 12 293272 
+tataelxsi.co.in 42 660 2796444 20120111141022
+78-86-122-57.zone2.bethere.co.uk 0 22 583948 
+clweb1.srv.redstone-isp.net 3 84 919728 20120104111219
+150.240.187.81.in-addr.arpa 0 12 293272 
+sp5.qualcomm.com 3 69 1163727 20120120193307
+220.181.51.80 3 3 44907 20120119213046
+109-73-167-116.static.dimenoc.com 3 3 44907 20120105194026
+85.159.128.127 0 12 293272 
+138.106.53.11 0 8 271222 
+188-220-63-167.zone11.bethere.co.uk 15 346 3175105 20120130142339
+88-111-57-218.dynamic.dsl.as9105.com 3 87 928485 20120113154058
+host86-157-190-146.range86-157.btcentralplus.com 6 88 2326030 20120131074345
+host213-123-246-145.in-addr.btopenworld.com 8 146 3732705 20120131145448
+74.125.90.82 0 10 549956 
+194.74.226.190 0 60 586544 
+client-80-4-219-250.cht-bng-011.adsl.virginmedia.net 0 12 293272 
+122.184.133.230 3 9 75039 20120117073141
+31-221-7-53.cust-31.exponential-e.net 3 93 1032849 20120119165440
+123.49.1.90 2 2 21764 20120125160502
+webmail.excelind.com 3 93 942669 20120107091554
+host86-143-187-43.range86-143.btcentralplus.com 0 24 293272 
+host-80-194-38-200.static.virginmedia.com 0 12 293272 
+no-dns-yet.ashford.orbital.net 0 72 586544 
+ec2-107-20-5-216.compute-1.amazonaws.com 3 3 44907 20120125094059
+80.12.110.204 4 16 415876 20120130142329
+cpc17-nmal17-2-0-cust396.croy.cable.virginmedia.com 0 12 293272 
+mail.moat.co.uk 0 12 245872 
+212.183.128.47 0 12 293272 
+host81-142-189-98.in-addr.btopenworld.com 0 32 135382 
+c213-89-57-125.bredband.comhem.se 0 36 293272 
+10-209-245-216.reverse.lstn.net 2 2 29938 20120131132042
+109.76.150.1 0 12 0 
+194.62.65.10 0 12 293272 
+5aca53bf.bb.sky.com 3 84 919728 20120124201414
+218.20.169.217.in-addr.arpa 0 12 293272 
+80.249.48.138 0 8 64811 
+burgessfurniture.demon.co.uk 4 66 647490 20120130135215
+camira2.gotadsl.co.uk 0 10 273818 
+109.224.28.244 0 12 293272 
+92.40.253.161.threembb.co.uk 0 12 293272 
+202.62.79.34 6 108 1282086 20120121080024
+adsl-217-154-24-210.mistral.co.uk 2 28 173844 20120131110357
+213.52.138.34 0 12 293272 
+ukdia02646-bracknell-forest.cpe.uk.viatel.net 0 39 642217 
+client-80-5-31-33.cht-bng-013.adsl.virginmedia.net 0 12 293272 
+82.211.74.62 0 24 586544 
+79-121-227-210.ttl.managedbroadband.co.uk 0 34 293272 
+fw.cmilabsplc.com 0 70 293272 
+p5b3dd7f0.dip.t-dialin.net 0 24 491744 
+host81-158-119-30.range81-158.btcentralplus.com 0 12 293272 
+cpc8-watf9-2-0-cust114.15-2.cable.virginmedia.com 0 40 669674 
+vc-gp-n-41-15-11-170.umts.vodacom.co.za 3 15 6465375 20120118123453
+mail.npg.org.uk 0 12 293272 
+61.95.164.172 9 69 1453188 20120103041055
+host109-155-253-64.range109-155.btcentralplus.com 3 90 934236 20120122114759
+proxy.egov.sc 2 33 419417 20120116092954
+193.129.24.1 0 12 293272 
+89.213.253.54 0 12 293272 
+setnip02.ericsson.net 0 12 293272 
+27.38.43.36 42 42 419811 20120109013549
+78-105-138-229.zone3.bethere.co.uk 0 12 25488 
+z50-03.opera-mini.net 75 114 578679 20120112064510
+decs.dstl.gov.uk 3 87 1018665 20120117141632
+host-2-103-214-27.as13285.net 6 120 1204176 20120113154826
+164.151.129.211.static.because.dul.is.rfc.ignorant.gov.za 6 72 1244805 20120125084931
+80.156.46.177 0 12 293272 
+cpc2-hers2-0-0-cust511.6-3.cable.virginmedia.com 6 144 3003747 20120118154205
+host86-168-249-103.range86-168.btcentralplus.com 0 12 293272 
+83-244-221-130.cust-83.exponential-e.net 0 24 293272 
+murray144.demon.co.uk 0 12 293272 
+navaho-exchange2.aldenham.com 0 60 1466360 
+87.236.59.3 9 153 3038265 20120103170218
+host81-136-203-42.in-addr.btopenworld.com 3 105 1417530 20120103140607
+71.subnet125-163-48.speedy.telkom.net.id 0 3 453498 
+195.59.153.223 0 36 879816 
+79.98.232.12 0 3 33096 
+217-155-32-38.dsl.in-addr.zen.co.uk 0 26 609436 
+78-105-127-166.zone3.bethere.co.uk 0 12 293272 
+host-196.218.243.74-static.tedata.net 3 3 342468 20120117115852
+j-s-re21801.li.man.ac.uk 3 87 928848 20120105154137
+host217-39-163-241.in-addr.btopenworld.com 0 12 293272 
+tyo117.gate.nec.co.jp 0 3 33096 
+host217-46-147-129.in-addr.btopenworld.com 0 12 293272 
+5ad73fe0.bb.sky.com 0 12 293272 
+mx9.fundutzi.com 0 48 293272 
+94-195-193-108.zone9.bethere.co.uk 111 936 20668722 20120124154653
+temp.tankers.uk.com 0 40 564728 
+82-70-172-108.dsl.in-addr.zen.co.uk 0 12 293272 
+169.145.128.32 0 3 33096 
+194.75.241.100 0 42 729912 
+193.128.115.6 0 8 166260 
+82-68-177-157.dsl.in-addr.zen.co.uk 0 12 293272 
+209.85.224.90 0 3 14526 
+83.171.0.150 0 2 302332 
+host-92-27-144-22.static.as13285.net 0 12 293272 
+74.125.78.82 0 3 8004 
+odchide13.zqwdrqsz.com 0 12 293272 
+jacobs.surreycc.gov.uk 0 12 245872 
+82-68-225-246.dsl.in-addr.zen.co.uk 0 16 376402 
+tb-in-f94.1e100.net 0 3 30072 
+109.79.168.185 6 54 335970 20120106193930
+ee-in-f150.1e100.net 0 2 3214 
+pool-108-45-116-93.washdc.fios.verizon.net 12 180 7053054 20120101022902
+88.214.193.166 21 21 314349 20120129045835
+webdefence.cluster-a.websense.net 8 202 3314124 20120130132944
+31.86.3.7 0 10 133126 
+ec2-50-19-127-124.compute-1.amazonaws.com 0 2 160146 
+217-155-42-125.dsl.in-addr.zen.co.uk 0 12 293272 
+80.168.208.37 2 14 354574 20120130142235
+host-92-21-124-57.as13285.net 0 12 293272 
+193-30-111-170.cust-193.exponential-e.net 0 36 293272 
+cpc4-haye15-0-0-cust619.haye.cable.virginmedia.com 0 12 293272 
+aicw6kuq.emirates.net.ae 0 12 293272 
+blink.ivegotafang.com 3 3 44907 20120105120829
+82.211.65.109 0 12 293272 
+94-193-97-247.zone7.bethere.co.uk 18 222 6564399 20120120114217
+adsl-fixed-239-85.heliweb.de 0 4 0 
+17.173.38.86.ip.erdves.lt 0 2 302332 
+86.96.228.84 0 21 248001 
+static-208-80-194-32.as13448.com 6 6 89814 20120116223013
+mailgate.mobilemarkeurope.co.uk 0 22 293272 
+213.121.205.173 0 24 293272 
+cpe-76-93-189-45.san.res.rr.com 9 135 2148291 20120121001648
+customer59556.109.kt.cust.t-mobile.co.uk 0 12 293272 
+host-92-28-62-115.as13285.net 6 99 987396 20120103234344
+98-82-28-86.static.virginmedia.com 0 12 293272 
+027c0eb9.bb.sky.com 0 12 293272 
+188-39-25-226.static.enta.net 0 20 293272 
+static-208-80-194-37.as13448.com 9 9 134721 20120117160233
+ec2-79-125-21-76.eu-west-1.compute.amazonaws.com 0 12 293272 
+82.198.250.69 0 12 293272 
+stargate.sevenoaksschool.org 0 6 146636 
+host81-149-252-30.in-addr.btopenworld.com 0 48 586544 
+pnat.msdpt.k12.in.us 3 66 1178751 20120119175807
+17-71-20-82.static.virginmedia.com 3 84 919728 20120117072506
+87.48.130.250 6 15 53586 20120112125428
+205.137.217.206.host.nwnx.net 3 3 33687 20120112150030
+91.224.27.227 8 104 1891040 20120131090246
+mail.agilitypr.co.uk 10 100 1928938 20120126155828
+109-93-190-221.dynamic.isp.telekom.rs 0 2 302332 
+ip-87-85-254-178.easynet.co.uk 6 177 1032849 20120119164429
+ec2-107-22-145-119.compute-1.amazonaws.com 3 3 44907 20120114095418
+host86-185-73-250.range86-185.btcentralplus.com 36 408 16144041 20120109135337
+77-44-112-77.xdsl.murphx.net 0 12 293272 
+02da38c5.bb.sky.com 3 84 919728 20120106160221
+195.50.96.14 0 26 687810 
+82.153.154.42 0 12 293272 
+ez-in-f87.1e100.net 3 9 164124 20120110120544
+la.securityspace.com 60 60 6647991 20120125083944
+mail.jfpsgroup.com 6 123 1371414 20120117024743
+tnbe20.tnb.com 0 2 22892 
+212.183.128.93 0 44 879816 
+213.120.128.147 17 197 3968092 20120130144523
+host90-152-31-250.ipv4.regusnet.com 0 24 586544 
+195.33.56.42 0 6 0 
+193.113.48.7 6 84 2267370 20120110163234
+194.169.1.99 0 12 293272 
+209.85.224.87 0 3 15255 
+82.198.250.6 0 12 293272 
+193.180.166.215 2 2 21764 20120125160514
+colo-69-172-133-123.pilosoft.com 2 2 2175882 20120131183225
+109-231-209-226.cust-109.exponential-e.net 0 12 293272 
+msnbot-207-46-12-162.search.msn.com 3 6 52026 20120114224330
+mail.kathrein.co.za 6 15 12831462 20120117083003
+mail.varlink.co.uk 4 72 778824 20120126153545
+5ac826a5.bb.sky.com 3 90 1027422 20120116184324
+5ac73079.bb.sky.com 0 12 293272 
+nprv1-adsl.demon.co.uk 0 30 732574 
+95.149.159.160 9 153 3112533 20120124164449
+83-244-146-66.cust-83.exponential-e.net 9 105 1171434 20120118135758
+cpc6-lock3-2-0-cust200.6-1.cable.virginmedia.com 0 21 403902 
+z22-16.opera-mini.net 21 60 317166 20120111201633
+74.125.78.93 0 4 10328 
+84-93-217-50.plus.net 0 12 293272 
+217.33.77.199 0 12 293272 
+proxy30.messagelabs.net 6 75 2111689 20120118173011
+p5b2d880b.dip0.t-ipconnect.de 6 117 2853744 20120102091002
+eth0.fw.acps.co.uk 0 12 293272 
+5ad66c0b.bb.sky.com 3 102 1510203 20120120163822
+gateway.eu.didata.com 0 78 293272 
+gc-na212.alcatel.fr 0 3 33096 
+81.95.48.63 59 59 0 20120130062030
+fw.nightfreight.co.uk 0 120 2932720 
+195.99.170.84 0 12 293272 
+50-57-190-97.static.cloud-ips.com 3 3 44907 20120103121458
+27.5.214.216 3 87 928485 20120108105145
+5ad02250.bb.sky.com 0 24 586544 
+74-181-254-62.static.virginmedia.com 0 12 293272 
+193.47.248.4 0 36 293272 
+adsl-59-145.37-151.net24.it 0 10 133126 
+74.125.64.86 3 11 362395 20120103214815
+cpc2-rdng4-0-0-cust534.15-3.cable.virginmedia.com 9 147 3024306 20120104083919
+gatekeeper-ext.zeus.com 0 12 293272 
+andydwhite.plus.com 0 12 293272 
+host86-180-203-7.range86-180.btcentralplus.com 0 3 33096 
+office.databax.co.uk 0 14 25488 
+static.kpn.net 0 18 326368 
+198.175.152.210 0 21 372846 
+93-152-32-61.adept.managedbroadband.co.uk 0 6 146636 
+host-78-145-222-186.as13285.net 0 24 586544 
+ras.beamtele.net 0 3 453498 
+212.234.106.103 9 102 981918 20120117092234
+static-208-80-194-36.as13448.com 23 23 344287 20120131161007
+149.6.120.130 0 12 292868 
+41-184-83-197.rv.ipnxtelecoms.com 42 237 3270042 20120124154010
+109-204-31-98.adept.managedbroadband.co.uk 0 24 586544 
+cpc2-acto2-0-0-cust276.4-2.cable.virginmedia.com 3 99 1136835 20120124201005
+64.233.182.91 0 6 125541 
+188-222-112-71.zone13.bethere.co.uk 0 12 293272 
+186-45-115-175.dynamic.tstt.net.tt 3 78 2059164 20120102222909
+156.106.202.4 0 3 33096 
+82.152.152.134 6 144 2913336 20120113154525
+109.174.144.180 0 54 666118 
+121.245.219.36.static-delhi.vsnl.net.in 21 375 6627177 20120114052920
+dsl-189-234-144-161-dyn.prod-infinitum.com.mx 0 3 453498 
+2.30.24.241 0 12 293272 
+212.44.14.29.ip.redstone-isp.net 0 12 293272 
+c-5eeaaa30-74736162.cust.telenor.se 0 3 33096 
+217.64.226.211 0 12 293272 
+cable-23-154.cgates.lt 0 3 453498 
+80.40.134.120 79 79 799386 20120131091545
+213.122.163.37 0 12 293272 
+static-74-102-127-26.nwrknj.fios.verizon.net 9 96 968511 20120117033853
+gyron08.gotadsl.co.uk 0 12 293272 
+cpe00265ac940d6-cm00111ae5c9ea.cpe.net.cable.rogers.com 3 87 1018665 20120112142947
+usy90px00-pat.tycoelectronics.net 0 6 106022 
+77.37.100.87.rev.sfr.net 2 48 564440 20120131143914
+74-220-250-212.static.virginmedia.com 0 12 293272 
+host81-134-109-79.in-addr.btopenworld.com 0 12 293272 
+188-223-88-73.zone14.bethere.co.uk 3 87 924777 20120123141556
+ppp121-44-35-209.lns20.syd6.internode.on.net 9 129 2106435 20120103035343
+5ac3e5c0.bb.sky.com 0 12 293272 
+vpn1.london1.level3.net 3 75 2046276 20120119154155
+195.195.4.159 0 18 285636 
+cjsv002.creativejuiceg1.com 3 9 525363 20120111104912
+72.14.202.88 0 3 99939 
+c-71-231-116-153.hsd1.wa.comcast.net 3 60 826275 20120108230739
+119.30.47.84 0 3 453498 
+exchange.telenity.com 3 6 41943 20120117130110
+93-186-31-82.rdns.blackberry.net 3 18 68784 20120115123858
+host109-148-117-216.range109-148.btcentralplus.com 0 12 293272 
+194.242.55.7 3 102 2661138 20120118124632
+105.122.2.81.in-addr.arpa 0 12 293272 
+50-57-104-33.static.cloud-ips.com 9 9 91851 20120117054810
+ee-in-f145.1e100.net 0 2 9652 
+93.158.88.139 2 2 21764 20120125160603
+109.176.157.211 0 12 293272 
+81.145.171.67 0 12 293272 
+cpc10-lea22-2-0-cust67.6-3.cable.virginmedia.com 0 24 293272 
+mailgate2.insightmkt.com 6 75 2632011 20120112155346
+195.10.221.34 0 12 293272 
+64.233.182.85 0 6 157020 
+5ac24a6a.bb.sky.com 0 12 293272 
+host109-152-134-50.range109-152.btcentralplus.com 0 4 83130 
+colo-69-172-133-108.pilosoft.com 3 3 594717 20120104013800
+host-80-195-69-238.static.telewest.net 4 106 2089842 20120131111442
+cpc9-slou2-2-0-cust124.haye.cable.virginmedia.com 6 96 1729986 20120130133014
+host109-145-47-253.range109-145.btcentralplus.com 0 18 439302 
+telradgw.telrad.co.il 0 23 88256 
+rittal01.rittal.lt 3 3 594717 20120117113450
+nj34ex07k3y12.us.db.com 0 8 72888 
+82.198.250.72 0 14 85726 
+proxy36.sbs.de 0 12 293272 
+host90-152-2-10.ipv4.regusnet.com 0 12 293272 
+203.92.59.251 15 255 4801347 20120123095352
+74.125.90.87 0 3 4815 
+cpc5-dund11-2-0-cust699.sgyl.cable.virginmedia.com 0 12 293272 
+0x5da3356a.boanqu2.dynamic.dsl.tele.dk 0 6 66192 
+72.14.202.80 0 11 232375 
+host-78-148-246-67.as13285.net 3 84 919728 20120108141017
+074-074-128-083.dynamic.caiway.nl 0 3 33096 
+188-122-42-22.xdsl.5gdsl.com 0 16 293272 
+88-97-154-172.dsl.zen.co.uk 0 12 273818 
+host-78-146-0-119.as13285.net 6 141 3060270 20120116092831
+54ob.scansafe.net 0 12 293272 
+112.196.137.19 6 114 1780020 20120105095109
+82.138.191.183 0 8 245872 
+91.73.151.75 0 15 0 
+62.140.213.2 6 141 3150039 20120110122152
+82.45.159.226 0 18 356106 
+bas3-toronto01-1177778839.dsl.bell.ca 3 63 1202082 20120124101123
+mailgate.insightmkt.com 9 249 5100057 20120116171446
+209.85.228.82 0 3 4821 
+epidpc021.mrc-epid.cam.ac.uk 0 36 293272 
+80.168.4.100 0 12 293272 
+213-48-68-166-wol.dial.cable.virginmedia.com 0 20 0 
+v2035.eth0.proxy03.pf1.sxgfl.ifl.net 0 12 293272 
+host-89-240-231-139.as13285.net 0 12 0 
+5ad50523.bb.sky.com 10 194 2061699 20120125144312
+209.85.224.96 0 6 461223 
+109-231-221-196.cust-109.exponential-e.net 0 12 293272 
+112.204.34.252.pldt.net 0 3 453498 
+195.81.168.156 0 12 293272 
+128.127.24.250.virtual1.co.uk 3 78 2216379 20120124110623
+217.206.192.226 0 12 293272 
+host109-155-230-65.range109-155.btcentralplus.com 0 21 957420 
+02dc9d15.bb.sky.com 0 12 293272 
+89-145-108-202.as29017.net 15 15 6674133 20120120073549
+212.104.132.18 0 12 293272 
+86.188.137.2 0 12 293272 
+proxy47.messagelabs.net 0 2 22892 
+outgoing.northyorks.gov.uk 0 12 293272 
+ns-nat.northgate-is.com 0 12 293272 
+195-241-140-177.ip.telfort.nl 0 12 293272 
+102.170.107.77.in-addr.arpa 0 12 293272 
+host-78-149-130-190.as13285.net 0 12 293272 
+proxy-nj2.bloomberg.com 6 126 2884860 20120103115421
+62-133-17-166.spitfireuk.net 3 72 1073329 20120112165458
+88.211.192.151 0 24 586544 
+123.231.20.227 0 3 33096 
+87-194-124-56.bethere.co.uk 0 33 666118 
+www-cache.palmerharvey.co.uk 0 22 640410 
+ortons-proxy.peterboroughschools.org.uk 0 12 293272 
+cpc8-dals14-2-0-cust14.hari.cable.virginmedia.com 48 438 7741263 20120120214755
+gate.london.gov.uk 0 12 293272 
+2-221-105-81.static.virginmedia.com 0 12 293272 
+94-175-226-122.static.virginmedia.net 0 12 293272 
+94-194-201-55.zone8.bethere.co.uk 3 81 2069784 20120124103622
+103.246.36.213 3 3 44907 20120111013810
+swall.facecreative.co.uk 0 24 586544 
+131-163-201-123.static.youbroadband.in 3 60 696762 20120108055529
+port-38.pirean.delme.newnet.co.uk 0 12 293272 
+100ob.scansafe.net 0 12 293272 
+31.81.230.80 0 12 293272 
+72.14.202.87 0 3 4749 
+cpc8-nfds14-2-0-cust217.8-2.cable.virginmedia.com 0 36 586544 
+77-59-214-77.static.cablecom.ch 0 3 33096 
+ez-in-f82.1e100.net 0 12 418413 
+196.212.18.202 0 3 33096 
+190.121.8.96.host.nwnx.net 2 2 22506 20120126135323
+impala.nkwazi.gov.zm 12 12 22314 20120104090557
+ycar11.mobile.sp1.yahoo.com 2 2 29938 20120128043456
+75-150-37-173-oregon.hfc.comcastbusiness.net 18 18 6204140 20120128055022
+213.55.79.61 9 273 6227535 20120119095428
+tmg01.racc.ac.uk 0 12 293272 
+79.135.207.143 0 2 302332 
+194.187.35.194 0 32 800124 
+193.130.68.17 0 24 586544 
+cpc2-cbly5-2-0-cust453.6-2.cable.virginmedia.com 0 12 293272 
+34-52-114-217.reverse.luns.net.uk 0 12 293272 
+194.176.219.29 0 28 0 
+82.132.210.67 0 8 105180 
+82-69-143-246.dsl.in-addr.zen.co.uk 3 84 919728 20120124170756
+geo-uk.net 2 53 987353 20120112120522
+unknown-237-uk.globalcrossing.com 0 42 669674 
+201-88-250-83.pvoce300b.ipd.brasiltelecom.net.br 2 2 18326 20120127143828
+dsl-189-163-101-166-dyn.prod-infinitum.com.mx 6 117 2058927 20120125005503
+66.90.104.29 9 9 101133 20120117161348
+proxy44.messagelabs.net 8 116 2422986 20120130120217
+ycar3.mobile.sp1.yahoo.com 0 2 302332 
+74.125.78.94 0 13 57571 
+93-97-190-219.zone5.bethere.co.uk 0 12 293272 
+209.85.226.85 0 6 15396 
+host81-142-27-138.in-addr.btopenworld.com 6 123 1974216 20120110143101
+212.183.140.5 0 12 293272 
+static-87-243-206-237.adsl.hotchilli.net 0 12 293272 
+tlab-138-111-130-175.tellabs.com 6 189 3604227 20120123164954
+78-86-7-77.zone2.bethere.co.uk 9 147 2415132 20120115184836
+94.197.26.53.threembb.co.uk 0 12 293272 
+74.125.64.93 0 3 4749 
+sdcwebdproxy6.europe.hp.net 0 12 293272 
+81.130.124.10 0 12 293272 
+41-135-109-215.dsl.mweb.co.za 0 3 33096 
+c85-196-115-122.static.sdsl.no 0 24 293272 
+pool-96-231-130-87.washdc.fios.verizon.net 0 3 33096 
+bt-broadband.globe-satlinks.net 12 116 1645420 20120107202026
+77.73.10.194 0 12 293272 
+143.117.190.144 0 12 293272 
+41-133-251-3.dsl.mweb.co.za 0 3 33096 
+78-33-171-2.static.enta.net 0 12 293272 
+euf0000525-pip.eu.verio.net 0 12 293272 
+196.211.236.115 12 144 7840158 20120119094442
+213.120.253.20 0 12 293272 
+wanmarket01.wanstor-news.co.uk 0 12 146636 
+59.53.87.76 6 6 89814 20120109103257
+zen-inetgw-3a.nhs.uk 0 80 879816 
+78-86-14-31.zone2.bethere.co.uk 0 24 586544 
+c-67-169-161-218.hsd1.ca.comcast.net 0 10 133126 
+155.136.80.35 8 140 2420716 20120126151331
+24-205-159-243.dhcp.whtr.ca.charter.com 0 3 453498 
+93-97-46-9.zone5.bethere.co.uk 6 153 3017232 20120117102957
+212.183.128.75 0 12 293272 
+mscarrow.cup.cam.ac.uk 0 36 293272 
+cpc5-finc14-2-0-cust218.4-2.cable.virginmedia.com 0 12 293272 
+77-89-172-130.fluidata.co.uk 2 64 634640 20120126143112
+82.71.242.50 0 24 586544 
+cpc2-kemp6-2-0-cust302.9-2.cable.virginmedia.com 0 18 439302 
+62.240.63.232.static.ltt.ly 12 75 523065 20120125124504
+178.78.123.220 0 12 293272 
+64.195.212.68 0 3 7119 
+93-186-23-82.rdns.blackberry.net 3 9 22734 20120115124947
+80.169.166.101 0 12 233034 
+static-208-80-194-34.as13448.com 8 8 119752 20120129185906
+168.87.60.62 0 12 293272 
+ee-in-f159.1e100.net 2 4 82634 20120125154950
+wan-psinet-hssi.iplannetworks.net 0 14 25488 
+31.185.168.88 0 3 453498 
+cpc6-lea21-0-0-cust326.6-3.cable.virginmedia.com 0 12 293272 
+pun-static-99-120-12-61.direct.net.in 6 123 1294032 20120110093901
+212.219.240.212 0 12 293272 
+216.57.96.1 1 1 154528 20120117184852
+65.55.72.190 0 12 293272 
+210-86-17-70.ipnets.xtra.co.nz 9 9 109545 20120122074148
+rrcs-24-227-213-226.sw.biz.rr.com 6 117 2824827 20120111173136
+ycar6.mobile.bf1.yahoo.com 0 3 453498 
+wbs-41-208-211-10.wbs.co.za 15 147 7608213 20120124085826
+119-231-179-128f1.shg1.eonet.ne.jp 3 66 846228 20120115073943
+host-92-6-195-3.as43234.net 0 12 293272 
+74.125.156.82 3 5 37745 20120105232025
+38.101.232.132 2 91 727500 20120131225937
+one.scrumpy.me.uk 0 38 902708 
+194.81.176.254 0 24 453418 
+203.217.176.231 3 87 2400612 20120120143529
+82.109.43.42 3 93 939438 20120124103413
+90.204.196.60 3 6 35406 20120115190943
+74.125.92.86 2 4 23526 20120131153133
+02de82d1.bb.sky.com 9 249 2886201 20120103114756
+81.144.196.34 0 12 293272 
+nimrfw.nimr.mrc.ac.uk 0 14 453418 
+157.203.42.50 0 28 588764 
+host86-184-64-162.range86-184.btcentralplus.com 4 58 1545130 20120126143207
+server-117.iconnect.zm 0 3 33096 
+5e002ff7.bb.sky.com 2 56 613152 20120130165655
+94.197.0.189.threembb.co.uk 0 12 293272 
+secure.yellow-door.com 0 4 83130 
+141.92.129.46 0 12 293272 
+host86-150-69-122.range86-150.btcentralplus.com 3 93 942516 20120106185252
+88-108-241-0.dynamic.dsl.as9105.com 39 165 8189715 20120103100150
+ez-in-f83.1e100.net 0 12 220500 
+host217-39-147-89.in-addr.btopenworld.com 24 201 8574210 20120110150006
+host81-155-210-117.range81-155.btcentralplus.com 0 3 33096 
+nbrds1311.accenture.com 6 123 1135047 20120124165507
+mac-gh-001.kingston.ac.uk 0 24 586544 
+83.140.221.176 4 4 45148 20120131153235
+host-92-24-0-199.static.as13285.net 0 12 293272 
+mail.dunstable.ac.uk 0 24 318760 
+dsl-sp-81-140-0-105.in-addr.broadbandscope.com 0 12 293272 
+webcache-02.slc.ifl.net 0 18 439302 
+vs1204.rosehosting.com 3 3 44907 20120119120129
+94.196.97.179.threembb.co.uk 0 14 0 
+bart.softek.co.uk 0 12 293272 
+74.125.16.163 0 2 5336 
+62.189.223.214 0 24 293272 
+209.85.226.91 0 6 114507 
+78-86-175-160.zone2.bethere.co.uk 0 12 293272 
+autodns-194-66-175-82.staffs.ac.uk 3 39 429138 20120116094948
+136.173.162.129 3 87 1030140 20120111132554
+213.227.56.154.static.user.ono.com 12 84 5830782 20120119143058
+94.197.127.206.threembb.co.uk 0 12 293272 
+host81-148-53-169.in-addr.btopenworld.com 2 58 616620 20120126090255
+194.74.194.224 0 24 293272 
+host-92-15-153-77.as43234.net 0 12 293272 
+no-hostname-yet.mistral.co.uk 0 12 293272 
+ac5-webproxy51.direcpc.com 0 6 906996 
+046206220109.atmpu0023.highway.a1.net 0 2 302332 
+cpc7-brad18-2-0-cust92.barn.cable.virginmedia.com 2 56 613152 20120125203613
+74.125.156.91 0 4 87656 
+52.73.187.81.in-addr.arpa 0 12 293272 
+static-195-248-101-27.adsl.hotchilli.net 0 4 83130 
+tic004-03.hiway.co.uk 30 624 7782804 20120124142400
+83-244-140-131.cust-83.exponential-e.net 0 14 353510 
+193.34.100.34 0 71 1306610 
+196.20.155.162 3 75 2207397 20120105063854
+tan7.ncr.com 0 4 83130 
+office-225.zen.co.uk 0 24 586544 
+pool-72-93-160-161.bstnma.east.verizon.net 3 6 41943 20120118211957
+vdk06.francenet.net 0 12 293272 
+109-238-70-103.spitfireuk.net 0 12 293272 
+195.162.20.122 0 12 293272 
+130-243-106-213.static.virginmedia.com 0 36 878604 
+autolink1.autolinkm6.co.uk 0 12 293272 
+msnbot-207-46-12-20.search.msn.com 2 2 55848 20120130012446
+nat-dc5.es.bluecoat.com 22 22 263393 20120131153318
+host86-181-24-6.range86-181.btcentralplus.com 0 24 586544 
+207.218.21.5 3 90 1028124 20120124140054
+client-86-25-248-54.sqy-bng-011.adsl.virginmedia.net 0 12 293272 
+212.137.45.109 0 12 293272 
+host86-186-148-224.range86-186.btcentralplus.com 0 12 293272 
+gprs-client-83.149.9.51.misp.ru 0 3 33096 
+rsvd-ge-17.20.27.195.in-addr.arpa 3 87 1018665 20120110161634
+zen-inetgw-7a.nhs.uk 3 78 2061027 20120104100612
+83-244-218-70.cust-83.exponential-e.net 6 132 2962059 20120105123401
+i-195-137-11-37.freedom2surf.net 0 12 293272 
+81.134.133.178 0 24 245872 
+smtp.yhgfl.net 0 2 22892 
+66ob.scansafe.net 0 12 293272 
+80.249.48.134 0 7 118303 
+host-78-149-255-69.as13285.net 0 12 293272 
+port-141.xxx.th.newnet.co.uk 0 12 293272 
+93-97-180-29.dsl.cnl.uk.net 0 12 293272 
+mail.tecres.uk.com 0 12 293272 
+ntp0.hastings.ac.uk 2 70 649934 20120130142533
+195.99.188.195 0 12 293272 
+62.232.27.34 0 4 183038 
+fe-0-0-0.fw0.w1.uk.goscomb.net 0 12 293272 
+host-92-21-95-247.as13285.net 0 33 1354803 
+81.134.200.98 0 12 293272 
+83-218-138-76.spitfireuk.net 0 12 293272 
+93-127-22-238.static.vega-ua.net 0 2 302332 
+201.131.17.254 0 3 453498 
+host-92-28-57-106.as13285.net 15 108 977115 20120106211017
+195.153.34.7 0 12 293272 
+host-2-96-100-34.as13285.net 0 12 293272 
+213.121.161.242 0 12 293272 
+cpc6-tilb8-2-0-cust18.basl.cable.virginmedia.com 15 228 5699163 20120114022637
+com18-131.mcscom.mn 0 15 164580 
+82.203.1.45 0 12 233034 
+94-30-125-129.uan.thn.uk.murphx.net 0 12 293272 
+94-194-143-94.zone8.bethere.co.uk 0 126 891542 
+72.14.202.83 0 8 114787 
+mail2.saunderson-house.co.uk 0 12 293272 
+78.101.73.8 2 68 836846 20120131183519
+123.125.67.151 3 3 44907 20120105215401
+gw1.bott-group.com 0 106 293272 
+msnbot-157-55-112-211.search.msn.com 3 9 31074 20120112181144
+host90-152-3-204.ipv4.regusnet.com 23 554 8389144 20120127091812
+217.207.68.218 0 12 293272 
+194.72.126.195 0 14 293272 
+v2035.eth0.proxy05.pf1.sxgfl.ifl.net 0 12 293272 
+serverel.net 3 3 44907 20120113064913
+host86-161-72-99.range86-161.btcentralplus.com 0 21 372846 
+156.48.57.36 0 12 293272 
+2.50.135.188 2 6 350242 20120131065252
+212.169.21.145 0 12 293272 
+217.206.230.2 0 24 586544 
+host86-161-92-234.range86-161.btcentralplus.com 0 12 293272 
+220.181.51.83 3 3 44907 20120124210042
+host86-146-75-129.range86-146.btcentralplus.com 0 12 293272 
+mail.softlink.co.uk 0 12 293272 
+cpc1-rdng15-0-0-cust600.15-3.cable.virginmedia.com 0 61 725906 
+83-244-146-221.cust-83.exponential-e.net 0 12 293272 
+igld-84-228-37-232.inter.net.il 3 9 75039 20120117211331
+waltz.griffinbrown.co.uk 0 12 293272 
+31.222.110.27 0 10 290676 
+195.188.212.180 0 12 293272 
+195.59.118.52 0 12 293272 
+192.65.220.73 0 12 293272 
+213.146.159.4 2 56 613152 20120131092000
+wwwgate2.merck.de 0 12 293272 
+proxy48.messagelabs.net 3 87 1018665 20120113095526
+lp50.ucles.cam.ac.uk 0 12 293272 
+office.liquidtelecom.com 0 48 293272 
+212.183.128.7 3 84 919728 20120125084959
+72.14.202.95 0 2 72860 
+ip216-239-92-151.vif.net 2 56 613152 20120125172431
+62.189.77.111 0 12 293272 
+host81-139-69-245.in-addr.btopenworld.com 9 93 2985528 20120123162146
+88-110-204-151.dynamic.dsl.as9105.com 3 87 1018665 20120120092717
+nat-pra1-132.aster.pl 18 18 197967 20120117014702
+proxy45.messagelabs.net 0 6 42450 
+121.98.170.210 0 2 302332 
+host217-36-253-150.in-addr.btopenworld.com 15 261 4756260 20120120104525
+82.113.227.49 0 12 293272 
+94.58.121.1 0 3 33096 
+83-244-230-52.cust-83.exponential-e.net 0 65 72888 
+117.200.188.67 3 90 933912 20120103150822
+cpc1-uddi13-0-0-cust501.uddi.cable.virginmedia.com 2 60 733104 20120130142552
+83-244-171-212.cust-83.exponential-e.net 0 36 586544 
+gb-s-lon-exch01.jasuk.com 0 36 879816 
+154-220-106-81.static.virginmedia.com 0 24 293272 
+45ob.scansafe.net 0 12 293272 
+212.183.128.219 0 12 293272 
+41.76.102.106 2 42 801388 20120125145112
+percygore.demon.co.uk 0 10 245872 
+smtp.localhost.uk.net 4 6 114132 20120130140919
+85.92.196.196 0 20 265326 
+host217-36-215-19.in-addr.btopenworld.com 3 87 1018665 20120117144812
+74.125.64.92 3 6 30600 20120103214815
+212.183.128.248 0 12 293272 
+secure2.options-it.com 0 12 293272 
+213.205.232.145 0 8 105180 
+212.183.128.46 0 12 293272 
+host-92-24-188-104.ppp.as43234.net 0 32 293272 
+124.115.4.215 3 3 44907 20120108082631
+82.198.231.116 0 12 293272 
+188-39-38-247.static.enta.net 0 8 105180 
+static.147.71.46.78.clients.your-server.de 3 3 44907 20120101190117
+host81-138-153-57.in-addr.btopenworld.com 2 54 1527098 20120131151131
+2.184.0.175 2 6 350242 20120131053841
+msnbot-207-46-12-26.search.msn.com 3 3 463584 20120104060453
+webcache-05.segfl.ifl.net 0 12 293272 
+mail.kanilanka.com 0 3 33096 
+sdsltd.plus.com 0 12 293272 
+74.125.92.93 0 6 77816 
+pool3-222.insrv.cf.ac.uk 0 12 293272 
+triband-del-59.177.224.200.bol.net.in 3 81 2231130 20120116083412
+203.177.229.130 3 78 2377500 20120113035821
+95.148.198.167 3 90 937452 20120124171351
+host86-144-118-58.range86-144.btcentralplus.com 6 111 1339182 20120116113433
+178.61.15.134 0 9 66192 
+host86-159-79-215.range86-159.btcentralplus.com 6 72 1226478 20120104185715
+77.73.124.196 0 12 293272 
+219-142-250-212.static.virginmedia.com 0 4 47400 
+5ad9f87a.bb.sky.com 3 72 2037294 20120118180345
+74.125.90.91 0 5 9755 
+tb-in-f90.1e100.net 3 3 25779 20120125133006
+gateway1.colt-telecom.com 0 18 373882 
+host-14-193-68-109.ag1.uk.sharedband.net 0 12 293272 
+cpc2-clif7-0-0-cust897.12-4.cable.virginmedia.com 0 12 293272 
+80-45-166-90.static.dsl.as9105.com 15 168 2762736 20120117102652
+64.233.182.81 0 3 293943 
+148.122.12.78 0 6 66192 
+131.204.66.116.cni.net.id 2 2 26958 20120131150512
+83-244-173-18.cust-83.exponential-e.net 0 12 293272 
+217.158.88.86 0 28 293272 
+114.79.12.42 0 2 302332 
+host217-43-37-213.range217-43.btcentralplus.com 0 12 293272 
+ns.niir.ru 3 84 919728 20120111130436
+63.194.187.135 0 3 33096 
+host81-151-136-99.range81-151.btcentralplus.com 0 12 293272 
+dhcp25.oucs.ox.ac.uk 0 12 293272 
+bzq-109-64-226-117.red.bezeqint.net 0 2 22064 
+162-70-20-82.static.virginmedia.com 0 12 293272 
+212.183.128.36 0 12 293272 
+86.red-88-15-129.dynamicip.rima-tde.net 0 12 293272 
+29-7-1-82.static.virginmedia.com 0 24 293272 
+ec2-79-125-111-152.eu-west-1.compute.amazonaws.com 0 6 182196 
+no-dns-yet.convergencegroup.co.uk 9 156 3057138 20120104171706
+host86-178-149-217.range86-178.btcentralplus.com 0 36 586544 
+93-96-128-143.zone4.bethere.co.uk 0 36 293272 
+outgw1.dartgroup.co.uk 0 12 293272 
+173.245.95.157 3 3 83772 20120101152308
+94-193-50-137.dsl.cnl.uk.net 0 12 293272 
+188-220-95-36.zone11.bethere.co.uk 12 171 3094968 20120112131433
+79.141.36.40.available.above.net 0 12 293272 
+196.0.4.87 24 105 954387 20120104144346
+212.183.128.157 0 28 395856 
+146-119-250-212.static.virginmedia.com 0 44 293272 
+194.74.198.2 4 68 706878 20120130112739
+94.197.127.54.threembb.co.uk 0 12 293272 
+host81-149-119-216.in-addr.btopenworld.com 3 63 875880 20120123102415
+msnbot-157-55-112-219.search.msn.com 2 4 23604 20120129202002
+93-152-32-61.tdl.managedbroadband.co.uk 0 6 146636 
+firewall-e1.meto.gov.uk 0 12 293272 
+41.221.103.61 18 162 2488986 20120123063922
+89-105-121-204.fluidata.co.uk 6 93 1647333 20120109153803
+adsl-69-105-239-195.dsl.pltn13.pacbell.net 0 3 33096 
+host86-153-41-239.range86-153.btcentralplus.com 9 162 3232290 20120109111402
+242-88-168-194.static.virginmedia.com 0 12 293272 
+109-204-36-234.redwood.managedbroadband.co.uk 9 165 3595905 20120105150750
+83-244-132-215.cust-83.exponential-e.net 0 12 293272 
+host81-131-86-34.range81-131.btcentralplus.com 0 12 293272 
+74.125.64.87 0 3 7119 
+corp4.duke-energy.com 2 50 1403862 20120131150958
+bzq-219-155-177.static.bezeqint.net 0 12 293272 
+host109-153-135-147.range109-153.btcentralplus.com 0 12 293272 
+host81-142-150-210.in-addr.btopenworld.com 0 24 293272 
+print.casperweb.net 0 12 293272 
+184-22-46-14.static.hostnoc.net 2 2 13670 20120126032138
+88-111-59-163.dynamic.dsl.as9105.com 3 87 924930 20120104190233
+ez-in-f88.1e100.net 0 21 176970 
+clf80.holcim.com 3 72 2037294 20120112135639
+abts-north-dynamic-048.209.176.122.airtelbroadband.in 3 84 919728 20120120110327
+mail.callflowsolutions.com 6 153 2061027 20120119143850
+zen-inetgw-6a.nhs.uk 0 24 586544 
+cpc11-perr13-2-0-cust97.perr.cable.virginmedia.com 3 84 919728 20120120204916
+host-92-27-11-84.static.as13285.net 0 12 293272 
+195.58.69.194 0 12 293272 
+proxy2.controlware.de 0 3 33096 
+62.7.228.97 0 3 0 
+87-127-37-65.static.enta.net 6 75 2632011 20120109162735
+80.249.48.132 0 7 160146 
+5ac26299.bb.sky.com 0 12 293272 
+194.83.36.154 0 12 293272 
+82.45.135.163 0 24 293272 
+02dc9d4e.bb.sky.com 9 141 3167568 20120113214240
+rdns.zycko.com 6 257 6093849 20120113162443
+85.31.219.55 111 111 91803123 20120131133707
+46.229.160.208 43 43 8422790 20120128001219
+173.208.222.250 4 4 59876 20120127193316
+ip161.wuk.net 6 110 2194954 20120130132911
+194.200.176.241 0 12 293272 
+host81-149-39-140.in-addr.btopenworld.com 0 24 503414 
+mail5.allergytherapeutics.com 0 156 879816 
+64.233.182.84 0 3 4815 
+cpc3-hitc6-2-0-cust102.9-2.cable.virginmedia.com 0 16 376402 
+host-78-149-21-239.as13285.net 0 12 293272 
+mx2.hsa.gov.sc 2 33 419417 20120116092954
+193.116.24.237 0 12 293272 
+212.140.253.240 0 24 586544 
+41.78.80.105 2 26 419972 20120125154959
+rrcs-50-74-35-90.nyc.biz.rr.com 2 54 1523252 20120131211813
+host-80-194-86-68.static.cable.virginmedia.com 0 12 293272 
+41.71.171.16 2 4 24932 20120129193351
+host86-181-128-15.range86-181.btcentralplus.com 16 301 4781684 20120129194800
+83-244-147-213.cust-83.exponential-e.net 0 12 293272 
+unknown.griffin.com 0 216 2661951 
+62.6.159.62 0 18 439302 
+adsl-070-148-154-234.sip.mia.bellsouth.net 0 24 586544 
+theale.integralis.com 0 12 293272 
+62.159.77.165 9 165 2114445 20120103143057
+213.152.224.226 0 12 293272 
+host86-133-76-230.range86-133.btcentralplus.com 0 108 1466360 
+82.132.210.146 0 12 293272 
+155.56.68.216 0 3 33096 
+cpc1-addl4-2-0-cust285.6-3.cable.virginmedia.com 3 66 890631 20120118001700
+cpc1-sgyl21-0-0-cust249.sgyl.cable.virginmedia.com 3 72 2037294 20120110211321
+85-189-28-138.md2.mops2.co.uk 3 87 1018665 20120117091250
+host86-167-102-154.range86-167.btcentralplus.com 0 12 290676 
+host86-177-27-189.range86-177.btcentralplus.com 3 93 1241193 20120103141434
+34.169-14-84.ripe.coltfrance.com 0 8 33096 
+194.62.210.50 0 24 293272 
+host109-156-128-121.range109-156.btcentralplus.com 16 218 5184738 20120131120002
+cpc3-rdng11-0-0-cust862.15-3.cable.virginmedia.com 0 12 293272 
+host109-152-251-242.range109-152.btcentralplus.com 0 12 293272 
+mail.capitolbca.com.au 3 72 2037294 20120124014953
+135.196.110.133 0 12 293272 
+46.128.2.195.dynamic.cablesurf.de 3 3 4553055 20120121165755
+72.14.202.93 0 2 44608 
+87-239-82-101.ip.kis.lt 0 3 453498 
+146.162.241.241 4 96 2144024 20120126104304
+mail.stjohnpatrick.com 6 81 2242803 20120112104446
+host109-145-57-49.range109-145.btcentralplus.com 0 12 293272 
+213.212.105.45 2 26 354574 20120130134033
+213.205.224.192 0 12 293272 
+83-137-231-210.sota.net.uk 4 568 4182706 20120130153522
+host86-173-47-31.range86-173.btcentralplus.com 0 40 1314418 
+212.183.128.127 0 8 105180 
+cpc1-stav4-0-0-cust496.aztw.cable.virginmedia.com 3 84 919728 20120104182204
+213.94.197.137 3 90 1023867 20120111160517
+home.nmw-photos.com 0 12 293272 
+ftip002863047-v1-fo.interconnect1.birmingham.fixed-nte.bt.net 0 12 293272 
+ulverscroft1.plus.com 0 12 293272 
+195.50.180.68 3 141 876915 20120106124250
+62.189.217.121 0 12 293272 
+74.125.156.86 0 15 149947 
+74.125.78.81 0 2 20622 
+bigfinder.de 3 3 44907 20120109072838
+212.183.128.1 0 12 293272 
+109-231-203-250.cust-109.exponential-e.net 18 243 5740881 20120119155952
+209.85.224.83 0 3 111501 
+outa.ce.com.au 0 2 302332 
+62.212.200.43 0 2 302332 
+afol-41-207-65-65.infinet.co.ke 3 24 108135 20120117111807
+com18-130.mcscom.mn 0 18 260670 
+c83-254-160-119.bredband.comhem.se 3 84 919728 20120111074632
+host-2-97-31-242.as13285.net 0 12 293272 
+host86-156-200-8.range86-156.btcentralplus.com 0 12 293272 
+no-reverse-defined.candi.ac.uk 0 12 293272 
+217.23.231.6 0 12 293272 
+fw3.sitronics.com 0 122 132384 
+74.125.78.86 0 12 306062 
+office.urgentholdings.com 0 57 2177346 
+212.37.16.26 21 213 10056207 20120117090109
+nathost.rmcs.cranfield.ac.uk 3 87 924930 20120124092637
+212.62.5.158 0 12 293272 
+net55-34.ecoweb.co.zw 9 96 962733 20120123091651
+88.211.1.82 0 14 316164 
+66-162-241-234.static.twtelecom.net 0 3 33096 
+lon-inet-pa-21.disney.com 0 36 293272 
+pool-173-79-121-170.washdc.fios.verizon.net 3 90 1017792 20120123152741
+193.82.19.133 0 22 462128 
+115.147.67.57 0 3 453498 
+2.29.98.73 0 4 83130 
+62.189.28.238 0 12 293272 
+217.156.211.193 0 12 293272 
+72.14.202.85 0 2 5594 
+85-95-103-189.adsl.izrsolutions.com 0 8 105180 
+cpc1-hitc6-2-0-cust132.9-2.cable.virginmedia.com 3 87 1018665 20120112141710
+host217-34-76-156.in-addr.btopenworld.com 0 12 293272 
+220.181.51.81 3 3 44907 20120119213046
+193.62.42.27 0 12 25488 
+209.85.226.82 0 9 81282 
+41.216.229.171 6 58 822710 20120107202026
+209.85.226.92 0 3 24864 
+gateway.pulsetrain.com 0 34 293272 
+74.125.78.92 0 4 91300 
+summersault-2.dsl.easynet.co.uk 0 12 293272 
+31.79.65.25 0 8 105180 
+vrrp.fw.sis.tv 0 12 293272 
+stuh327-pc1.uel.ac.uk 10 126 2461670 20120131140226
+dlwbg06-mac4.uel.ac.uk 0 12 293272 
+212.125.93.162 0 12 293272 
+95.172.124.33 0 2 302332 
+pro1132.startdedicated.com 3 3 44907 20120113130145
+host86-141-70-134.range86-141.btcentralplus.com 0 12 293272 
+188-223-23-11.zone14.bethere.co.uk 0 12 33096 
+213.120.175.149 0 14 657734 
+216-55-169-159.dedicated.codero.net 17 17 1470832 20120126215136
+tb-in-f87.1e100.net 0 3 53112 
+82-69-184-54.dsl.in-addr.zen.co.uk 0 28 538536 
+uxtwc303.brunel.ac.uk 0 12 293272 
+83-244-234-242.cust-83.exponential-e.net 0 208 2910888 
+host86-150-160-234.range86-150.btcentralplus.com 0 12 293272 
+proxy25.messagelabs.net 0 9 0 
+174.34.147.89.rdns.ubiquityservers.com 3 84 919728 20120101230334
+41.121.77.149 0 3 33096 
+212.85.7.12 0 12 44942 
+218.108.98.222 0 3 33096 
+mx0.ipaccess.com 0 3 33096 
+194.86.25.98 0 6 33096 
+141.138.208.134 2 2 21764 20120125160549
+197.177.198.86 0 3 33096 
+41-134-7-178.dsl.mweb.co.za 9 90 1230966 20120112134830
+5ace168c.bb.sky.com 8 102 2271776 20120131091602
+88-202-216-149.rdns.as8401.net 0 36 293272 
+109-224-148-226.bb.adsl24.co.uk 0 36 879816 
+m20.ccburton.com 0 12 293272 
+83-218-155-139.spitfireuk.net 9 120 1165254 20120116104755
+cpc6-hari11-2-0-cust11.hari.cable.virginmedia.com 0 12 293272 
+cpc11-harb5-0-0-cust89.perr.static.virginmedia.com 0 12 293272 
+82.150.6.100 0 24 293272 
+host-80-193-99-131.static.telewest.net 0 4 83130 
+109-174-143-242.easynet.co.uk 0 12 293272 
+213.169.104.44 0 3 33096 
+i-195-137-120-103.freedom2surf.net 0 108 466256 
+host81-139-131-169.in-addr.btopenworld.com 6 132 3033225 20120113151203
+ps17567.dreamhost.com 3 3 3269706 20120120184855
+dsl78-143-196-195.in-addr.fast.co.uk 0 12 293272 
+mail.emx.co.uk 0 72 293272 
+dsl-242-244-214.telkomadsl.co.za 3 9 75039 20120117054639
+80.71.26.156 0 12 293272 
+fw-1.dby1.griffin.com 0 12 293272 
+abcmail.abc.org.uk 0 36 293272 
+123.125.67.150 6 6 89814 20120111215026
+cpc2-farn1-0-0-cust268.6-2.cable.virginmedia.com 4 80 690740 20120131131327
+mey38-3-88-164-116-80.fbx.proxad.net 3 84 919728 20120118111026
+213.191.228.171 6 144 2880483 20120123140920
+115.113.221.42.static-kolkata.vsnl.net.in 0 9 33096 
+networkbox2.kurtgeiger.com 0 18 439302 
+184-76-68-119.war.clearwire-wmx.net 6 69 1211373 20120104001746
+195.190.19.253 0 12 132384 
+196.201.67.90 6 132 3370608 20120117131536
+mail.summit-events.com 6 183 1973856 20120112090844
+gw.visi.com.ua 0 3 33096 
+217.207.249.68 0 24 586544 
+194.205.93.54 0 8 245872 
+cpc8-ipsw2-2-0-cust236.7-4.cable.virginmedia.com 0 32 717074 
+194.81.239.72 0 12 293272 
+64.147.173.158 2 56 613152 20120130212119
+116.71.59.240 2 64 697016 20120127065702
+c2924.gascom.ru 0 3 33096 
+hidetwo.atkinsglobal.com 0 21 0 
+host86-162-76-143.range86-162.btcentralplus.com 2 56 613152 20120126183919
+outmail.pearsonmaddin.co.uk 0 12 293272 
+mg.ddcasia.com.tw 0 6 85726 
+proxy27.messagelabs.net 0 9 0 
+109-204-57-155.wvn.mops2.co.uk 0 12 293272 
+mx1.uk.jw.org 0 12 293272 
+host90-152-3-226.ipv4.regusnet.com 3 84 919728 20120119114224
+host109-149-35-4.range109-149.btcentralplus.com 0 24 586544 
+141.138.215.84 2 2 18190 20120131154033
+host81-148-3-0.in-addr.btopenworld.com 0 21 332802 
+host217-45-195-106.in-addr.btopenworld.com 0 62 484178 
+82-69-89-236.dsl.in-addr.zen.co.uk 12 255 6062685 20120124092233
+74.125.156.95 0 3 8391 
+78-32-92-125.static.enta.net 0 12 293272 
+188.28.175.185.threembb.co.uk 3 54 760104 20120121181521
+66.9.53.227 0 12 293272 
+host-78-149-148-44.as13285.net 0 12 293272 
+proxy.eutelsat.fr 0 3 33096 
+62.25.109.205 0 12 293272 
+88-97-174-179.dsl.zen.co.uk 0 12 25488 
+82.152.124.189 0 24 293272 
+host217-37-188-161.in-addr.btopenworld.com 0 12 25488 
+host213-123-229-152.in-addr.btopenworld.com 0 12 293272 
+c-67-174-59-140.hsd1.ca.comcast.net 3 102 1426323 20120105235447
+outbound.citizensadvice.org.uk 0 12 293272 
+proxy.okidata.com 0 3 453498 
+195.245.247.65 20 432 8329720 20120126175307
+94-194-192-240.zone8.bethere.co.uk 0 12 293272 
+82.198.250.71 0 12 293272 
+cpe-67-247-27-176.nyc.res.rr.com 3 78 2222148 20120104235014
+abts-north-dynamic-086.39.68.182.airtelbroadband.in 4 74 1184688 20120103101050
+host217-46-198-233.in-addr.btopenworld.com 12 216 4305345 20120113112139
+dsl78-143-230-184.in-addr.fast.co.uk 18 318 3073941 20120103170850
+164.36.38.240 0 72 293272 
+82-166-29-242.barak-online.net 0 3 33096 
+mail.optimity.co.uk 0 36 146434 
+93-156-250-212.static.virginmedia.com 6 166 2412658 20120131110610
+180.191.114.152 3 81 2221905 20120101034541
+41-135-182-60.dsl.mweb.co.za 6 68 656026 20120128161144
+114-191-243-80.rackcentre.redstation.net.uk 2 2 18190 20120126211443
+196.20.229.251 0 6 33096 
+host86-173-59-245.range86-173.btcentralplus.com 3 24 431388 20120118215542
+89-145-108-203.as29017.net 9 9 3347208 20120118211258
+93-186-23-80.rdns.blackberry.net 6 27 276603 20120115125115
+dsl-189-243-204-45-dyn.prod-infinitum.com.mx 2 8 350242 20120127185044
+host217-40-140-250.in-addr.btopenworld.com 0 24 586544 
+host-84-13-14-106.opaltelecom.net 0 24 586544 
+host-92-24-91-204.ppp.as43234.net 6 120 1120296 20120103124933
+asfw.arabsat.com 0 27 0 
+91.208.243.92 0 12 293272 
+216.53.141.3 0 12 293272 
+212.183.128.250 0 8 105180 
+212.121.198.236 0 12 293272 
+host86-148-18-154.range86-148.btcentralplus.com 3 75 2046276 20120116164036
+se.aptilo.com 0 6 66192 
+host82-113-230-25.in-addr.bisnet.uk.com 0 12 293272 
+94.202.102.107 0 12 293272 
+175.176.245.122 0 12 293272 
+74.125.64.81 0 26 250488 
+77-44-68-169.xdsl.murphx.net 26 494 5598228 20120127152658
+195.68.224.36 0 12 293272 
+80.249.48.139 0 9 322507 
+31.93.225.46 0 8 105180 
+publicuk.angloamerican.com 0 6 146636 
+74.125.70.89 0 3 453498 
+193.62.42.156 0 16 318760 
+cpc1-sgyl22-0-0-cust368.sgyl.cable.virginmedia.com 0 66 609436 
+mail.marchpr.com 27 530 8564365 20120127203844
+cpc6-finc13-2-0-cust32.4-2.cable.virginmedia.com 0 4 83130 
+bganlhapplnfscrm.bganbss.inmarsat.com 0 32 646782 
+s0103.urlcloud.paloaltonetworks.com 2 2 0 20120130091336
+host86-164-168-50.range86-164.btcentralplus.com 0 12 293272 
+fe0.brookdale.customer.clara.net 0 36 293272 
+1-18-28-86.static.virginmedia.com 0 12 293272 
+gaolkeeper.sps.gov.uk 4 4 59876 20120130123526
+178.250.99.97 6 135 3132162 20120112141348
+217.145.132.2 0 33 618718 
+host217-41-11-191.in-addr.btopenworld.com 3 75 2052045 20120103141131
+host86-179-152-123.range86-179.btcentralplus.com 0 36 879816 
+dincompsch.plus.com 0 12 293272 
+csc-chd-mdn-2-cgen-pub.emea.csc.com 0 8 110234 
+82.71.194.182 0 14 318292 
+proxy.palmers.ac.uk 0 12 293272 
+94-30-46-26.xdsl.murphx.net 0 4 83130 
+outbound.johim.co.uk 0 12 293272 
+89.207.214.14 0 12 293272 
+81.144.158.187 8 116 2219574 20120131085958
+183.60.140.16 3 3 44907 20120115053114
+lon-inet-pa-22.disney.com 0 12 293272 
+66.40.londonlink.net 0 12 293272 
+38.112.183.231 3 81 912609 20120114213018
+cpc16-farn5-2-0-cust189.6-2.cable.virginmedia.com 3 87 1018665 20120111093748
+com18-132.mcscom.mn 0 3 9459 
+212.120.221.24 3 9 525363 20120111150426
+cpc1-cove10-0-0-cust1019.3-1.cable.virginmedia.com 0 12 292868 
+74.125.90.81 0 8 118211 
+mail.the-it-people.co.uk 0 24 293272 
+83.244.248.202 4 100 2041910 20120130114153
+74.125.92.89 0 8 79524 
+85-210-19-124.dynamic.dsl.as9105.com 0 12 293272 
+109.231.194.24.cust-194.exponential-e.net 0 8 105180 
+fsexch01.telecom.na 9 69 1230579 20120124070432
+no-dns-assigned.adsl.orbital.net 0 4 83130 
+mail1.ziptechservices.co.uk 0 12 0 
+msnbot-207-46-12-107.search.msn.com 3 3 594717 20120113013804
+urlc2.mail.mud.yahoo.com 6 6 89814 20120118201855
+cpc2-sotn11-2-0-cust245.15-1.cable.virginmedia.com 6 108 1094058 20120114214816
+69.25.174.167 3 9 525363 20120120191951
+rev.opentransfer.com.122.153.116.66.in-addr.arpa 6 6 89814 20120124230757
+host86-185-128-239.range86-185.btcentralplus.com 3 93 1112796 20120117104851
+82.132.242.167 0 12 293272 
+212.183.128.120 0 8 105180 
+202.185.125.91.dyn.plus.net 0 60 293272 
+194.72.50.238 0 10 265326 
+129.35.204.163 0 12 293272 
+212.183.128.76 0 12 293272 
+atoulouse-553-1-138-26.w92-156.abo.wanadoo.fr 0 3 33096 
+mail.babelpr.com 30 180 5550636 20120118113102
+host109-156-216-85.range109-156.btcentralplus.com 0 12 293272 
+host86-164-122-138.range86-164.btcentralplus.com 0 36 293272 
+mail.catalysis.co.uk 4 102 2101130 20120131130034
+196.38.230.186 0 3 33096 
+82.111.152.178 3 87 1018665 20120111155030
+74.125.90.86 0 5 117090 
+117.136.21.105 4 64 699836 20120129043721
+v2035.eth0.proxy01.pf2.sxgfl.ifl.net 0 12 25488 
+027a2130.bb.sky.com 0 26 951006 
+80.87.92.129 0 68 586544 
+host-92-21-45-52.as13285.net 0 42 1025846 
+89-251-254-62.static.virginmedia.com 0 12 25488 
+41-135-96-227.dsl.mweb.co.za 0 3 33096 
+host86-132-31-111.range86-132.btcentralplus.com 0 12 293272 
+140-162-12-86.static.virginmedia.com 0 108 293272 
+static.68.33.46.78.clients.your-server.de 3 3 33687 20120104151757
+101.109.15.231 0 3 453498 
+80.76.122.27 0 16 613564 
+ip68-229-207-203.ok.ok.cox.net 3 84 919728 20120102005251
+ec2-204-236-134-91.us-west-1.compute.amazonaws.com 6 6 64638 20120125024107
+74.125.156.81 0 6 107664 
+ict.chigwell-school.org 0 36 293272 
+cpc4-acto4-2-0-cust500.4-2.cable.virginmedia.com 0 12 293272 
+proxy1.associated.co.uk 0 14 353510 
+83-244-197-164.cust-83.exponential-e.net 0 12 293272 
+109.78.207.221 0 14 293272 
+82.132.211.139 0 12 293272 
+65.49.14.85 0 2 302332 
+81.134.138.90 0 12 293272 
+cpc12-swin14-2-0-cust187.3-1.cable.virginmedia.com 0 12 293272 
+alankomaat.ses-worldskies.com 0 3 33096 
+ip-87-86-254-165.easynet.co.uk 0 12 293272 
+79.173.141.114 0 12 293272 
+213.152.245.252 0 48 398452 
+212.162.4.218 0 12 293272 
+205.228.82.172 0 12 293272 
+64.212.193.1 0 18 0 
+static-ip-cr19014613220.cable.net.co 0 3 453498 
+115-207-201-122.savecom.net.tw 3 12 978861 20120106161944
+31.89.205.35 0 20 293272 
+no-dns-yet.demon.co.uk 30 522 10076768 20120131113525
+74.125.64.94 0 5 144547 
+88-202-194-64.rdns.as8401.net 3 87 924930 20120111133240
+2.25.73.97 0 12 293272 
+207-226-183-72.static.pccwglobal.net 3 3 282000 20120119233407
+ilexchange.rit.co.il 2 66 810218 20120117095032
+78.93.241.194 0 8 323488 
+31-221-21-34.cust-31.exponential-e.net 9 159 4862520 20120112124442
+135.196.109.107 2 60 622608 20120125141421
+ec2-75-101-203-247.compute-1.amazonaws.com 3 3 44907 20120113194605
+vc-gp-s-41-27-78-53.umts.vodacom.co.za 3 57 1815534 20120108214510
+static-208-80-194-29.as13448.com 12 12 179628 20120114163449
+198.145.116.13 12 15 130629 20120104082422
+89.149.223.242 3 3 44907 20120112020624
+pc1.idsadsl.ftech.co.uk 0 12 293272 
+46.34.3.50 9 147 3539142 20120119114121
+69.58.178.59 33 33 350076 20120110072304
+188-221-246-31.zone12.bethere.co.uk 3 84 919728 20120112214834
+114-35-190-57.hinet-ip.hinet.net 0 3 453498 
+78.63.127.74 0 3 453498 
+74.125.90.90 0 8 103139 
+217.205.151.18 0 40 472872 
+74.125.78.85 0 5 24863 
+82.132.242.109 0 6 53434 
+64.233.182.80 0 3 228501 
+host217-46-198-237.in-addr.btopenworld.com 6 9 3307104 20120118205855
+212.36.56.222 3 69 1222035 20120123161230
+mail.dwpub.com 15 360 4537548 20120119152459
+host86-163-34-79.range86-163.btcentralplus.com 0 12 293272 
+mail.thamesinnovationcentre.com 12 165 3380967 20120111125109
+16.217.telone.co.zw 36 381 8732451 20120120122114
+132.185.151.200 0 4 47400 
+triband-del-59.177.32.78.bol.net.in 3 60 826275 20120107101042
+195.66.119.177 3 168 1506272 20120104150636
+abts-north-dynamic-252.73.162.122.airtelbroadband.in 9 114 1808820 20120102114308
+cpc2-sout2-0-0-cust1935.basl.cable.virginmedia.com 0 12 293272 
+sla.sc 2 33 419417 20120116092954
+8.79.125.91.dyn.plus.net 0 12 293272 
+93-186-23-81.rdns.blackberry.net 0 9 43209 
+admin.inboxvision.com 2 14 323210 20120130153422
+5ac877d6.bb.sky.com 6 6 927168 20120123230245
+host-2-98-195-95.as13285.net 0 12 293272 
+65.55.237.124 0 12 293272 
+81.171.235.115 0 24 293272 
+cpc1-oxfd20-2-0-cust398.4-3.cable.virginmedia.com 0 24 586544 
+host-92-20-172-165.as13285.net 0 12 138600 
+78-86-118-26.zone2.bethere.co.uk 0 3 33096 
+cpc8-rdng20-2-0-cust391.15-3.cable.virginmedia.com 6 126 1308783 20120123230916
+213.123.51.130 0 12 293272 
+85.92.209.135 0 12 293272 
+host86-162-1-92.range86-162.btcentralplus.com 0 12 293272 
+adsl-tplus-84-209.telecomplus.net 0 3 33096 
+splicegate.demon.co.uk 0 12 293272 
+firewall.cgsecure.co.za 8 114 1973446 20120127090251
+mail.plymouth-college.co.uk 0 6 85726 
+94.245.116.26 0 12 293272 
+88-111-28-27.dynamic.dsl.as9105.com 33 270 4225587 20120105191927
+ee-in-f146.1e100.net 0 4 144252 
+173-161-41-137-illinois.hfc.comcastbusiness.net 3 3 473637 20120104222234
+205-163-250-212.static.virginmedia.com 0 12 293272 
+82-70-53-6.dsl.in-addr.zen.co.uk 0 12 293272 
+ez-in-f93.1e100.net 0 12 362817 
+213.48.46.141 0 12 293272 
+27.4.212.248 8 154 1205942 20120127105246
+84.19.51.66 0 60 293272 
+81-31-125-202.static.enta.net 0 24 293272 
+80.249.48.133 0 8 33690 
+109-231-199-254.cust-109.exponential-e.net 12 117 1643805 20120117165107
+com18-139.mcscom.mn 0 9 164937 
+v2035.eth0.proxy04.pf4.sxgfl.ifl.net 0 12 293272 
+74.125.156.90 0 6 15123 
+31-221-22-130.cust-31.exponential-e.net 0 12 293272 
+207-226-183-123.static.pccwglobal.net 3 3 1295670 20120118065037
+wsip-24-120-218-113.lv.lv.cox.net 0 12 293272 
+cpc5-hers4-2-0-cust64.6-3.cable.virginmedia.com 3 12 19890 20120107001140
+194.81.238.227 0 12 293272 
+81.144.225.196 3 129 1605209 20120113093710
+212.183.128.222 3 35 454927 20120119162804
+proxy6.uclan.ac.uk 0 12 293272 
+203.143.177.250 9 96 965577 20120112121047
+194.72.166.162 0 12 293272 
+81-159-250-212.static.virginmedia.com 0 12 293272 
+109.64.226.117 0 4 44128 
+196-215-56-139.dynamic.isadsl.co.za 0 3 33096 
+bzq-84-111-44-12.red.bezeqint.net 0 6 66192 
+cpc1-papw2-0-0-cust515.5-3.cable.virginmedia.com 0 12 293272 
+209.85.224.81 0 3 10017 
+94.197.127.200.threembb.co.uk 4 70 1376866 20120131165413
+183-110.61-188.cust.bluewin.ch 0 12 293272 
+82.198.250.68 0 12 293272 
+91.221.55.81 10 161 3397965 20120130110538
+vc-gp-n-41-14-62-111.umts.vodacom.co.za 2 36 53228 20120127122337
+ip220-40.ethernet.wplus.ru 0 2 302332 
+progresscomms.plus.com 0 12 25488 
+host-80-195-69-235.static.telewest.net 2 14 354574 20120130155915
+209.85.224.86 0 6 80331 
+213.249.149.2 0 12 293272 
+radius3.bir.opaltelecom.net 35 35 412366 20120130183552
+www.msi.net.ph 0 3 453498 
+175.176.245.85 0 24 586544 
+79.75.broadband15.iol.cz 2 2 26958 20120131153240
+cpc2-stkp9-2-0-cust610.10-2.cable.virginmedia.com 0 12 293272 
+81-31-66-61.fast.net.uk 0 12 293272 
+static-18.37.93.111.tataidc.co.in 0 9 33096 
+74.125.64.84 0 10 133290 
+host-89-240-198-60.as13285.net 3 51 288111 20120112183342
+195.59.156.126 0 12 293272 
+outbound.groundsure.com 9 633 5263635 20120119135422
+mx1.elecref.co.uk 0 12 293272 
+ec2-50-19-92-191.compute-1.amazonaws.com 0 2 27946 
+host-84-9-61-125.dslgb.com 0 12 293272 
+host217-35-128-105.in-addr.btopenworld.com 0 12 293272 
+regs210.chester.ac.uk 0 12 293272 
+72.14.202.84 0 7 14318 
+sjdc-wtp-gb-maya9.sdi.trendnet.org 3 3 33687 20120113210627
+195.157.131.54 0 24 293272 
+09031303.dsl.redstone-isp.net 0 12 0 
+195.194.161.74 0 12 293272 
+194.83.240.226 0 12 245872 
+host81-154-242-98.range81-154.btcentralplus.com 27 258 6350406 20120118124948
+ec2-50-16-193-39.compute-1.amazonaws.com 0 2 22892 
+cpc2-hitc2-0-0-cust440.9-2.cable.virginmedia.com 0 12 293272 
+199.4.27.122 18 345 7168819 20120124111541
+cpc4-woki7-2-0-cust61.6-2.cable.virginmedia.com 6 106 2195654 20120127133507
+ftp.tsw.co.za 3 57 981510 20120123143218
+31.100.190.29 6 165 3630645 20120113120947
+31.99.191.224 0 16 376402 
+221-198-201-123.static.youbroadband.in 3 84 919728 20120122161710
+47ob.scansafe.net 0 4 83130 
+harbutt.plus.com 0 12 293272 
+msnbot-207-46-12-158.search.msn.com 3 3 2008761 20120121201850
+host217-41-6-140.in-addr.btopenworld.com 0 12 293272 
+217.33.60.62 0 20 353510 
+proxy34.messagelabs.net 6 126 2546356 20120118172927
+78.93.241.210 2 2 21764 20120129171745
+cpc8-finc13-2-0-cust913.4-2.cable.virginmedia.com 9 144 2276562 20120109151905
+host86-169-88-179.range86-169.btcentralplus.com 0 12 293272 
+46.210.101.20 3 84 919728 20120117073434
+c-24-118-117-142.hsd1.mn.comcast.net 0 3 153660 
+184.173.8.157-static.reverse.softlayer.com 3 3 44907 20120102183657
+ns15.dnsmadeeasy.com 1 1 158995 20120105080157
+host86-161-22-188.range86-161.btcentralplus.com 9 119 2850243 20120127163302
+bhies.x-link.za.net 3 84 919728 20120117131210
+217.158.239.42 0 74 1490232 
+175.141.121.177 3 9 525363 20120114111310
+msnbot-207-46-12-208.search.msn.com 3 6 39438 20120118010113
+195.27.12.230 8 118 2374224 20120131180258
+65-13-168-194.static.virginmedia.com 2 62 631274 20120130113303
+77.107.158.44 0 12 293272 
+grail1.oxfam.org.uk 0 12 293272 
+ordinador4.cinet.es 0 26 646782 
+65ob.scansafe.net 0 22 293272 
+74.125.92.82 0 15 98365 
+209.85.226.89 0 3 14478 
+cpc6-glfd5-2-0-cust111.6-2.cable.virginmedia.com 0 12 293272 
+reverse.completel.net 9 117 1212306 20120117102246
+94-195-192-144.dsl.cnl.uk.net 0 60 500818 
+host86-148-226-103.range86-148.btcentralplus.com 3 105 1228752 20120103143223
+fldt.fluidata.co.uk 4 224 2426292 20120130143937
+static-208-80-194-71.as13448.com 3 3 44907 20120108202125
+117.192.229.216 4 74 798882 20120127153444
+93-97-115-215.zone5.bethere.co.uk 0 24 586544 
+195.225.189.243 6 100 2169190 20120131134240
+41-218-253-202-adsl-dyn.4u.com.gh 3 81 2386959 20120114170158
+host81-137-212-77.in-addr.btopenworld.com 6 111 1168236 20120105165516
+com18-140.mcscom.mn 3 30 314634 20120104070956
+mailserver.geo-uk.net 4 106 1974706 20120112120522
+175.141.169.143 0 3 453498 
+host86-140-19-53.range86-140.btcentralplus.com 0 8 185634 
+84.45.53.2 3 3 83772 20120112044305
+sd-21733.dedibox.fr 3 3 44907 20120111064004
+217.156.138.164 0 4 83130 
+196-215-24-23.dynamic.isadsl.co.za 0 6 33096 
+ez-in-f89.1e100.net 3 9 149667 20120112104425
+175.140.214.163 0 3 453498 
+ec2-107-21-164-82.compute-1.amazonaws.com 6 6 64638 20120113093259
+mail.mardenedwards.com 4 6 114132 20120130140246
+174.34.147.93.rdns.ubiquityservers.com 3 84 919728 20120104235415
+host217-41-47-20.in-addr.btopenworld.com 0 12 245872 
+tb-in-f81.1e100.net 0 3 40179 
+78-105-109-72.zone3.bethere.co.uk 0 48 293272 
+194.32.31.1 0 12 293272 
+192.65.220.74 3 84 919728 20120120093500
+188.29.52.48.threembb.co.uk 0 18 439302 
+relay-ptn.dstl.gov.uk 0 12 293272 
+red.softbanktelecom.co.jp 3 9 42201 20120119092033
+124.115.4.214 9 9 134721 20120118130514
+mail.sesallworld.com 6 135 1666632 20120111080615
+109.176.214.101 0 12 293272 
+proxy3.uclan.ac.uk 0 20 0 
+host86-135-228-109.range86-135.btcentralplus.com 0 12 293272 
+host86-182-235-217.range86-182.btcentralplus.com 0 54 353510 
+82.111.136.242 9 138 3472023 20120110132146
+proxy36.messagelabs.net 3 125 1519985 20120118132921
+212.183.128.124 0 8 105180 
+188.161.160.193 0 6 239838 
+196.37.3.220 0 3 33096 
+80.244.10.10 3 75 2052045 20120124103602
+222-155-132-250.jetstream.xtra.co.nz 0 12 249440 
+soho71-178.sohonet.co.uk 0 24 586544 
+5ac4d146.bb.sky.com 0 12 293272 
+mail10.barcom.co.za 0 75 33096 
+ci-primeresearch01.oxf04-01.oxf04.uk.gigastream.net 3 87 1030140 20120112115141
+1996472252.honeywell.com 0 12 293272 
+193.38.100.250 0 24 586544 
+ip-212-52-42-99.kava.lt 0 2 302332 
+31.95.231.18 0 12 293272 
+host-92-28-48-44.as13285.net 18 192 1930932 20120104192901
+213.234.38.7 0 12 293272 
+212.22.1.162 8 98 2098722 20120131153111
+38.100.21.37 3 3 32319 20120105135203
+cpc2-brad18-0-0-cust437.barn.cable.virginmedia.com 2 58 622804 20120131084937
+212.62.8.21 3 90 1028124 20120118133904
+ras1-adsl.demon.co.uk 0 24 453418 
+80.169.92.68 0 12 293272 
+static-208-80-194-30.as13448.com 25 25 374225 20120128070428
+host81-130-199-76.in-addr.btopenworld.com 0 12 293272 
+host109-157-11-74.range109-157.btcentralplus.com 0 12 293272 
+host-92-26-216-124.as13285.net 0 12 293272 
+fw1a.lhr3.uk.corp.above.net 3 93 1036728 20120110165202
+mail.upspower.co.uk 0 30 661525 
+195.224.29.2 0 16 323814 
+rev-78-156-19.isp1.alsatis.net 6 102 980694 20120124131928
+host-92-20-125-195.as13285.net 4 60 709048 20120127145301
+212.183.128.86 0 4 83130 
+195.195.0.77 0 12 293272 
+lcaen-151-91-3-205.w193-251.abo.wanadoo.fr 0 12 293272 
+host-62-24-252-133.as13285.net 54 54 644980 20120130181741
+199.27.200.82 4 4 49464 20120127220515
+85.159.131.144 0 12 293272 
+host86-152-212-137.range86-152.btcentralplus.com 15 150 3016842 20120121154714
+outbound2a.medway.gov.uk 2 14 354574 20120130130330
+rsvd-beazley-18.7.10.195.in-addr.arpa 0 12 293272 
+42-185.dsl.data.net.uk 18 270 5919699 20120119104909
+rt-pdt-0527.mxs.adsl.euronet.nl 0 12 245872 
+62.189.154.222 0 12 293272 
+94.96.18.8 2 62 811694 20120128111337
+86.96.228.85 0 15 161256 
+asp-shared-ts02.cust-d1.dataoppdrag.no 0 3 33096 
+mail.johnsonking.co.uk 0 12 293272 
+tb-in-f85.1e100.net 0 3 29826 
+209.85.224.92 0 6 18372 
+210-210-14-203.lan.sify.net 0 9 66192 
+164.11.203.58 0 16 513656 
+31.185.216.188 3 84 919728 20120123135220
+188.11.155.90.in-addr.arpa 0 15 405612 
+oucs-pwj.oucs.ox.ac.uk 0 12 293272 
+cdata05.jigsaw.com 3 3 44907 20120120103435
+184-82-15-42.static.hostnoc.net 3 3 44907 20120113225733
+194.75.129.200 0 4 25488 
+196.45.155.228 6 171 3553779 20120104122915
+81.176.230.41 0 8 39974 
+mysites.parkinsons.org.uk 0 6 146636 
+cs.soaks.kent.sch.uk 0 6 146636 
+200.9.115.6 3 75 2207397 20120120160738
+80-46-103-249.static.dsl.as9105.com 0 39 863167 
+85-210-15-220.dynamic.dsl.as9105.com 6 87 1925373 20120102152036
+23.137.78.124.broad.xw.sh.dynamic.163data.com.cn 6 6 77502 20120112070346
+host109-158-99-26.range109-158.btcentralplus.com 0 12 293272 
+mail.hertscc.gov.uk 0 12 293272 
+91.84.184.84 0 24 586544 
+78-33-14-82.static.enta.net 0 12 293272 
+74.125.156.87 0 8 102755 
+cpc13-croy20-2-0-cust260.croy.cable.virginmedia.com 0 36 25488 
+1-38-13-4.live.vodafone.in 0 3 453498 
+99-175-249-247.lightspeed.brhmal.sbcglobal.net 3 90 937605 20120121014410
+cpe-74-72-178-192.nyc.res.rr.com 3 84 951753 20120103041521
+mkbackup.power.net.uk 9 114 1011789 20120103115044
+placeholder.bt.net 0 84 1361180 
+195.27.53.211 4 106 2325686 20120131100247
+2.119-14-84.ripe.coltfrance.com 0 12 293272 
+213.132.49.118 3 102 2665071 20120118063617
+226.102.95.80.static.b26.cz 0 6 33096 
+82.132.219.231 0 8 105180 
+119.154.39.39 4 68 718008 20120129165409
+213.128.225.37 0 12 293272 
+host86-171-185-36.range86-171.btcentralplus.com 0 12 293272 
+178.250.99.94 0 12 293272 
+89.207.212.95 0 12 293272 
+smtp.asb-law.com 0 12 293272 
+213.253.7.254 0 12 293272 
+81-86-17-122.dsl.pipex.com 0 24 586544 
+ldougal1.plus.com 3 99 1050726 20120105151924
+412ob.scansafe.net 9 171 2198973 20120105111127
+139.190.3.219 6 135 1606740 20120104071921
+72.14.202.86 3 5 98944 20120112051953
+209.85.224.89 3 3 44907 20120107074735
+host81-137-210-23.in-addr.btopenworld.com 0 65 1545887 
+nspr-adsl.demon.co.uk 15 147 4165719 20120116122755
+67-14-253-98.eprimecast.com 0 12 293272 
+217.158.191.82 0 24 293272 
+46-64-48-36.zone15.bethere.co.uk 33 516 11740473 20120117220626
+94.31.12.66 0 16 293272 
+82-70-150-49.dsl.in-addr.zen.co.uk 0 14 453418 
+host81-141-16-91.wlms-broadband.com 0 28 586544 
+4.30.68.10 0 6 66192 
+mxgw1-brh.antmarketing.com 6 114 1267326 20120111090943
+ee-in-f147.1e100.net 0 2 22238 
+gatekeeper.kingston-technology.com 0 6 146636 
+client-80-0-208-84.bkl-bng-011.adsl.virginmedia.net 0 12 293272 
+78-105-100-41.zone3.bethere.co.uk 0 12 293272 
+inty.btc.co.uk 2 84 1260132 20120130132819
+50-57-64-198.static.cloud-ips.com 2 2 17186 20120131102442
+ppp121-44-139-73.lns20.syd7.internode.on.net 0 12 293272 
+sherat-adsl.demon.co.uk 0 12 293272 
+ec2-23-20-37-161.compute-1.amazonaws.com 8 8 106360 20120130203904
+94.228.180.170 0 3 33096 
+bar051-28551-rtr-adsl-55.altohiway.com 0 12 293272 
+81.134.147.66 0 24 293272 
+proxy7.uclan.ac.uk 0 12 293272 
+p3156-ipbf29marunouchi.tokyo.ocn.ne.jp 2 2 29938 20120130091305
+82.132.216.222 0 12 293272 
+212.183.128.113 2 8 24686 20120130150951
+92.99.98.79 3 60 1152483 20120105131136
+rsvd-regus-1.27.89.195.in-addr.arpa 4 92 1983144 20120131090925
+74.125.156.85 0 9 214983 
+host81-133-31-191.in-addr.btopenworld.com 3 90 933912 20120124164222
+62.171.198.187 0 12 293272 
+host217-41-66-122.in-addr.btopenworld.com 0 12 293272 
+188-220-62-78.zone11.bethere.co.uk 24 345 7677057 20120118112205
+i-195-137-62-44.freedom2surf.net 0 12 293272 
+176.144.21.46.justquaconnect.com 20 20 184662 20120129143209
+027db6f3.bb.sky.com 3 3 594717 20120112155420
+host-92-27-163-181.static.as13285.net 0 33 885079 
+213.205.232.110 0 46 293272 
+cpc5-ando6-2-0-cust161.15-1.cable.virginmedia.com 8 94 1979014 20120131092322
+abts-north-dynamic-114.245.176.122.airtelbroadband.in 3 84 919728 20120109083654
+188.66.69.24 0 4 83130 
+69ob.scansafe.net 0 22 583948 
+50ob.scansafe.net 0 12 293272 
+81.134.126.155 6 104 907386 20120130102508
+prac.amuz.wroc.pl 3 66 1183809 20120109115827
+79-68-99-37.dynamic.dsl.as9105.com 0 12 293272 
+31.86.140.48 0 8 105180 
+78-32-49-105.static.enta.net 0 18 439302 
+host81-139-139-96.in-addr.btopenworld.com 9 243 4200555 20120106141435
+webgw2.thls.bbc.co.uk 0 30 672270 
+c-75-70-6-169.hsd1.co.comcast.net 3 69 1198560 20120104033933
+141.228.106.148 0 4 83130 
+212-64-150-196.static.cloud-ips.co.uk 0 382 5019256 
+cpc1-swin15-2-0-cust197.3-1.cable.virginmedia.com 0 24 293272 
+94.191.186.96.mobile.3.dk 0 3 33096 
+82.132.215.219 0 12 293272 
+207-226-183-67.static.pccwglobal.net 3 3 463584 20120111020059
+93-152-68-29.echo.managedbroadband.co.uk 0 12 293272 
+196-210-252-94.dynamic.isadsl.co.za 3 87 924930 20120109075420
+193.0.246.21 15 204 3759051 20120117161053
+cpc2-soli5-2-0-cust107.perr.cable.virginmedia.com 6 150 4414794 20120105150941
+customer-mred-243.static.metrored.net.mx 3 90 1023714 20120125005431
+5aceaa93.bb.sky.com 0 12 293272 
+212.219.81.100 0 24 539144 
+62.189.112.129 0 134 746690 
+mailgate.norfolkandsuffolk.co.uk 0 12 293272 
+host81-141-32-108.wlms-broadband.com 0 21 372846 
+host81-139-140-33.in-addr.btopenworld.com 0 3 33096 
+80.248.239.143 2 2 21764 20120125160539
+2.30.43.175 0 12 293272 
+192.158.34.21 2 61 712206 20120130162006
+220.181.51.82 3 3 44907 20120124210042
+82.111.86.66 30 327 6889254 20120124172319
+ams3-dmz-wsa-3.cisco.com 0 12 293272 
+host86-133-164-54.range86-133.btcentralplus.com 0 12 293272 
+209.85.226.81 0 6 114105 
+66.42.142.158 0 124 586544 
+62.189.142.220 0 12 293272 
+p5b35193d.dip.t-dialin.net 12 177 2678205 20120105115512
+31-221-8-50.cust-31.exponential-e.net 4 60 1038834 20120131093024
+static-208-80-194-33.as13448.com 15 15 224535 20120131203039
+94.191.184.206.mobile.3.dk 0 3 33096 
+115.248.98.2 0 3 33096 
+host86-148-157-35.range86-148.btcentralplus.com 27 369 6849909 20120112111006
+193.128.109.233 12 255 3279006 20120124105313
+82.109.113.98 6 153 3022668 20120123115741
+mobile-166-147-118-159.mycingular.net 0 12 293272 
+195.225.189.4 0 12 293272 
+210.177.243.182 0 2 22064 
+84.93.188.208.bizsurf.pte-ag1.dyn.plus.net 0 12 293272 
+abts-north-dynamic-086.149.176.122.airtelbroadband.in 4 68 1022582 20120131132151
+62.12.71.177 0 12 293272 
+87-194-206-167.bethere.co.uk 0 36 293272 
+78-33-162-186.static.enta.net 0 24 293272 
+87.112.136.245 0 12 293272 
+host-78-149-119-100.as13285.net 3 75 2207397 20120120151039
+dab-bhx2-nat-blade-6-46.dab.02.net 0 12 293272 
+z38-06.opera-mini.net 0 9 906996 
+62.105.166.110 0 12 293272 
+31.91.204.255 0 12 293272 
+74.125.78.89 0 3 99939 
+relay.wardhadaway.com 0 4 83130 
+207.67.13.203 0 3 33096 
+198.77.155.254 3 75 2207397 20120116014646
+host86-152-29-251.range86-152.btcentralplus.com 0 10 133126 
+79.173.160.146 0 12 293272 
+cpc9-finc14-2-0-cust365.4-2.cable.virginmedia.com 0 12 293272 
+nblzone-227-200.nblnetworks.fi 4 58 643090 20120127112148
+121.243.146.108.static-hyderabad.vsnl.net.in 0 3 33096 
+mailserver.paessler.com 6 27 262743 20120102101229
+159.0.162.37 3 72 2037294 20120116155514
+74.125.78.80 0 5 213378 
+mail.netsureonline.co.uk 0 36 586544 
+147.114.44.200 0 12 293272 
+82.132.211.236 0 2 22892 
+74.125.156.93 0 14 224637 
+83-244-165-194.cust-83.exponential-e.net 21 322 6105171 20120119121423
+74.125.64.88 0 3 91326 
+78.63.210.108 0 2 302332 
+115.249.67.122 3 75 2207397 20120111090533
+31.102.70.248 0 16 72888 
+ppp121-44-197-152.lns20.syd7.internode.on.net 0 12 293272 
+74.125.156.94 0 6 43358 
+124.115.10.64 12 21 200985 20120120121318
+cpc2-nmal1-0-0-cust912.croy.cable.virginmedia.com 0 12 25488 
+88-96-140-198.dsl.zen.co.uk 0 12 293272 
+adsl-static-41-182-255-163.ipb.na 2 42 801388 20120131092115
+75-53-189-170.lightspeed.frokca.sbcglobal.net 0 15 33096 
+host-196.219.89.208-static.tedata.net 0 2 302332 
+host81-151-180-137.range81-151.btcentralplus.com 6 63 5379330 20120113133712
+237.red-79-151-236.dynamicip.rima-tde.net 3 87 1018665 20120108132824
+80.64.49.212 0 10 133126 
+212.118.107.130 0 33 107619 
+ec2-176-34-251-101.eu-west-1.compute.amazonaws.com 0 6 111076 
+203.86.164.37 0 3 33096 
+mail.keynoteworld.com 18 342 7002084 20120111154801
+209.85.224.82 0 6 99093 
+adsl-108-198-103-74.dsl.chi2ca.sbcglobal.net 3 81 852816 20120120104752
+194.98.147.35 6 150 3403528 20120131164442
+rt235bb144-213-195.routit.net 3 3 65886 20120125073337
+clients.winchester.ac.uk 0 12 293272 
+host86-161-146-20.range86-161.btcentralplus.com 4 24 1021724 20120131121201
+twobp.plus.com 0 12 293272 
+cust35-dsl91-135-8.idnet.net 0 12 293272 
+host17.infoshare-is.com 0 12 293272 
+host109-155-116-81.range109-155.btcentralplus.com 0 12 293272 
+host-92-25-10-111.as13285.net 0 12 25488 
+77-44-54-169.xdsl.murphx.net 0 12 293272 
+mx-ll-110.164.127-221.static.3bb.co.th 0 36 430392 
+wf-171-99-136-54.revip9.asianet.co.th 6 42 369177 20120119093923
+mail.cohesive.uk.com 12 174 4670041 20120111093132
+146.101.170.100 0 12 293272 
+westpoint.beoffices.com 3 84 919728 20120105110002
+txintdef.sbc.com 0 12 293272 
+host81-159-152-147.range81-159.btcentralplus.com 0 48 293272 
+222-155-133-183.jetstream.xtra.co.nz 0 12 293272 
+178.187.34.193.bridgep.com 0 12 293272 
+access.southdevon.ac.uk 0 24 586544 
+212.183.128.49 0 36 879816 
+host86-131-211-223.range86-131.btcentralplus.com 0 12 293272 
+host86-169-47-157.range86-169.btcentralplus.com 0 24 491744 
+178.219.61.22 0 2 302332 
+5ac9ccf3.bb.sky.com 0 12 293272 
+c-76-109-53-163.hsd1.fl.comcast.net 6 114 1267173 20120119163245
+93-96-187-54.zone4.bethere.co.uk 0 12 293272 
+proxy24.messagelabs.net 4 92 2001196 20120131114115
+ez-in-f80.1e100.net 3 27 393540 20120117214026
+college.writtle.ac.uk 3 93 1127208 20120116151106
+87.86.134.250 0 75 369804 
+149.254.187.113 0 12 293272 
+calvin.st-edmunds.cam.ac.uk 0 12 293272 
+195.245.232.21 9 126 1432263 20120120103750
+80-46-11-63.static.dsl.as9105.com 0 12 293272 
+fw-ips.net-ctrl.com 6 100 2128988 20120131113519
+74.125.64.90 2 5 118284 20120131153817
+mail.royalandderngate.co.uk 0 36 669674 
+5ac7f1a3.bb.sky.com 0 12 293272 
+84.233.190.254 38 239 4850526 20120125181704
+cpc2-acto2-2-0-cust775.4-2.cable.virginmedia.com 0 24 293272 
+212.183.128.19 0 11 138276 
+in141-59.intranet.gr 12 131 15763455 20120125075144
+telehouse-datahop1.skyline-networks.net 0 4 0 
+btmupdates.marshal.com 3 9 48216 20120122202047
+83-244-250-178.cust-83.exponential-e.net 12 90 2844069 20120110134401
+115.184.246.9 2 44 583270 20120127145654
+157.55.0.155 0 12 293272 
+cpc6-smal11-0-0-cust18.perr.cable.virginmedia.com 0 12 293272 
+gbibp9ph1--blueice2n5.emea.ibm.com 0 4 83130 
+iad1-wtp-gd-maya3.sdi.trendnet.org 6 6 3174828 20120110125844
+81.2.78.28 0 24 293272 
+80.40.134.103 4 4 91240 20120130140316
+93-97-190-150.zone5.bethere.co.uk 0 12 293272 
+94-194-116-28.zone8.bethere.co.uk 0 12 293272 
+83-244-227-20.cust-83.exponential-e.net 0 12 293272 
+02da2f27.bb.sky.com 4 90 2014800 20120126115750
+cpc2-watf6-0-0-cust498.15-2.cable.virginmedia.com 0 12 293272 
+64.233.182.83 3 9 173007 20120110091601
+196.38.131.69 2 2 1141656 20120131103508
+security.lightspeedsystems.com 30 30 337356 20120110131607
+82-69-175-53.dsl.in-addr.zen.co.uk 0 12 293272 
+195.60.11.81 0 24 293272 
+83-244-199-2.cust-83.exponential-e.net 0 24 293272 
+static-208-80-194-28.as13448.com 24 24 359256 20120124073711
+ns10.dnsmadeeasy.com 2 2 317990 20120105080157
+86.96.226.88 0 15 109557 
+82.111.205.58 0 26 231744 
+212.183.128.187 0 12 293272 
+ycar8.mobile.sp1.yahoo.com 0 3 453498 
+host86-186-150-61.range86-186.btcentralplus.com 0 12 293272 
+80.227.142.54 3 12 108135 20120118055725
+pmsmail01.perse.co.uk 0 12 293272 
+pds-mimesweeper.parkinsons.org.uk 0 6 146636 
+host-92-13-77-81.as43234.net 3 72 2037294 20120116101530
+195.99.135.82 0 10 233034 
+197.226.254.222 0 15 33096 
+82.132.242.164 0 22 558598 
+ctlfw1.comptel.com 6 24 6474222 20120117130157
+31.99.40.141 3 90 1033143 20120118204024
+dab-bhx2-nat-blade-8-1.dab.02.net 0 12 293272 
+8.21.4.254 18 18 317536 20120131153629
+ams3-dmz-wsa-1.cisco.com 0 63 1137820 
+86.188.232.218 0 12 293272 
+mail1.audiocodes.com 18 195 6456966 20120125080025
+198.96.136.1 0 26 609436 
+198.45.26.27 0 14 0 
+202.92.67.179 0 126 293272 
+195.59.168.126 0 12 293272 
+pr-lan-pix1.vital-group.net 0 75 1509292 
+109-170-162-34.xdsl.murphx.net 0 12 293272 
+sdcwebdproxy5.europe.hp.net 8 96 1973446 20120130125514
+server218.customscoop.com 112 112 1272482 20120131143659
+gate.xentech.co.uk 0 12 293272 
+115.108.113.76.static-hyderabad.vsnl.net.in 0 3 33096 
+115.82.183.61.broad.wh.hb.dynamic.163data.com.cn 3 3 44907 20120115103124
+93.157.219.252 12 240 3571527 20120123164824
+202.53.12.44 18 255 5173617 20120102082810
+ec2-174-129-158-116.compute-1.amazonaws.com 3 3 44907 20120114100028
+212.36.61.90 6 72 1226124 20120105144005
+tyo105.gate.nec.co.jp 0 3 33096 
+50-82-239-137.client.mchsi.com 3 81 2231130 20120116170908
+95.71.31.86 18 18 197967 20120113164654
+proxy28.messagelabs.net 0 3 0 
+193.195.181.230 0 12 293272 
+188-221-42-26.zone12.bethere.co.uk 6 156 1807062 20120113221936
+zen-inetgw-5a.nhs.uk 0 24 586544 
+202.164.36.75 2 60 682578 20120131055358
+zen-inetgw-4a.nhs.uk 0 60 586544 
+81.136.231.209 6 174 924930 20120112125426
+host81-16-180-19.elabnet.de 0 12 293272 
+64.39.23.126 112 112 1309880 20120131185848
+02d87ea8.bb.sky.com 6 102 1070172 20120107202833
+hsi-kbw-091-089-234-112.hsi2.kabel-badenwuerttemberg.de 0 2 302332 
+mx0.solarsoft.com 4 6 114132 20120130110646
+81-86-128-85.dsl.pipex.com 0 12 293272 
+zen-inetgw-8a.nhs.uk 12 243 3239145 20120124155727
+ban-static-211-179.196.203.direct.net.in 6 162 2912658 20120117121137
+host81-151-118-15.range81-151.btcentralplus.com 0 12 293272 
+5ac35a50.bb.sky.com 0 12 293272 
+217.205.148.98 0 12 293272 
+mail.borri.co.uk 2 56 613152 20120131111346
+p5dcf5379.dip.t-dialin.net 0 6 66192 
+gmconsulting.dfinet.ch 3 3 44907 20120109083633
+46.249.210.92 6 144 3159021 20120103154413
+109.94.137.1 0 26 293272 
+194.72.127.34 0 12 293272 
+92.40.254.108.threembb.co.uk 3 72 2037294 20120108174952
+host86-161-139-81.range86-161.btcentralplus.com 0 60 293272 
+ez-in-f85.1e100.net 0 6 141177 
+webcache-04.segfl.ifl.net 0 12 293272 
+82.109.97.49 0 12 245872 
+92.54.155.235 9 9 97731 20120120122716
+88-111-242-122.dynamic.dsl.as9105.com 0 12 293272 
+88-97-135-238.dsl.zen.co.uk 0 24 293272 
+117.200.3.163 3 87 1031844 20120106133919
+82.144.253.92 0 12 293272 
+87-224-34-10.spitfireuk.net 11 285 4773566 20120131105011
+83-244-196-4.cust-83.exponential-e.net 0 12 293272 
+74.125.92.91 0 6 214720 
+infpc0015.staff.aber.ac.uk 0 12 293272 
+203.107.123.79.in-addr.arpa 0 12 293272 
+162.97.99.36.fticonsulting.com 12 231 4040253 20120119190300
+12.233.90.171 6 153 3182133 20120109175557
+mailout.alterian.com 0 12 293272 
+mail.hillreed.co.uk 0 12 293272 
+sncdcpubfw_cluster.nai.com 0 4 83130 
+209.85.224.97 0 3 1110 
+220-96-136-186.fibertel.com.ar 0 2 302332 
+92.62.174.150 0 60 293272 
+mail1.peoplesource.co.uk 0 76 50976 
+asy172.asy185.tellcom.com.tr 3 3 594717 20120106214432
+77-44-112-191.xdsl.murphx.net 6 90 2314335 20120113095825
+194.72.84.20 0 24 293272 
+118.107.128.251 3 87 1018665 20120108041730
+41-133-80-9.dsl.mweb.co.za 0 3 33096 
+host81-154-15-217.range81-154.btcentralplus.com 0 12 293272 
+2.50.150.73 3 114 2758173 20120112060559
+193.128.104.19 0 12 293272 
+82.108.72.158 0 12 293272 
+94.31.4.204.available.above.net 0 12 293272 
+host-78-147-146-147.as13285.net 12 186 3770511 20120116102332
+64.233.182.86 3 9 31074 20120116070853
+195.59.90.219 0 12 293272 
+80.169.194.202 0 12 293272 
+193.182.189.199 2 2 18190 20120131150550
+bupu.mzk.cz 6 6 29082 20120123143441
+82-71-9-151.dsl.in-addr.zen.co.uk 8 239 3883641 20120131134354
+38.99.102.228 3 3 33759 20120124190304
+62.239.159.6 0 36 879816 
+server-smtp.actimax.co.uk 0 24 293272 
+smtp-hs.virgingames.com 0 12 293272 
+optimity.co.uk 0 84 586140 
+maila.mym.co.uk 0 21 403902 
+host217-40-68-140.in-addr.btopenworld.com 6 150 3343836 20120104142820
+212.183.128.102 0 8 105180 
+57.66.88.129 0 36 491744 
+193.113.57.165 4 74 1867326 20120125143730
+msnbot-207-46-12-122.search.msn.com 2 2 259020 20120130031359
+192.223.140.45 3 90 934236 20120111101449
+193.128.243.6 0 12 293272 
+mail-s.worldwidefruit.co.uk 0 12 293272 
+41.58.23.233 6 126 1982973 20120103210129
+91.84.12.252 0 24 586544 
+host86-174-137-205.range86-174.btcentralplus.com 0 12 293272 
+cpc14-hers4-2-0-cust64.6-3.cable.virginmedia.com 6 147 3154215 20120113113229
+dsl-243-106-10.telkomadsl.co.za 30 201 4844301 20120102174109
+sho015-78834-net-adsl-02.altohiway.com 0 12 293272 
+33-78-28-86.static.virginmedia.com 0 12 293272 
+74.125.92.81 0 4 38180 
+150-205-200-46.pool.ukrtel.net 12 12 179628 20120121100303
+tb-in-f80.1e100.net 0 6 38877 
+84.21.137.27 3 54 760104 20120119094249
+mailgate.bells-romsey-solicitors.co.uk 0 4 83130 
+adsl1-p3903.ras.network-i.net 6 126 1041561 20120119110335
+82.132.242.142 0 12 293272 
+mapcentre.plus.com 0 12 293272 
+83-244-245-82.cust-83.exponential-e.net 0 12 293272 
+195.194.63.203 2 50 1398290 20120126112843
+82.132.237.73 0 8 105180 
+194.73.107.250 0 12 293272 
+2.26.210.76 0 12 293272 
+tvp-ltd1.demon.co.uk 4 68 713448 20120131165644
+195.33.34.79 6 104 2915890 20120126153514
+mail.think4itsolutions.com 0 12 293272 
+dat023-96231-rtr-adsl-48.altohiway.com 0 72 293272 
+host-92-26-209-99.as13285.net 2 62 690936 20120130183522
+eastglen.demon.co.uk 0 12 293272 
+cpc2-croy1-0-0-cust49.croy.cable.virginmedia.com 0 12 293272 
+212.140.80.186 0 12 293272 
+41-134-138-234.dsl.mweb.co.za 8 70 654248 20120127130723
+199.197.130.216 6 142 2852676 20120130200316
+static-208-80-194-26.as13448.com 18 18 269442 20120113070433
+host86-142-147-105.range86-142.btcentralplus.com 0 12 293272 
+host217-37-97-211.in-addr.btopenworld.com 2 14 354574 20120130115200
+uk-gw1.informa.com 66 1026 20706662 20120130140528
+82.108.221.180 0 12 293272 
+212.2.25.53 0 12 293272 
+83-244-237-114.cust-83.exponential-e.net 3 75 2044413 20120117082640
+48ob.scansafe.net 3 112 1453764 20120117122546
+74.125.92.88 0 7 133666 
+213.212.75.70 0 12 293272 
+82.132.210.69 0 8 105180 
+197.251.135.168 2 50 1398290 20120125203418
+dsl-217-155-28-21.zen.co.uk 0 12 293272 
+cpc3-hatf1-0-0-cust305.9-3.cable.virginmedia.com 0 18 439302 
+88-104-106-239.dynamic.dsl.as9105.com 2 246 0 20120130105703
+host81-149-49-136.in-addr.btopenworld.com 0 12 293272 
+115.111.205.210.static-mumbai.vsnl.net.in 3 66 1176216 20120116114431
+static-208-80-194-35.as13448.com 5 5 74845 20120130192232
+109-231-203-66.cust-109.exponential-e.net 0 12 293272 
+ec2-50-19-92-178.compute-1.amazonaws.com 0 4 79692 
+64.49.215.220 105 105 1236917 20120131221841
+94-193-106-134.dsl.cnl.uk.net 0 12 293272 
+85.92.208.147 0 12 293272 
+196.0.4.70 18 138 2094918 20120102165106
+82.152.231.109 0 24 293272 
+host86-157-156-25.range86-157.btcentralplus.com 0 12 293272 
+85.92.194.123 0 36 353510 
+mailserver.tecres.uk.com 6 132 1404057 20120117150808
+91.85.59.190 0 12 293272 
+host-80-194-86-146.static.cable.virginmedia.com 0 77 293272 
+tb-in-f91.1e100.net 0 3 31710 
+ez-in-f91.1e100.net 0 9 217578 
+74.125.78.84 0 5 126734 
+213.212.113.245 0 8 245872 
+ec2-50-16-198-92.compute-1.amazonaws.com 0 2 2596 
+74.125.78.91 0 8 42499 
+74.125.156.89 3 7 135107 20120104213156
+194.83.245.97 0 12 293272 
+ik-sg07.proxy.jp.panasonic.com 0 12 293272 
+dab-bhx2-nat-blade-9-81.dab.02.net 0 12 293272 
+193.129.26.250 0 12 293272 
+64.49.215.219 115 115 1332661 20120131174426
+77-44-67-241.xdsl.murphx.net 6 255 625149 20120118160821
+194.70.35.178 0 12 293272 
+217.33.190.115 0 12 293272 
+websrv.quantel.com 0 4 25488 
+ee-in-f144.1e100.net 0 2 22810 
+cpc2-pmth2-0-0-cust247.6-1.cable.virginmedia.com 0 36 368202 
+212.85.17.10 0 12 293272 
+host109-153-100-3.range109-153.btcentralplus.com 0 12 293272 
+50.23.23.81-static.reverse.softlayer.com 3 3 44907 20120102183703
+217.205.2.254 0 12 293272 
+cpc16-haye16-2-0-cust226.haye.cable.virginmedia.com 0 12 293272 
+server216.customscoop.com 109 109 1246457 20120131130753
+72.14.202.91 0 2 4430 
+v2035.eth0.proxy04.pf1.sxgfl.ifl.net 0 12 293272 
+74.125.64.82 0 6 104826 
+217.158.138.77 0 60 293272 
+adsl-99-60-228-57.dsl.pltn13.sbcglobal.net 3 84 919728 20120117063349
+host81-149-18-36.in-addr.btopenworld.com 0 7 210833 
+213-152-235-4.available.above.net 0 12 293272 
+18741037213.user.veloxzone.com.br 6 144 631274 20120131120913
+host81-137-155-129.in-addr.btopenworld.com 17 242 6480039 20120131104257
+du-012-0080.freeuk.com 6 114 1093692 20120118125226
+115.249.36.157 9 138 3830541 20120124070658
+196.215.139.154 6 120 2016315 20120124065342
+ares.ext.uksouthgw.xerox.com 0 12 293272 
+195.43.48.142 0 12 156018 
+static-218.195.99.14.tataidc.co.in 21 138 6187302 20120105100054
+82.111.129.114 2 42 801388 20120125181643
+rrcbus138.claranet.co.uk 2 56 613152 20120125165402
+colo-69-172-133-106.pilosoft.com 3 3 282000 20120121031307
+wbs-196-2-126-172.wbs.co.za 0 6 66192 
+cpe.atm4-0-7647.bynxx18.customer.tele.dk 9 159 3480531 20120110131117
+m90-130-138-23.cust.tele2.lt 0 3 453498 
+195.50.80.2 8 268 3850541 20120126121112
+089-100-113034.ntlworld.ie 6 120 1036110 20120113163509
+proxy01.th.ifl.net 0 12 293272 
+188-222-129-138.zone13.bethere.co.uk 0 12 293272 
+175.141.183.126 3 93 946209 20120113112202
+static-50-53-106-15.bvtn.or.frontiernet.net 6 75 2632011 20120111201433
+ec2-50-17-102-133.compute-1.amazonaws.com 3 3 32319 20120113031024
+182.185.121.164 3 81 852816 20120114122748
+41.71.141.23 0 4 83130 
+host94-175-246-114.not-set-yet.virginmedia.net 3 84 919728 20120112091942
+5acfbe1e.bb.sky.com 0 12 293272 
+85.159.129.132 0 24 591807 
+64-186-161-2.static-ip.telepacific.net 0 12 293272 
+12.130.164.240 2 58 679110 20120127180956
+209.85.224.80 0 3 26703 
+80.231.216.11 0 12 293272 
+8.27.113.0 0 12 293272 
+host-83-146-14-156.dslgb.com 2 58 619140 20120126161632
+por037-84141-net-adsl-02.altohiway.com 3 93 1036542 20120125103855
+180.193.107.98 3 3 463584 20120103102948
+pub-192-41-95-2.center7.com 2 8 78318 20120130125442
+host-80-194-213-101.static.virginmedia.com 0 16 293272 
+198.45.26.29 0 33 0 
+195.171.3.40 6 159 3457666 20120116162318
+host217-40-92-193.in-addr.btopenworld.com 0 12 293272 
+host211-64-static.120-81-b.business.telecomitalia.it 0 2 302332 
+autodns-194-66-175-81.staffs.ac.uk 0 60 527886 
+host86-153-157-159.range86-153.btcentralplus.com 0 12 293272 
+209.85.224.85 0 9 29607 
+197.225.50.218 12 102 7400790 20120118155640
+zen-inetgw-9a.nhs.uk 0 48 586544 
+117.41.164.133 3 3 44907 20120123063101
+82-69-56-122.dsl.in-addr.zen.co.uk 0 12 293272 
+mailgate.ppm.co.uk 0 3 33096 
+57.66.65.3 0 12 293272 
+94-30-35-58.xdsl.murphx.net 0 36 295868 
+212.44.22.63.ip.redstone-isp.net 9 141 3732081 20120117161657
+host-92-24-60-208.ppp.as43234.net 3 72 2037294 20120115023004
+194.80.135.82 0 24 586544 
+38.111.125.78.rev.sfr.net 0 3 33096 
+82.132.242.154 0 12 293272 
+64.233.182.82 0 15 390822 
+424ob.scansafe.net 3 90 1765295 20120124153339
+wanmarket01.wanstor-news.com 0 12 146636 
+78-25-196-206.static.dsl.as8607.net 0 12 293272 
+zen-inetgw-9b.nhs.uk 3 24 431388 20120104145014
+host86-166-177-101.range86-166.btcentralplus.com 0 3 33096 
+host-2-102-93-24.as13285.net 0 12 293272 
+mailgate.solagroup.com 0 12 293272 
+tnt-srv.bpk.redwingsat.com 0 3 33096 
+69-64-84-80.dedicated.abac.net 2 56 613152 20120128205702
+host86-173-1-141.range86-173.btcentralplus.com 0 12 293272 
+80.214.9.51 0 3 39627 
+188-220-19-116.zone11.bethere.co.uk 0 10 290676 
+ls-fw.lonsys.co.uk 9 132 3303258 20120124095951
+host86-154-14-112.range86-154.btcentralplus.com 0 44 1188192 
+steedsud.dsl.keme.net 0 10 48380 
+82.132.242.168 0 12 293272 
+astdenis-108-1-103-158.w80-8.abo.wanadoo.fr 3 78 2216154 20120124114200
+176.44.21.239 0 2 302332 
+host81-147-191-245.range81-147.btcentralplus.com 3 84 919728 20120116204733
+210.212.219.250 2 54 1517772 20120127052843
+dsl-242-248-69.telkomadsl.co.za 12 182 1933132 20120127071157
+199.19.248.71 3 3 44907 20120117142609
+212.183.128.26 0 12 293272 
+southend_hide.cache.e2bn.org 0 12 293272 
+office.datacenterdynamics.com 6 153 2521002 20120119154539
+111.13.8.242 3 3 44907 20120116013040
+ns363708.ovh.net 15 15 171893 20120128192714
+255365.terrapinn.ce.mistral.net 2 56 613152 20120125164135
+host86-180-134-107.range86-180.btcentralplus.com 0 10 248330 
+host81-139-126-138.in-addr.btopenworld.com 32 600 5943076 20120130142342
+host-41-206-75-47.afnet.net 0 3 33096 
+mail2.bss-ltd.com 0 12 293272 
+62.25.109.196 0 26 541836 
+155.136.80.36 0 12 293272 
+157.55.43.24 0 12 293272 
+117.240.82.18 3 3 476985 20120124095056
+93-97-160-13.zone5.bethere.co.uk 0 36 539144 
+cpc2-shef10-2-0-cust896.barn.cable.virginmedia.com 0 44 586544 
+host81-149-93-16.in-addr.btopenworld.com 0 12 293272 
+41.217.220.238.myisp.co.ke 12 183 1332429 20120109065712
+host-80-195-38-187.static.cable.virginmedia.com 0 12 293272 
+46.85.112.87.dyn.plus.net 0 18 439302 
+194.116.198.179 3 354 6107846 20120103153127
+193.28.178.13 4 4 47124 20120127232038
+117.230.4.113 2 2 3035370 20120130205723
+no-reverse-dns.metronet-uk.com 0 36 879816 
+91.223.126.19 9 123 1100895 20120124092621
+87-194-167-44.bethere.co.uk 3 84 919728 20120117142026
+212.108.82.146 0 12 293272 
+78.16.187.23 0 4 83130 
+82.132.213.101 0 8 105180 
+cpc2-rdng23-2-0-cust105.15-3.cable.virginmedia.com 2 52 828622 20120126180223
+hancock465.claranet.co.uk 0 12 293272 
+host86-165-159-90.range86-165.btcentralplus.com 21 195 8597955 20120118205421
+abts-kk-dynamic-080.33.172.122.airtelbroadband.in 6 120 1291044 20120109094627
+119.155.135.202 3 99 1414587 20120108174022
+212.165.124.222 0 24 293272 
+212.183.128.56 0 12 293272 
+5ad197f9.bb.sky.com 6 154 1929808 20120127182727
+host-92-27-198-81.static.as13285.net 3 96 1041606 20120105152220
+213.174.203.4 0 12 293272 
+88-96-190-105.dsl.zen.co.uk 0 12 293272 
+ec2-184-72-156-107.compute-1.amazonaws.com 3 3 44907 20120112104728
+94-195-196-55.zone9.bethere.co.uk 2 56 613152 20120126115541
+193.234.222.96 2 2 26958 20120131153546
+ip143-171.44.194.dan.net.ua 3 6 34404 20120124190020
+217.156.134.120 3 86 2291465 20120112121722
+2-117-250-212.static.virginmedia.com 0 24 293272 
+27.38.36.226 42 42 419811 20120107060312
+static-host202-61-48-26.link.net.pk 12 177 3181542 20120112100322
+fw.hesa.ac.uk 0 12 245872 
+host-78-147-133-67.as13285.net 0 12 293272 
+196.46.245.41 3 57 1590627 20120104181618
+host-2-97-232-221.as13285.net 0 12 293272 
+93.152.20.90 0 12 293272 
+host-78-145-22-60.as13285.net 4 30 1085956 20120125145402
+90-229-219-42-no12.tbcn.telia.com 0 12 0 
+212-201-91-219.static.youbroadband.in 2 56 613152 20120131130605
+abts-kk-dynamic-155.106.167.122.airtelbroadband.in 6 144 3159345 20120124143024
+78.41.209.161 3 87 952824 20120124214607
+109-170-144-65.xdsl.murphx.net 0 12 293272 
+85.118.28.67 0 12 293272 
+host86-164-162-212.range86-164.btcentralplus.com 0 12 293272 
+activsolutions.net 6 192 1993719 20120118131706
+cpc4-hers2-0-0-cust592.6-3.cable.virginmedia.com 0 12 293272 
+cpc6-nrte26-2-0-cust686.8-4.cable.virginmedia.com 0 36 879816 
+27.108.191.135.bti.net.ph 3 33 1302273 20120103050440
+ip4-46-39-163-98.cust.nbox.cz 0 12 293272 
+49ob.scansafe.net 0 12 293272 
+maaz.bton.ac.uk 0 12 25488 
+80.248.228.112 2 2 18190 20120131154158
+rrcs-66-27-52-230.west.biz.rr.com 0 12 293272 
+12.217.161.130 0 15 326368 
+86.188.199.50 0 36 293272 
+c-67-169-40-141.hsd1.ca.comcast.net 3 84 919728 20120115225021
+174-23-212-161.slkc.qwest.net 3 81 2231130 20120103041853
+212.183.128.96 0 12 293272 
+84.12.102.226 0 24 586544 
+196-210-195-94.dynamic.isadsl.co.za 3 3 3269706 20120118211506
+124.115.10.68 3 6 52026 20120112064110
+gateway.c2kni.net 0 12 293272 
+212.219.235.197 0 54 1362517 
+client-86-17-85-39.cht-bng-12.adsl.virginmedia.com 0 12 293272 
+80.249.48.135 0 3 0 
+41.192.255.123 18 168 2392308 20120119064514
+75.109.65.80.static.introweb.nl 0 12 293272 
+cpc4-lewi17-2-0-cust489.2-4.cable.virginmedia.com 0 12 293272 
+host-2-96-127-4.as13285.net 0 12 293272 
+ws1.bt.com 3 134 4206076 20120116165640
+server.4gtech.co.za 0 6 33096 
+backer.demon.co.uk 0 12 293272 
+84-93-218-165.plus.net 4 186 2277384 20120130151425
+host-78-151-183-107.as13285.net 0 12 293272 
+host-212-158-206-251.dslgb.com 0 18 395856 
+188-122-32-41.xdsl.5gdsl.com 0 28 589140 
+host-92-27-10-5.static.as13285.net 0 24 586544 
+209.85.224.93 0 6 99168 
+213.205.196.10 0 10 133126 
+180.151.33.10 0 3 33096 
+dhcp-89-21-227-37.cust.vostron.net 8 246 5915194 20120130140814
+80.227.143.182 0 36 33096 
+0x5da33acb.boanqu2.dynamic.dsl.tele.dk 0 12 293272 
+5e070f2e.bb.sky.com 12 141 3769437 20120112131345
+109-204-31-100.adept.managedbroadband.co.uk 0 12 293272 
+cacher6.ericsson.net 0 3 33096 
+z11-03.opera-mini.net 3 3 28200 20120111202816
+83-244-196-130.cust-83.exponential-e.net 0 12 293272 
+host-92-27-68-130.static.as13285.net 3 90 1027269 20120124180353
+mx-check.com 3 3 44907 20120115013007
+78-32-185-196.static.enta.net 0 24 25488 
+119.235.49.90 12 192 4248075 20120124133914
+cpc2-nmal18-2-0-cust411.croy.cable.virginmedia.com 3 93 1027686 20120124151724
+5ac465fd.bb.sky.com 0 12 293272 
+74.125.156.80 0 9 74371 
+abts-north-dynamic-214.227.68.182.airtelbroadband.in 3 81 808227 20120111114006
+host81-149-30-66.in-addr.btopenworld.com 6 147 3169854 20120117111021
+hide.southend.e2bn.org 0 16 293272 
+pub-192-41-40-175.center7.com 4 4 45012 20120128041757
+host81-149-1-184.in-addr.btopenworld.com 15 168 5141877 20120117220125
+119.154.26.129 2 2 396478 20120126065656
+212.118.224.148 6 207 3960294 20120118121544
+kitts.t-mobile.co.uk 0 24 293272 
+82.153.158.42 0 12 293272 
+94-175-239-5.static.virginmedia.net 0 18 439302 
+peterbushshire-74.adsl.newnet.co.uk 0 22 558598 
+31-221-14-82.cust-31.exponential-e.net 0 20 459532 
+vc-gp-s-41-27-157-146.umts.vodacom.co.za 0 3 33096 
+85-210-69-80.dynamic.dsl.as9105.com 6 93 1572729 20120110124115
+194.0.236.87 0 10 273818 
+117.25.130.74 42 42 419811 20120105065440
+193.201.64.19 3 111 1511321 20120124161854
+radius4.bir.opaltelecom.net 20 20 279025 20120130183553
+80.169.91.69 0 12 293272 
+82.33.246.34 0 16 293272 
+dsl-tn-dynamic-096.237.164.122.airtelbroadband.in 3 3 594717 20120113041319
+ukpn101-adsl.demon.co.uk 0 12 293272 
+customer26384.102.kt.cust.t-mobile.co.uk 0 22 426398 
+42ob.scansafe.net 0 26 609436 
+easynet82-118-168-26.shabakah.net 0 40 1053038 
+mail.alfredprice.co.uk 0 12 293272 
+109-170-144-180.xdsl.murphx.net 0 12 293272 
+119.154.113.109 2 2 29938 20120131100248
+8ta-151-15-217.telkomadsl.co.za 18 162 3180270 20120116140705
+owa.nkwazi.gov.zm 6 6 11157 20120104090557
+94-193-49-74.zone7.bethere.co.uk 0 21 301746 
+p18-bunting-gui.tch.virgin.net 0 60 353510 
+safe.rit.co.il 1 33 405109 20120117095032
+host86-181-171-186.range86-181.btcentralplus.com 0 24 293272 
+72.14.202.81 2 20 158765 20120129185409
+106.78.254.220 3 9 525363 20120109160932
+115.248.195.129 3 111 1027422 20120120053714
+74.125.64.83 0 8 210049 
+61.28.199.248 6 120 2143212 20120109124852
+lmontsouris-156-26-7-175.w80-14.abo.wanadoo.fr 0 3 33096 
+80.169.207.130 0 24 586544 
+62.6.172.118 0 12 293272 
+host86-144-64-193.range86-144.btcentralplus.com 0 18 439302 
+70-90-168-49-sfbacalifornia.hfc.comcastbusiness.net 3 75 2207397 20120123223232
+193.163.248.30 0 2 19454 
+cm246.gamma13.maxonline.com.sg 3 36 433485 20120113094333
+ip-87-85-121-98.easynet.co.uk 0 12 293272 
+193.142.216.1 0 60 489148 
+62.73.153.164 0 12 293272 
+mail.ttmetals.com 8 100 2163356 20120130144922
+88-96-160-38.dsl.zen.co.uk 0 10 133126 
+ez-in-f95.1e100.net 3 18 389925 20120117214024
+110.55.165.0 0 3 453498 
+host81-130-15-80.in-addr.btopenworld.com 0 12 293272 
+proxy42.messagelabs.net 0 4 83130 
+host-92-26-22-77.as13285.net 0 14 316164 
+netinst2.demon.co.uk 0 12 293272 
+193.133.138.4 0 24 293272 
+75-150-132-241-philadelphia.hfc.comcastbusiness.net 0 18 439302 
+server33.customscoop.com 119 119 1360245 20120131214551
+74.125.92.94 0 4 52596 
+74.125.92.85 0 4 49758 
+198.208.243.250 0 12 293272 
+206.155.72.53 6 144 2129271 20120113155609
+96-181-254-62.static.virginmedia.com 0 4 0 
+194.223.244.39 0 12 293272 
+129-219-106-81.static.virginmedia.com 0 36 879816 
+94.197.233.185.threembb.co.uk 0 12 293272 
+82.132.210.220 0 8 105180 
+host90-152-58-98.ipv4.regusnet.com 0 12 293272 
+110.224.205.45 6 114 1665285 20120123084109
+host-92-21-57-65.as13285.net 0 36 439302 
+195.211.14.32 0 6 66192 
+80.248.79.93 3 87 924930 20120106084514
+121.54.71.181 2 2 18326 20120129094932
+ee-in-f149.1e100.net 0 4 90724 
+host86-147-76-68.range86-147.btcentralplus.com 0 24 586544 
+host109-157-227-139.range109-157.btcentralplus.com 4 58 1476932 20120130163151
+31.73.216.226 3 96 2689740 20120120142304
+mobile-032-145-111-115.mycingular.net 0 3 453498 
+static.202.54.9.176.clients.your-server.de 3 3 33687 20120104144816
+telemedia-smb-250.241.183.122.airtelbroadband.in 2 56 613152 20120109052840
+vs-2-o.anixter.com 0 24 586544 
+customer-211-254.cn.zp.ua 3 3 23295 20120105042953
+123-243-38-96.static.tpgi.com.au 3 90 1098666 20120111040315
+12.53.80.232 0 12 293272 
+mail.tlsa.co.uk 3 84 919728 20120124153703
+115.249.30.178 0 36 1043652 
+164-177-157-244.static.cloud-ips.co.uk 47 47 495400 20120125235231
+ee-in-f154.1e100.net 0 4 47400 
+197.255.168.110 12 177 3180261 20120110174709
+41.160.240.58 4 46 829548 20120126121625
+c1.linkfactory.dk 3 3 44907 20120103015828
+2.25.236.189 2 50 1398290 20120126174704
+host-78-145-33-26.as13285.net 0 48 293272 
+194-213-118-130.apica.se 0 14 318292 
+mail.ziptechservices.co.uk 0 24 293272 
+sslvpn.dechert.com 0 14 316164 
+12.94.77.210 0 6 66192 
+host86-181-206-157.range86-181.btcentralplus.com 0 12 293272 
+host86-170-5-66.range86-170.btcentralplus.com 6 78 2051373 20120110140450
+ip72-201-158-28.ph.ph.cox.net 3 84 919728 20120116014221
+host86-166-49-62.range86-166.btcentralplus.com 0 12 293272 
+host81-129-10-67.range81-129.btcentralplus.com 0 12 293272 
+114.251.200.133 3 3 33687 20120115090525
+host109-158-236-119.range109-158.btcentralplus.com 0 12 293272 
+74.125.90.85 3 5 96849 20120113183543
+proxy3.agencynet.de 6 93 1056063 20120119164022
+89.207.212.3 0 12 293272 
+193.108.78.150 0 10 265326 
+dsl82-163-41-103.as15444.net 0 12 245872 
+gateway.modissolutions.co.uk 0 12 293272 
+ns3.magrus.net 3 3 33687 20120104110838
+41.221.96.75 15 156 4658427 20120105152914
+mail2.topex.ro 0 6 66192 
+93-96-188-247.zone4.bethere.co.uk 0 12 293272 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20120101 192 621 23271687 100
+20120102 312 1938 42052203 157
+20120103 492 4749 94975818 189
+20120104 540 4317 128861520 214
+20120105 534 4458 95235012 206
+20120106 276 1539 31644573 187
+20120107 321 1212 33470076 198
+20120108 198 1020 25032090 137
+20120109 423 3663 77247747 193
+20120110 537 4680 113386767 186
+20120111 627 6714 120394785 262
+20120112 582 4962 95094972 202
+20120113 399 3528 72573255 209
+20120114 135 1392 45410847 63
+20120115 84 717 23536338 34
+20120116 279 3798 81040878 87
+20120117 579 8037 167428992 136
+20120118 360 4299 119459568 110
+20120119 330 5421 109978563 110
+20120120 258 3294 77290404 104
+20120121 156 702 38268261 72
+20120122 60 363 10894953 25
+20120123 288 4071 80553267 122
+20120124 411 6126 120862272 155
+20120125 503 3872 95796076 118
+20120126 174 2250 47921912 71
+20120127 196 3216 49658590 85
+20120128 108 426 25324126 66
+20120129 106 442 11434090 57
+20120130 516 28174 492570490 174
+20120131 446 7366 143998022 189
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 328
+5mn-15mn 155
+2mn-5mn 128
+15mn-30mn 112
+30s-2mn 183
+0s-30s 3406
+30mn-1h 194
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 56
+/ 2584 36778833 1055 826
+/net.html 2456 24568265 1359 1435
+/nawc.html 791 8720520 481 490
+/sawc.html 761 10048818 448 499
+/contact.html 436 3600467 32 153
+/forms/networkingplus/reg2009.htm 361 3393514 21 91
+/sasian.html 205 1697656 39 43
+/yearbook.html 192 1467585 44 59
+/form%20email/questionnaire2012.htm 190 2031739 59 36
+/forms/africa/sawcregform.asp 155 58800 0 23
+/newsletter/2012_01/networkingplusnewsextrajan2012.html 42 1164738 14 17
+/eewc.html 128 874880 16 27
+/form%20email/questionnaire2011.htm 65 706225 18 21
+/pdfs/Net2009mediapack.pdf 8 2681720 3 0
+/pdfs/SAWC2009media.pdf 2 1088666 2 2
+/pdfs/nawc_features_2012.pdf 57 8344512 8 11
+/pdfs/nawc_features_2011.pdf 18 2363274 7 6
+/form%20email/email2011.htm 9 32607 0 0
+/pdfs/networking_mediapack_2011.pdf 145 62624050 60 83
+/pdfs/Yearbook2010.pdf 63 65394120 9 14
+/pdfs/EEWCmediapack2010.pdf 9 6026283 2 5
+/pdfs/sawc_mediapack_2011.pdf 144 76195872 115 123
+/forms/networkingplus/survey.htm 34 746708 13 13
+/stats/awstats.pl 124 3079922 0 2
+/forms/asia/sasia_reg.htm 53 476894 2 10
+/forms/asia/sasiaregform.asp 15 5202 0 2
+/form%20email/questionnaire2010.htm 3 32403 0 0
+/pdfs/nawc_mediapack_2011.pdf 152 85053372 118 125
+/pdfs/sasia_mediapack_2011.pdf 97 129003225 68 72
+/pdfs/SAWCfeatures2010.pdf 3 352506 3 3
+/pdfs/sasia_features_2011.pdf 15 1712340 5 6
+/pdfs/SASIAmediapack2010.pdf 57 62012637 53 56
+/forms/africa/sawc_reg.htm 145 1301146 14 17
+/pdfs/networking_features_2011.pdf 47 8453514 0 13
+/pdfs/sawc_features_2011.pdf 14 1813140 4 4
+/forms/africa/nawc_reg.htm 89 817732 6 15
+/yearbook/ 3 44907 3 0
+/questionnaire2008.htm 2 21570 1 1
+/pdfs/EEWCfeatures2010.pdf 12 1128000 6 6
+/pdfs/net_features_2012.pdf 149 29537611 13 60
+/pdfs/sawc_features_2012.pdf 25 3946975 3 3
+/forms/networkingplus/formsubmitted.htm 129 64500 6 26
+/forms/networkingplus/reg.htm 8 79840 4 2
+/newsletter/2011_04/networkingplus-newsextra-apr2011.html 27 753948 11 9
+/forms/africa/nawcregform.asp 51 19416 0 5
+/form%20email/BG2011.pdf 45 89588562 11 13
+/pdfs/sasia_features_2012.pdf 21 2861910 9 12
+/forms/africa/eewcregform.asp 3 882 0 1
+/pdfs/EEWC2008mediapack.pdf 3 1378986 3 3
+/ccount/ 40 2250234 7 4
+/newsletter/2011_11/networkingplusnewsextranov2011.html 66 1980858 35 37
+/thankyou.htm 80 50246 12 7
+/form%20email/email2012.htm 12 51516 3 0
+/keir/navbar/ 3 100263 0 3
+/forms/africa/eewc_reg.htm 71 554600 10 9
+/pdfs/SAWCfeatures2009.pdf 3 323775 3 3
+END_SIDER

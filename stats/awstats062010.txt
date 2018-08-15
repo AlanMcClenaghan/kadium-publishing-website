@@ -1,0 +1,382 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201006 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2603                
+POS_VISITOR 7223                
+POS_DAY 10119               
+POS_DOMAIN 3190                
+POS_LOGIN 3546                
+POS_ROBOT 3701                
+POS_WORMS 4064                
+POS_EMAILSENDER 4195                
+POS_EMAILRECEIVER 4338                
+POS_SESSION 10203               
+POS_SIDER 10381               
+POS_FILETYPES 4473                
+POS_OS 4680                
+POS_BROWSER 4823                
+POS_SCREENSIZE 5023                
+POS_UNKNOWNREFERER 5097                
+POS_UNKNOWNREFERERBROWSER 5248                
+POS_ORIGIN 5353                
+POS_SEREFERRALS 5490                
+POS_PAGEREFS 5655                
+POS_SEARCHWORDS 5890                
+POS_KEYWORDS 6111                
+POS_MISC 2267                
+POS_ERRORS 6245                
+POS_CLUSTER 3402                
+POS_SIDER_404 6385                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100912043207 1 0 42175859594
+FirstTime 20100601014949
+LastTime 20100601100817
+LastUpdate 20101105150647 1 0 0 0 0
+TotalVisits 22                  
+TotalUnique 22                  
+MonthHostsKnown 48                  
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 3 193642 3 3 117804
+1 2 3 169976 6 6 108785
+2 1 3 205987 5 5 1162
+3 0 1 0 3 4 71778
+4 1 2 50493 5 5 113491
+5 3 5 184775 6 6 871
+6 5 83 336055 8 15 669101
+7 3 10 559741 27 28 160824
+8 2 82 3879865 7 10 181748
+9 18 514 11750868 6 18 16235
+10 1 45 948495 3 5 1425
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+com 12 195 5029182
+ip 8 247 3359314
+zw 6 54 963610
+arpa 4 90 1996288
+uk 3 125 3978498
+net 3 36 2348341
+mx 0 2 302332
+lt 0 1 151166
+th 0 1 151166
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+slurp 10 764185 20100601092450 0
+googlebot 9 29406 20100601064208 0
+msnbot 3 112654 20100601045755 0
+yandex 3 71188 20100601051943 0
+twiceler 2 126690 20100601074031 0
+jeeves 1 14799 20100601072907 0
+speedy 1 9980 20100601064243 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+php 8 103593 0 0
+css 22 36192 0 0
+png 94 476982 0 0
+asp 3 1186 0 0
+html 19 187599 0 0
+jpg 413 8343145 0 0
+htm 6 95123 0 0
+gif 180 8608949 0 0
+swf 6 427128 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 2
+winxp 425
+winlong 121
+win2000 6
+linuxubuntu 41
+macosx 74
+win2003 5
+Unknown 11
+win2008 66
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+iphone 12
+msie8.0 194
+msie6.0 152
+mozilla 26
+android 2
+msie7.0 235
+firefox3.5.9 42
+firefox3.6.3 77
+Unknown 3
+chrome4.1.249.1064 5
+chrome5.0.375.55 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/4.0_(compatible;) 20100601092955
+contype 20100601094908
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+contype 20100601094908
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 361
+From1 0 0
+From2 6 21
+From3 0 3
+From4 13 366
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 6 15
+live 0 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://blog.lrytas.lt/itfan/page/3/ 0 1
+http://www.onedigital.info/www/modules.php 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+networking+plus+magazine 2
+www.kadiumpublishing.com 1
+samsung+logo 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+magazine 2
+plus 2
+networking 2
+www.kadiumpublishing.com 1
+samsung 1
+logo 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+401 1 477
+302 13 0
+206 3 299868
+500 1 626
+404 45 13029
+301 1 322
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 21
+/forms/africa/paid_subs.htm 1 -
+/blog_old/wp-login.php 1 -
+/robots.txt 17 -
+/WP/wp-login.php 1 -
+/Wordpress/wp-login.php 1 -
+/blog/backup/wp-login.php 1 -
+/blog/wp/wp-login.php 1 -
+/click 3 -
+/pdfs/yearbook2010.pdf 1 -
+/emailimages/banner.png 1 -
+/cms/wp-login.php 1 -
+/www.rascomstar.com 1 -
+/old/wp-login.php 1 -
+/wordpress/wp-login.php 1 -
+/blog/wp-login.php 2 -
+/backup/wp-login.php 1 -
+/wordpress2/wp-login.php 1 -
+/wp-login.php 6 -
+/wp/wp-login.php 1 -
+/net/forms/networkingplus/reg2009.htm 1 -
+/blog-old/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 66
+ngbz.org.zw 6 54 963610 20100601094735
+74.82.187.81.in-addr.arpa 4 90 1996288 20100601091810
+ip-217-204-90-226.easynet.co.uk 3 50 647316 20100601095233
+194.80.135.203 2 41 585273 20100601095556
+replacedb.customscoop.com 2 2 18810 20100601051645
+88-111-15-177.dynamic.dsl.as9105.com 2 45 1163986 20100601093300
+115.144.167.153 2 61 77165 20100601063546
+64.49.215.220 1 1 11317 20100601014949
+server43.customscoop.com 1 1 12345 20100601043414
+5ad12e3e.bb.sky.com 1 38 378076 20100601100817
+webcache-01.slc.ifl.net 0 6 367434 
+vpn.amos-spacecom.com 0 2 62089 
+212.183.140.22 0 2 193642 
+207.46.193.39 1 3 11423 20100601060647
+msnbot-65-52-104-43.search.msn.com 1 3 11423 20100601062652
+207.46.193.42 1 3 84878 20100601062849
+212.183.140.100 0 6 367434 
+202.53.80.163.nettlinx.com 0 1 151166 
+195.99.217.140 0 6 367434 
+200.79.242.125.cable.dyn.cableonline.com.mx 0 1 151166 
+abcmail.abc.org.uk 0 24 367434 
+host81-138-16-151.in-addr.btopenworld.com 0 6 0 
+outgoing.northyorks.gov.uk 0 6 367434 
+port-50.fbc.cams.newnet.co.uk 0 7 259991 
+ppp-58-8-190-12.revip2.asianet.co.th 0 1 151166 
+adsl-82-148-58-115.fast.net.uk 0 6 367434 
+212.118.107.130 0 2 103619 
+mailgate.symons-gay.co.uk 0 6 305511 
+server33.customscoop.com 1 1 7493 20100601073507
+server40.customscoop.com 1 1 12345 20100601020055
+212.74.97.195 0 6 367434 
+host81-143-71-137.in-addr.btopenworld.com 0 6 367434 
+host-92-15-172-100.as43234.net 0 2 193642 
+server44.customscoop.com 1 1 7493 20100601015608
+193.113.57.167 0 1 0 
+host81-149-26-38.in-addr.btopenworld.com 0 14 734868 
+smtp.griffinsg.net 1 1 11317 20100601073012
+ip-87-86-254-165.easynet.co.uk 0 6 367434 
+79-77-191-2.dynamic.dsl.as9105.com 0 6 367434 
+c-98-226-246-41.hsd1.il.comcast.net 1 6 479446 20100601093621
+198.45.26.27 0 1 0 
+95.177.77.214 0 43 0 
+62.172.76.131 0 2 0 
+host86-154-230-170.range86-154.btcentralplus.com 0 5 237340 
+dsl-189-164-156-197-dyn.prod-infinitum.com.mx 0 1 151166 
+host81-139-146-53.in-addr.btopenworld.com 0 6 0 
+host86-169-121-150.range86-169.btcentralplus.com 0 6 367434 
+ctv-86-100-231-42.ip.rygveda.lt 0 1 151166 
+195.171.36.105 0 5 237340 
+212.23.57.132 0 7 323736 
+server39.customscoop.com 1 1 12345 20100601082453
+gmw.gw.dircon.net 0 6 367434 
+88-96-65-166.dsl.zen.co.uk 0 6 367434 
+113.22.68.243 1 6 628619 20100601084911
+50-186-250-212.static.virginmedia.com 0 1 0 
+host86-158-75-8.range86-158.btcentralplus.com 0 12 734868 
+static-208-80-193-39.as13448.com 1 1 14799 20100601053308
+host86-132-61-161.range86-132.btcentralplus.com 0 6 367434 
+mail.unitedresponse.org.uk 0 6 367434 
+58-27-200-176.wateen.net 0 1 0 
+host81-136-216-224.in-addr.btopenworld.com 0 30 0 
+110.172.141.19 0 51 0 
+c-67-170-2-230.hsd1.wa.comcast.net 1 3 324294 20100601070544
+proxy-09.swgfl.ifl.net 0 6 367434 
+mail2.saunderson-house.co.uk 0 8 561076 
+195-97-224-242.onyx.net 0 5 237340 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20100601 36 751 18279897 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 1
+2mn-5mn 1
+0s-30s 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 8 103593 8 2
+/sawc.html 6 67902 3 6
+/yearbook.html 4 29972 3 3
+/net.html 3 30087 0 1
+/forms/networkingplus/survey.htm 3 65886 3 3
+/nawc.html 3 37035 3 3
+/forms/africa/sawcregform.asp 3 1186 0 0
+/eewc.html 2 13670 2 2
+/forms/networkingplus/reg2009.htm 2 20074 0 1
+/forms/africa/sawc_reg.htm 1 9163 0 0
+/contact.html 1 8933 0 1
+END_SIDER

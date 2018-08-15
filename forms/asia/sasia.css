@@ -1,0 +1,118 @@
+/* CSS Document */
+
+* {margin: 0; padding: 0; border: 0;}	/* always add this declaration at the top so all browsers start with the same defaults */
+
+p {margin-bottom: 1em;}					/* you need to add this because we cleared all the default margins above */
+
+body {
+	padding: 1.1em;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;		/* always express the main body font size in points not ems, different browsers have different default font sizes */
+	margin-left: 1%;
+}
+table, tr, td {				/* I added this because we cleared the padding on every element above */
+	padding: 1px;
+}
+h1 {
+	font-size: 1.7em;
+	color: #00008B;
+	font-weight: normal;
+}
+h2 {
+	font-size: 1.1em;
+	color: #00008B;
+}
+#logo {
+	width:  250px;
+	padding-bottom: 0.5em;
+}
+#logo img {
+	width:  250px;
+}
+#submitbtn {
+	margin: 1em auto;
+	background-color: #DDDDFF;
+}
+#submitbtn:hover {
+	cursor: pointer;
+}
+#cancelbtn {
+	margin: 1em auto;
+	background-color: #DDDDFF;
+}
+#cancelbtn:hover {
+	cursor: pointer;
+}
+#regtype {
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 2em;
+}
+#optout {
+	width: 761px;
+	margin: 1em auto 0;
+	padding-top: 1em;
+}
+#reg_para {
+	margin-left: 0.3em;
+}
+#personal td {
+	width: 10%;
+	text-align: right;
+}
+#personal td + td {
+	width: 40%;
+	text-align: left;
+}
+#personal td + td  + td {
+	width: 10%;
+	text-align: right;
+}
+#personal td + td  + td + td {
+	width: 40%;
+	text-align: left;
+}
+#country {
+	width: 214px;
+}
+.border {
+	border: 1px solid black;
+	padding: 3em 3.3em;
+	width: 700px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+.tablebg {
+	padding: 1em 1em 2.15em;
+	background-color: #CCCCFF;
+}
+.tablebg select {
+	width: 22em;
+}
+.p_fieldname {
+	width: 10%;
+	text-align: right;
+}
+.p_textfield {
+	text-align: left;
+}
+.section2 td {
+	text-align: center;
+	vertical-align: bottom;
+}
+.colheading td {
+	font-size: 8pt;
+}
+.section2 td.desc {
+	text-align: left;
+}
+.c1 input {
+	width: 1.5em;
+}
+.centred {
+	text-align: center;
+	margin: 0 auto;
+}
+.fsize8 {font-size: 8pt;}
+.fsize9 {font-size: 9pt;}
+.fsize12 {font-size: 12pt;}

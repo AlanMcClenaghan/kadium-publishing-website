@@ -1,0 +1,1034 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 200912 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2621                
+POS_VISITOR 3734                
+POS_DAY 20642               
+POS_DOMAIN 21164               
+POS_LOGIN 21862               
+POS_ROBOT 22017               
+POS_WORMS 22798               
+POS_EMAILSENDER 22929               
+POS_EMAILRECEIVER 23072               
+POS_SESSION 23148               
+POS_SIDER 23360               
+POS_FILETYPES 24627               
+POS_OS 24892               
+POS_BROWSER 25130               
+POS_SCREENSIZE 25821               
+POS_UNKNOWNREFERER 25895               
+POS_UNKNOWNREFERERBROWSER 26678               
+POS_ORIGIN 26877               
+POS_SEREFERRALS 27023               
+POS_PAGEREFS 27216               
+POS_SEARCHWORDS 29326               
+POS_KEYWORDS 30596               
+POS_MISC 2285                
+POS_ERRORS 31337               
+POS_CLUSTER 21718               
+POS_SIDER_404 31478               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100101000435 12767 3138922 32933034292
+FirstTime 20091218181111
+LastTime 20091231235351
+LastUpdate 20100205123129 12767 0 12766 0 0
+TotalVisits 774                 
+TotalUnique 212                 
+MonthHostsKnown 241                 
+MonthHostsUnknown 112                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 100 8077675 120 126 1837940
+1 57 140 2831140 101 107 483076
+2 29 85 3398232 114 121 2212381
+3 17 101 2921221 85 94 2748421
+4 49 62 3008641 73 78 3351366
+5 24 195 2105714 121 131 2917864
+6 25 387 8002041 114 145 5793066
+7 48 328 4421471 116 142 3706379
+8 83 580 24271102 128 162 3559494
+9 77 743 24129892 114 157 12300341
+10 101 637 29719923 120 179 6378984
+11 159 667 24988826 143 264 7348793
+12 108 1267 36514095 135 221 5916740
+13 122 878 25327161 91 114 2368176
+14 66 529 21470750 89 130 3294632
+15 60 502 23350237 186 206 3026518
+16 73 351 9027583 106 121 1157445
+17 38 265 14555396 101 117 938208
+18 58 262 12158382 104 125 1559349
+19 88 356 14313135 146 174 7671541
+20 41 170 6311057 104 114 5466507
+21 29 96 2432971 87 116 1225077
+22 107 442 17979221 130 213 2804208
+23 31 129 9204849 127 137 6589790
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 353
+openhart.demon.co.uk 209 717 17608050 20091230095232
+88-110-35-60.dynamic.dsl.as9105.com 111 1062 6930033 20091219135743
+server33.customscoop.com 58 58 662898 20091231233753
+server32.customscoop.com 56 56 644494 20091231203730
+server30.customscoop.com 55 55 611576 20091231223925
+server39.customscoop.com 54 54 597068 20091231105210
+server31.customscoop.com 50 50 557618 20091231225240
+smtp.griffinsg.net 43 43 495444 20091231200035
+64.49.215.220 35 35 396559 20091231144404
+64.49.215.219 32 32 356119 20091231221042
+cpc4-live20-0-0-cust147.know.cable.virginmedia.com 0 1 151166 
+cpc1-pete6-0-0-cust824.pete.cable.ntl.com 0 1 151166 
+tcthor.thomascook.com 1 28 307529 20091223151621
+host86-180-121-49.range86-180.btcentralplus.com 1 27 304376 20091223011229
+ge-3-3-0-core-as12455.orange.co.ke 8 98 1049824 20091229072703
+41.183.0.21 3 57 3193048 20091227183854
+pool-74-100-137-164.lsanca.fios.verizon.net 0 1 151166 
+colt-na108.alcatel.fr 1 1 9188 20091229073927
+79-67-74-249.dynamic.dsl.as9105.com 0 1 151166 
+dynamic.rabat2-103-236-12-196.wanamaroc.com 1 9 310164 20091231212842
+cpc1-neat4-2-0-cust266.7-3.cable.virginmedia.com 4 50 4897001 20091229222937
+host217-42-164-80.range217-42.btcentralplus.com 0 1 151166 
+d24-36-162-215.home1.cgocable.net 1 29 340274 20091219165139
+38.red-81-38-142.dynamicip.rima-tde.net 0 1 151166 
+msnbot-65-55-110-131.search.msn.com 1 2 11423 20091222194501
+webgw4.mh.bbc.co.uk 7 66 3362366 20091221061359
+198.240.213.21 0 1 151166 
+80.87.70.4 28 98 3557442 20091229150429
+64.213.130.198 3 33 617886 20091231161315
+85.137.235.173.dyn.user.ono.com 0 1 151166 
+cpc1-rdng18-0-0-cust201.winn.cable.ntl.com 4 4 41525 20091222095858
+ppp-94-68-17-131.home.otenet.gr 0 2 302332 
+201.160.203.109.cable.dyn.cableonline.com.mx 0 1 151166 
+139.48.25.61 0 1 151166 
+customer12906.pool1.unallocated-106-128.orangehomedsl.co.uk 4 72 5104700 20091220221221
+213.136.118.188 1 2 11423 20091220083612
+static-208-80-193-37.as13448.com 3 3 44601 20091229134329
+77-58-211-210.dclient.hispeed.ch 3 57 4988256 20091230120449
+server216.customscoop.com 27 27 293212 20091231221247
+pc198070.static.is.airbites.ro 0 1 151166 
+86-40-226-120-dynamic.b-ras3.mvw.galway.eircom.net 0 1 151166 
+65.55.109.146 1 3 11341 20091222163655
+host81-142-182-26.in-addr.btopenworld.com 3 32 354104 20091221114139
+cache-los-ab07.proxy.aol.com 0 1 30442 
+cache-los-ad10.proxy.aol.com 0 3 7138 
+41.208.163.136 4 49 2921913 20091225142945
+87-194-81-197.bethere.co.uk 2 51 2923653 20091221221442
+s01060018f36e9445.ed.shawcable.net 1 19 406453 20091224164748
+cache-los-ad09.proxy.aol.com 0 2 36018 
+217.139.85.109 4 51 2887025 20091221092846
+64.55.45.162 8 92 1441635 20091230225907
+cache-los-aa05.proxy.aol.com 0 1 29940 
+static-208-80-193-27.as13448.com 1 1 14867 20091230214623
+beagle.monkeybrains.net 4 4 19246 20091224082111
+c-76-17-79-205.hsd1.ga.comcast.net 1 19 214281 20091222055113
+customer2366.pool1.unallocated-111-64.orangehomedsl.co.uk 0 1 151166 
+triband-del-59.180.113.195.bol.net.in 1 1 10362 20091226053606
+cache-los-ad02.proxy.aol.com 0 3 155533 
+cache-los-ac01.proxy.aol.com 0 1 19982 
+vclass.alcatel.fr 0 3 8827 
+196.46.246.21 0 2 2004959 
+201.160.33.152.cable.dyn.cableonline.com.mx 0 1 151166 
+adsl-ull-84-175.47-151.net24.it 0 1 151166 
+70.36.100.147 3 3 44601 20091221020151
+66.36.213.57 8 53 534314 20091229111234
+41.208.82.34 2 12 155701 20091225135118
+209.49.211.164 1 32 348104 20091229155507
+no-dns-yet.demon.co.uk 2 36 332099 20091221121219
+157.pool85-51-19.dynamic.orange.es 0 1 151166 
+92.28.183.90 0 1 151166 
+195.158.115.173 0 1 151166 
+202.41.72.100 4 24 2976193 20091224103722
+cache-los-ab06.proxy.aol.com 0 1 370 
+cpc3-leic6-0-0-cust734.lei3.cable.ntl.com 0 1 151166 
+86.96.226.25 1 1 9430 20091224080659
+ns0.indigo-media.com 7 149 5224793 20091223123906
+cache-los-aa10.proxy.aol.com 0 1 32979 
+65.55.217.65 1 2 27269 20091224232500
+proxy5.messagelabs.net 1 27 304376 20091230122033
+135.214.150.104 1 20 627243 20091225011518
+static-208-80-193-43.as13448.com 1 1 14867 20091222064211
+5ad63e49.bb.sky.com 0 1 151166 
+38.100.41.112 15 20 167208 20091220154814
+84.45.46.50 7 7 83641 20091223025614
+los1.microlink.zm 3 3 24324 20091228145010
+bl7-198-155.dsl.telepac.pt 0 2 151166 
+5ac739ea.bb.sky.com 2 45 2943123 20091221175136
+41.207.193.124 2 29 315799 20091220072100
+server217.customscoop.com 26 26 296552 20091230113726
+proxy1.roburnet.sk 1 28 304376 20091221133024
+static-208-80-193-32.as13448.com 2 2 29734 20091224133600
+cpe-72-129-78-212.socal.res.rr.com 0 1 151166 
+78.146.156.135 2 48 4884889 20091222101028
+host86-172-24-60.range86-172.btcentralplus.com 3 30 2630047 20091221093806
+host86-150-117-220.range86-150.btcentralplus.com 0 1 151166 
+81.202.199.148.dyn.user.ono.com 0 3 453498 
+p4fe91ec0.dip0.t-ipconnect.de 0 2 151166 
+cache-los-ac07.proxy.aol.com 0 1 2668 
+proxy18.messagelabs.net 2 48 4878771 20091222170123
+78.147.150.116 0 1 151166 
+109.76.22.154 0 1 151166 
+fs3.twenga.com 2 2 808729 20091230075917
+158.red-193-152-202.dynamicip.rima-tde.net 0 2 302332 
+fife.gov.uk 0 6 1975175 
+220.224.231.116 1 25 264504 20091231091535
+59.97.234.199 0 1 151166 
+static-208-80-193-53.as13448.com 1 1 14867 20091221192042
+host86-173-71-98.range86-173.btcentralplus.com 3 34 678201 20091228220905
+92.251.255.12.threembb.ie 0 1 151166 
+veccsexc10.ve.kworld.kpmg.com 0 1 151166 
+cache-los-ab05.proxy.aol.com 0 3 42129 
+203.126.136.142 2 8 210734 20091219194532
+user148.rest97.jtibs.net 0 1 151166 
+83-244-232-146.cust-83.exponential-e.net 0 1 37578 
+server43.customscoop.com 6 6 67137 20091231160702
+201.87.32.71 0 1 151166 
+78.150.194.172 0 1 151166 
+81.172.117.229 0 1 151166 
+cache-los-ac10.proxy.aol.com 1 1 14867 20091231011940
+212.58.233.129 4 31 4627170 20091228005420
+85.136.55.65.dyn.user.ono.com 0 1 151166 
+static-208-80-193-31.as13448.com 3 3 44601 20091230103903
+88-97-7-222.dsl.zen.co.uk 2 38 339420 20091228205545
+186.148.222.87.dynamic.jazztel.es 0 1 151166 
+85.90.40.5 3 48 5223134 20091221134606
+triband-mum-59.184.148.68.mtnl.net.in 1 31 437888 20091231150806
+212-159-96-33.plus.com 7 72 5282098 20091219161123
+host86-150-186-143.range86-150.btcentralplus.com 1 30 307529 20091221145648
+217.175.73.5 13 99 5990852 20091222092816
+119.95.185.188 0 1 151166 
+65.55.234.167 1 2 79954 20091224081115
+inetgw-69-sec.nhs.uk 0 1 1967098 
+adsl-41.207.214.33.aviso.ci 1 25 2610099 20091220140641
+79-71-146-245.dynamic.dsl.as9105.com 11 169 4516765 20091221084123
+mailhost.chime.plc.uk 2 35 361838 20091221110701
+78.16.160.25 0 1 151166 
+bottlepr.plus.com 7 53 2945060 20091231141308
+80.240.203.156.swiftkenya.com 0 23 2560619 
+host86-131-231-95.range86-131.btcentralplus.com 0 1 1967098 
+c-66-56-16-184.hsd1.ga.comcast.net 0 1 151166 
+cache-los-ab01.proxy.aol.com 0 1 37578 
+85.92.222.254 2 2 21242 20091228065703
+host-92-14-213-124.as43234.net 0 1 151166 
+host86-167-65-69.range86-167.btcentralplus.com 2 49 984433 20091218195721
+212.118.107.130 1 17 165004 20091221160519
+server40.customscoop.com 24 24 269076 20091231114310
+92.41.42.184.sub.mbb.three.co.uk 0 1 151166 
+balticom-95-3.balticom.lv 0 1 243355 
+192.pool85-58-38.dynamic.orange.es 0 1 151166 
+41.184.25.247 0 1 151166 
+inetgw-64-pri.nhs.uk 0 5 2362126 
+203.200.192.97.ill-bgl.static.vsnl.net.in 1 32 317931 20091222121328
+p54b9e9e4.dip.t-dialin.net 2 2 0 20091231175745
+no-reverse-defined.candi.ac.uk 4 61 5106186 20091223100106
+bd788ea5.virtua.com.br 0 1 151166 
+cpc2-pete4-0-0-cust344.pete.cable.ntl.com 0 1 151166 
+66.red-88-7-157.staticip.rima-tde.net 0 1 151166 
+65.55.232.14 1 1 467750 20091231125747
+72.14.193.65 2 37 587609 20091222202726
+65.55.109.26 1 1 550814 20091222104439
+host217-39-163-241.in-addr.btopenworld.com 6 153 12450742 20091221132901
+static-208-80-193-38.as13448.com 5 5 74372 20091227175254
+cache-los-ad08.proxy.aol.com 0 2 17577 
+65.55.217.64 1 2 63140 20091228193232
+74.125.16.2 1 19 306625 20091220134159
+mail.hyoung.co.ke 2 27 2631082 20091230090753
+95.68.74.116 0 1 243355 
+host86-168-168-252.range86-168.btcentralplus.com 7 90 6033868 20091228085008
+mon020-71383-rtr-adsl-64.altohiway.com 0 1 26897 
+157.100.121.59 1 27 304376 20091221025539
+bwq127.neoplus.adsl.tpnet.pl 1 16 191506 20091227190254
+88-109-158-146.dynamic.dsl.as9105.com 6 107 1331122 20091224144800
+89.130.156.103 0 1 151166 
+msnbot-65-55-109-141.search.msn.com 1 5 4021905 20091225172548
+64.26.61.203 1 1 14867 20091231013205
+cache-los-ab02.proxy.aol.com 0 2 9384 
+84-203-0-26.mysmart.ie 0 1 151166 
+static-208-80-193-39.as13448.com 2 2 29734 20091225120755
+static-208-80-193-29.as13448.com 2 2 29648 20091231183656
+port-217.xxx.th.newnet.co.uk 2 34 578936 20091229150910
+88.228.114.152 0 1 151166 
+pool-71-107-126-248.lsanca.dsl-w.verizon.net 0 1 151166 
+82.128.86.38 7 33 315556 20091222142842
+213.249.131.14 1 28 341180 20091229142408
+202.89.73.19 0 754 5441976 
+65.55.108.76 8 8 95384 20091231195711
+leverage-id12.com 3 3 32045 20091222095944
+236ob.scansafe.net 3 50 866993 20091229070806
+219.64.11.187.mum1.static.vsnl.net.in 3 49 858661 20091228091621
+41.208.82.33 2 22 317362 20091225135627
+client-82-15-138-159.sqy-bng-012.adsl.virginmedia.net 1 27 304376 20091230115040
+replacedb.customscoop.com 23 23 253395 20091231231008
+msnbot-65-55-37-183.search.msn.com 4 4 38769 20091229163846
+lon28blwbes01.yr.com 1 31 4629117 20091222123553
+65.55.110.28 1 1 336152 20091228114302
+212.36.36.146 1 29 364352 20091223161417
+212.103.167.58 1 19 375224 20091228065703
+82.128.68.118 5 38 463336 20091223180039
+59.95.244.227 5 5 1885 20091231095847
+41.208.82.36 0 11 127687 
+51.red-88-24-179.staticip.rima-tde.net 0 1 151166 
+clayton.state.gov 11 79 945286 20091231131319
+187-11-231-149.dsl.telesp.net.br 0 1 151166 
+vs1204.rosehosting.com 1 1 14867 20091231220137
+78.133.15.57 0 1 151166 
+cpc3-brig2-0-0-cust199.brig.cable.ntl.com 0 1 151166 
+089-100-045237.ntlworld.ie 0 1 151166 
+82-113-9-14.divona.net 30 100 4232620 20091219203839
+dynamic.rabat2-127-236-12-196.wanamaroc.com 1 5 132082 20091224204027
+41.220.229.18 6 70 3447316 20091222152807
+194.60.85.4 0 1 2868 
+77-73-45-107-dhcp.telelorca.com 0 1 151166 
+cpc9-walt15-0-0-cust20.13-2.cable.virginmedia.com 3 48 2921413 20091230004257
+195.59.164.130 4 74 735542 20091221162359
+213.55.76.19 0 1 151166 
+cpc2-hart4-0-0-cust944.midd.cable.ntl.com 0 1 151166 
+cpc5-brad14-0-0-cust310.barn.cable.virginmedia.com 0 1 151166 
+tge1lba9.emirates.net.ae 1 1 500 20091224080703
+cache-los-aa09.proxy.aol.com 0 2 8990 
+70.36.100.66 5 5 74335 20091231235351
+cpc1-basl9-2-0-cust192.basl.cable.virginmedia.com 0 1 151166 
+78.148.176.21 1 26 2615016 20091221025301
+5ac9a4ab.bb.sky.com 0 1 151166 
+host2-032.vanco.co.uk 0 2 5413 
+203.11.128.73 0 1 151166 
+135.214.154.104 0 2 3214 
+server44.customscoop.com 7 7 79094 20091231045005
+static-208-80-193-42.as13448.com 2 2 29734 20091229232100
+cache-los-ac04.proxy.aol.com 0 1 5085 
+v05-11.opera-mini.net 1 30 387535 20091221054713
+212.137.45.109 1 8 51316 20091218204246
+server218.customscoop.com 30 30 351227 20091231213759
+dynamic.rabat2-112-236-12-196.wanamaroc.com 1 8 301812 20091219194356
+213.55.86.79 4 52 2864057 20091224100010
+cache-los-ab03.proxy.aol.com 0 1 1605 
+dsl-187-140-56-49-dyn.prod-infinitum.com.mx 0 1 151166 
+tgbtd.com 3 3 34772 20091231165449
+cpc2-aztw20-0-0-cust29.aztw.cable.virginmedia.com 0 1 151166 
+94.197.142.52.threembb.co.uk 0 1 151166 
+94.198.189.70 2 29 415681 20091222111257
+193.113.48.7 4 77 2954026 20091223105645
+mail.osnetwork.com 3 3 10252 20091224080130
+18741130167.user.veloxzone.com.br 8 8 85412 20091222193839
+gprs-clientes01.claro.com.gt 1 26 2615205 20091227135758
+msnbot-65-55-37-182.search.msn.com 4 4 45016 20091221125334
+219-81-19-218.static.tfn.net.tw 1 25 2610288 20091221090821
+static-208-80-193-54.as13448.com 5 5 74335 20091231071551
+74.222.4.82 2 2 29648 20091226143633
+cache-los-aa08.proxy.aol.com 0 1 2797 
+203.112.90.138 1 20 483057 20091222130611
+customer5030.pool1.enfield-gln3000-bas0001.orangehomedsl.co.uk 2 61 323952 20091228095245
+89.242.210.215 1 32 349273 20091220212602
+h1372645.stratoserver.net 5 59 598425 20091228140548
+cpc5-harb7-0-0-cust115.perr.cable.virginmedia.com 0 1 151166 
+server37.customscoop.com 25 25 281067 20091231154001
+74.222.4.75 2 2 29734 20091230120551
+114.143.227.202 1 29 869257 20091228110546
+88.211.16.66 2 38 419745 20091221112532
+cache-los-ac02.proxy.aol.com 0 1 30100 
+144.214.101.238 1 10 60083 20091223043252
+13.20.137.12 0 1 151166 
+220-133-0-164.hinet-ip.hinet.net 0 2 151166 
+bd78d77b.virtua.com.br 0 2 302332 
+bus77-3-88-163-146-88.fbx.proxad.net 7 65 2935921 20091221112307
+65.55.110.218 1 1 1045625 20091219233327
+dsl-47-204.dsl.netsource.ie 1 27 304376 20091222151331
+218.248.39.98 5 45 1952671 20091224090830
+adsl-41.207.197.16.aviso.ci 3 29 2623705 20091220111330
+117.195.229.135 1 37 444766 20091226130218
+cpc2-bagu5-0-0-cust504.bagu.cable.ntl.com 0 1 151166 
+port-157.xxx.th.newnet.co.uk 0 1 151166 
+cpc3-fare3-0-0-cust587.cos2.cable.ntl.com 2 50 4889063 20091223141423
+vicce009.net.gov.bc.ca 3 3 10033 20091224080739
+5aca891b.bb.sky.com 1 1 11619 20091220075615
+173-15-216-65-busname-atlanta.hfc.comcastbusiness.net 0 8 90095 
+host81-135-139-180.range81-135.btcentralplus.com 1 1 459662 20091226182845
+sp2.careerjet.net 5 5 74335 20091222111125
+adsl-99-58-204-106.dsl.wlfrct.sbcglobal.net 1 1 14867 20091219215915
+ws132-228-252-122.rcil.gov.in 1 29 338896 20091226084506
+host86-172-192-255.range86-172.btcentralplus.com 0 1 151166 
+cpc2-oxfd4-0-0-cust440.oxfd.cable.ntl.com 0 1 151166 
+cache-los-ad03.proxy.aol.com 0 1 3339 
+85-210-90-242.dynamic.dsl.as9105.com 0 1 151166 
+5ac361fa.bb.sky.com 0 1 151166 
+out2.uk256.net 3 56 2970421 20091230145519
+70-43.dial.nortenet.pt 0 1 151166 
+rmt196-19.constellationnetcorp.com 7 34 354322 20091231095049
+41.208.82.35 0 5 154163 
+asfw.arabsat.com 0 14 222658 
+41.138.162.19 1 33 318854 20091229160743
+78-105-0-161.zone3.bethere.co.uk 3 49 3029834 20091223124238
+ip65-46-48-194.z48-46-65.customer.algx.net 4 4 9188 20091229031656
+host217-46-171-217.in-addr.btopenworld.com 3 46 2985271 20091221153606
+134.115.in-addr.arpa 1 1 335215 20091230143819
+69-64-69-142.dedicated.abac.net 1 1 11842 20091222095901
+mail.jaotech.com 1 29 2651353 20091221154629
+static.customer-201-116-140-243.uninet-ide.com.mx 0 1 151166 
+5ad09820.bb.sky.com 0 1 151166 
+adsl-ova41-142-99-82.bluetone.cz 0 1 151166 
+41.222.69.136 2 34 467554 20091221171413
+host86-160-171-168.range86-160.btcentralplus.com 0 1 151166 
+host86-158-54-39.range86-158.btcentralplus.com 0 1 151166 
+gc-na108.alcatel.fr 1 30 312080 20091229073848
+97-90-183-162.dhcp.losa.ca.charter.com 1 20 483057 20091227074833
+41.251.96.130 4 60 4943373 20091223195557
+www.midlothian.gov.uk 4 56 4627170 20091221131753
+84.red-83-41-152.dynamicip.rima-tde.net 0 1 151166 
+ool-457bd19f.dyn.optonline.net 3 54 4943412 20091221193020
+72.14.192.65 0 1 151166 
+static.customer-201-116-56-242.uninet-ide.com.mx 0 1 151166 
+84.236.172.63 0 1 151166 
+dsl-189-139-33-168-dyn.prod-infinitum.com.mx 0 1 151166 
+cpc1-nott5-0-0-cust48.nott.cable.ntl.com 0 2 302332 
+117.200.57.56 1 27 2616810 20091228125331
+redhill.customscoop.com 28 28 305277 20091231192641
+124.43.242.155 4 30 314099 20091224053914
+82-69-135-253.dsl.in-addr.zen.co.uk 2 47 2916213 20091224131200
+vfbb21594.4u.com.gh 4 48 2946879 20091228123453
+mail.breckland.gov.uk 2 47 2944200 20091224120505
+host86-171-52-238.range86-171.btcentralplus.com 0 1 151166 
+79-67-142-38.dynamic.dsl.as9105.com 4 10 50542 20091228101738
+92.251.152.149.threembb.ie 0 1 151166 
+nc2-rba-e4-4.cache.isnet.net 3 46 644770 20091221075554
+65.55.234.161 5 5 62628 20091231120524
+195.226.62.50 0 1 151166 
+213.55.70.233 7 38 680509 20091224114502
+atwork-98.r-212.178.113.atwork.nl 4 4 18856 20091224080433
+194.247.83.62 4 47 4854036 20091222155245
+212.9.107.164 2 55 4904510 20091220230032
+static-208-80-193-44.as13448.com 3 3 44601 20091228051250
+41-222-209-90.galaxybackbone.com 5 95 5924678 20091225151921
+cpc1-lanc4-0-0-cust692.brig.cable.ntl.com 0 1 151166 
+59.96.159.209 3 41 653597 20091231095329
+host86-132-254-188.range86-132.btcentralplus.com 3 35 358832 20091228171736
+202.137.133.251 0 1 151166 
+124.43.243.123 1 27 0 20091227052149
+host86-155-113-217.range86-155.btcentralplus.com 0 1 151166 
+64.56.70.42 3 3 44515 20091229091347
+41.205.112.209 8 89 3560066 20091224084314
+ec2-174-129-139-184.compute-1.amazonaws.com 2 4 36624 20091226164609
+74.205.116.38 1 1 10362 20091222211941
+121.54.47.22 0 1 151166 
+72-24-35-61.cpe.cableone.net 0 1 151166 
+host86-146-213-206.range86-146.btcentralplus.com 0 1 151166 
+196.46.245.21 4 58 3150291 20091230182619
+dyn-62-56-63-235.dslaccess.co.uk 4 56 4932831 20091228115059
+5acbec46.bb.sky.com 0 1 151166 
+host86-172-62-158.range86-172.btcentralplus.com 0 1 151166 
+bd211bae.virtua.com.br 0 1 151166 
+41.217.1.7 3 18 128694 20091228153447
+168.red-81-34-58.dynamicip.rima-tde.net 0 1 151166 
+193.153.224.93 0 1 151166 
+host86-147-200-97.range86-147.btcentralplus.com 1 30 381288 20091218182245
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20091218 82 352 7115224 6
+20091219 296 1905 34279481 24
+20091220 37 438 21778970 16
+20091221 140 1449 66616919 82
+20091222 133 774 35670537 77
+20091223 95 728 32008769 62
+20091224 143 764 27920292 77
+20091225 73 325 15382201 61
+20091226 65 165 3374185 56
+20091227 63 215 10900483 52
+20091228 111 675 28328170 72
+20091229 94 543 13267710 66
+20091230 82 471 23830058 56
+20091231 100 468 10047716 67
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+com 746 3274 106937945
+ip 329 3130 104365407
+uk 251 1444 61405924
+net 122 714 27048713
+gov 11 79 945286
+ke 10 125 3680906
+br 8 13 841242
+in 7 142 1963738
+ci 4 54 5233804
+gh 4 48 2946879
+pt 0 3 302332
+gr 0 2 302332
+tw 1 25 2610288
+es 0 3 453498
+lv 0 1 243355
+mx 0 6 906996
+fr 2 34 330095
+ro 0 1 151166
+ch 3 57 4988256
+zm 3 3 24324
+ie 1 31 909040
+it 0 1 151166
+pl 1 16 191506
+ca 3 3 10033
+cz 0 1 151166
+nl 4 4 18856
+arpa 1 1 335215
+de 0 2 151166
+gt 1 26 2615205
+ae 1 1 500
+sk 1 28 304376
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+msnbot 365 11169230 20091231215648 0
+slurp 159 22991560 20091231224349 0
+googlebot 125 11665366 20091231062607 0
+yandex 81 5702871 20091231180034 0
+bot[\s_+:,\.\;\/\\-] 32 677992 20091230073941 0
+speedy 31 218593 20091231112546 0
+no_user_agent 23 290593 20091229052927 0
+java\/[0-9] 18 215245 20091224122020 0
+exabot 12 2349634 20091230170013 0
+jeeves 6 186967 20091231195716 0
+twiceler 4 1330016 20091224031356 0
+python 1 14867 20091221115326 0
+heritrix 2 22964 20091230015732 0
+surveybot 2 29734 20091227205352 0
+larbin 6 89202 20091231145003 0
+msnbot\-media 3 33543 20091231181733 0
+crawl 2 29685 20091230162034 0
+voila 4 47692 20091230024836 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 28
+30s-2mn 17
+2mn-5mn 23
+0s-30s 625
+15mn-30mn 27
+30mn-1h 48
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/net.html 418 4573027 300 323
+/ 202 2794077 155 89
+/ccount/ 194 4872907 5 3
+/nawc.html 132 1425808 91 90
+/sawc.html 126 1397548 92 98
+/yearbook.html 109 841919 77 80
+/forms/africa/nawcregform.asp 63 24567 0 10
+/forms/networkingplus/reg2009.htm 45 414649 7 11
+/eewc.html 37 165036 5 7
+/sasian.html 28 238783 12 11
+/net/net.html 1 11987 1 1
+/banners/ads_admin.pl 15 30574 1 0
+/pdfs/Net2009mediapack.pdf 2 670430 2 2
+/pdfs/EEWC2008editorialfeatures.pdf 1 336152 1 1
+/pdfs/SASIAfeatures2009.pdf 2 2091250 2 1
+/forms/networkingplus/formsubmitted.htm 27 13500 2 7
+/pdfs/NAWCfeatures2009.pdf 2 225264 0 0
+/contact.html 26 252962 3 13
+/pdfs/EEWC2009media.pdf 1 467750 1 1
+/forms/asia/sasia_reg.htm 7 62986 2 2
+/pdfs/EEWC2008mediapack.pdf 1 459662 1 1
+/forms/africa/sawcregform.asp 7 2523 0 4
+/forms/africa/eewcregform.asp 2 852 0 1
+/forms/asia/sasiaregform.asp 9 3470 1 2
+/pdfs/SAWC2008mediapack.pdf 2 1101628 1 1
+/pdfs/NAWC2009mediapack.pdf 2 1587724 0 1
+/pdfs/Net2009features.pdf 5 391630 0 4
+/pdfs/EEWCfeatures2009.pdf 2 215522 0 1
+/forms/africa/sawc_reg.htm 10 91630 3 3
+/forms/africa/eewc_reg.htm 8 75200 5 3
+/forms/africa/nawc_reg.htm 28 248076 4 3
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 351 519037 0 0
+asp 81 31412 0 0
+png 95 2660719 0 0
+pdf 20 7547012 0 0
+htm 125 906041 0 0
+pl 15 30574 0 0
+swf 260 186545967 0 0
+php 367 7384939 0 0
+html 906 9189115 0 0
+jpg 5279 77788199 0 0
+gif 1773 37917700 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 17
+linuxmandr 57
+linuxsuse 27
+winxp 4919
+winlong 1734
+win2000 149
+winunknown 24
+wince 1
+win2003 87
+j2me 30
+bsdopenbsd 6
+win98 1
+linuxubuntu 26
+linux 48
+macosx 1513
+bsdfreebsd 1
+Unknown 292
+win2008 357
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 41
+msie6.0 2219
+firefox3.5.4 26
+firefox3.0.1 2
+firefox3.0.14 57
+chrome2.0.172.33 32
+firefox2.0.0.12 31
+firefox3.5.3 108
+opera9.80 32
+firefox2.0.0.7 1
+msie8.0 1434
+firefox2.0.0.14 3
+netscape3.0 1
+msie7.0 1148
+opera9.24 99
+safari3.1 57
+Unknown 88
+firefox3.0.8 53
+netscape 1
+firefox3.5.6 1852
+firefox3.0.16 190
+firefox3.5.1 3
+chrome3.0.195.38 204
+chrome3.0.195.33 298
+firefox3.0.4 143
+msie999.1 22
+firefox3.5.2 28
+msie5.5 2
+opera10.00 60
+firefox3.5.5 417
+mozilla 127
+firefox3.0.6 1
+netscape4.0 19
+safari4.0.4 101
+firefox2.0 50
+chrome4.0.266.0 75
+firefox3.0.13 34
+chrome4.0.249.43 1
+firefox3.5 80
+firefox3.0.10 100
+konqueror3.5 3
+firefox3.0.15 70
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+freedir.co.uk/0.8_(_http://freedir.co.uk/directory/) 20091231220137
+Mozilla 20091230084017
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20091222202726
+Mozilla/5.0_(compatible;_Phonifier;__http://www.phonifier.com) 20091231013205
+contype 20091231212854
+Mozilla/5.0_(compatible) 20091222111125
+Mozilla/4.0 20091231120524
+AboutUsBot 20091226164610
+Mozilla/4.0_(compatible;) 20091231161315
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13,Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20091222202726
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+freedir.co.uk/0.8_(_http://freedir.co.uk/directory/) 20091231220137
+AboutUsBot 20091226164610
+contype 20091231212854
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 826 1852
+From1 3 25
+From2 62 73
+From3 15 143
+From4 608 7179
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 58 60
+live 0 1
+google_image 0 8
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 31
+http://www.questia.com/PM.qst 3 3
+http://networkingplus.co.uk 2 2
+http://freedir.co.uk/directory/ 1 1
+http://www.networkingplus.co.uk 1 1
+http://www.edugeek.net/forums/bsf/16010-public-sector-outsourcing-gets-damning-report.html 1 1
+http://www.itu.int/WORLD2009/visibility/media_partners/index.php 1 1
+http://www.synchronica.com/snippets/snippets-12.shtml 1 1
+http://www.telinet.co.uk/company/newsroom.php 1 2
+http://74.6.239.67/search/cache 1 13
+http://www.gorkanadatabase.com/profiles/media/outlet 1 1
+http://vi.ebaydesc.ie/ws/eBayISAPI.dll 0 7
+http://cgi.ebay.co.uk/-BRAND-NEW-SAMSUNG-TOCCO-LITE-SIL-TOUCH-ScreeN-SIMFREE_W0QQitemZ270472037560QQcmdZViewItemQQimsxq20091019 0 1
+http://domain905482.sites.fasthosts.com/nawc.html 0 1
+http://cgi.ebay.co.uk/BRAND-NEW-SAMSUNG-TOCCO-LITE-SIL-TOUCH-ScreeN-SIMFREE_W0QQitemZ270507458281QQihZ017QQcategoryZ3312QQcmdZViewItemQQ_trksidZp4340.m444QQ_trkparmsZalgo%3DCRX%26its%3DC%252BS%26itu%3DSI%252BUA%252BLM%252BLA%26otn%3D5%26ps%3D63 0 1
+http://thedeathofthecopier.blogspot.com/search/label/Samsung 0 1
+http://209.85.229.132/search 0 16
+http://netbookboards.com/topics/samsung/page/2/ 0 1
+http://cgi.ebay.es/ws/eBayISAPI.dll 0 2
+http://cgi.ebay.co.uk/-BRAND-NEW-SAMSUNG-TOCCO-LITE-SIL-TOUCH-ScreeN-SIMFREE_W0QQitemZ270503394660QQcmdZViewItemQQimsxq20091219 0 1
+http://thedeathofthecopier.blogspot.com/2009_03_01_archive.html 0 1
+http://vi.ebaydesc.it/ws/eBayISAPI.dll 0 1
+http://vi.ebaydesc.es/ws/eBayISAPI.dll 0 18
+http://thedeathofthecopier.blogspot.com/2009/03/samsung-rolls-out-managed-print.html 0 4
+http://vi.ebaydesc.co.uk/ws/eBayISAPI.dll 0 46
+http://www.my-jelgava.lv/medicare/ 0 2
+http://www.one-digital.com.mx/www/modules.php 0 4
+http://netbookboards.com/tag/future-of-netbooks/ 0 5
+http://domain905482.sites.fasthosts.com/net.html 0 2
+http://netbookboards.com/page/46/ 0 1
+http://79.170.40.167/kadiumpublishing.com/banners/ads_admin.pl 1 1
+http://www.featuresexec.com/publications/info_edcontacts.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 40
+networking+plus 8
+www.kadiumpublishing.com 7
+networking 5
+south+asian+wireless+communications 4
+eastern+european+wireless 2
+southern+african+wireless+communications 2
+networkingplus 1
+networking+plua 1
+south+asian+wireless+comm 1
+european+wireless+communication 1
+networking+magazine 1
+wireless+eastern+europe 1
+networkering+plus 1
+kadium+products+pvt+ltd 1
+kodium+publishing 1
+i+want+to+know+about+wireless+communication 1
+point+to+point+wireless+communication+design 1
+http+//www.kadiumpublishing.com/ 1
+keir+ritchie 1
+kadium+limited 1
+kadium+publishing 1
+free+wireless+communication+magazines 1
+kadium+ltd 1
+fundamental+of+voice+and+data+cabling+filetype+pdf 1
+networkin+plus 1
+publishing+email 1
+asia+wireless+infrastructures 1
+websites+for+to+be+in+touch+with+wireless+communications 1
+kadiumpublishing.com 1
+kadium+publishing+ltd 1
+pros+and+cons+of+tower+sharing 1
+networking+plus+magazine 1
+kadiumpublishing 1
+north+africa+wireless+communication 1
+northern+africans 1
+kadium 1
+kadium+ltd+monaghan 1
+networking+kadiumpublishing.com 1
+wireless+communication+magazine 1
+eastern+european+wireless+communications 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 67
+wireless 19
+networking 17
+plus 11
+communications 8
+www.kadiumpublishing.com 7
+kadium 7
+communication 6
+south 5
+asian 5
+european 4
+want 1
+networkingplus 1
+know 1
+tower 1
+email 1
+north 1
+pros 1
+products 1
+networkering 1
+networkin 1
+fundamental 1
+africa 1
+asia 1
+touch 1
+with 1
+and 2
+southern 2
+magazines 1
+of 2
+limited 1
+design 1
+websites 1
+to 3
+kadiumpublishing 1
+voice 1
+//www.kadiumpublishing.com/ 1
+plua 1
+sharing 1
+pvt 1
+http 1
+in 1
+about 1
+monaghan 1
+pdf 1
+for 1
+africans 1
+kodium 1
+data 1
+cabling 1
+keir 1
+cons 1
+be 1
+northern 1
+comm 1
+filetype 1
+ltd 4
+african 2
+free 1
+i 1
+magazine 3
+publishing 4
+kadiumpublishing.com 2
+infrastructures 1
+point 2
+eastern 4
+europe 1
+ritchie 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 26 7465
+302 295 0
+206 146 37077915
+301 4 1290
+404 1740 503872
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 139
+/corporate/legal/copyright.cfm 1 -
+/click%20here 1 -
+/net/KMHNetworkingplusBanner.gif 2 http://www.kadiumpublishing.com/net.html
+/net/forms/networkingplus/reg.htm 1 -
+/www.idirect.net 1 -
+/sizing/selectors.cfm 1 -
+/click 516 -
+/saft 1 -
+/www.htdata.co.uk 1 -
+/products/index.cfm 1 -
+/email 1 -
+/net/pdfs/Net2009features.pdf 1 -
+/net/Net+0912.jpg 23 http://www.kadiumpublishing.com/net.html
+/livingston 1 -
+/net/NetworkingBannerNOV.swf 2 http://www.kadiumpublishing.com/net.html
+/eads%20defence%20and%20security 1 -
+/mobile%20mark 1 -
+/www.kvmchoice.com 2 -
+/east.html 1 -
+/buy/display_online_resellers.cfm 1 -
+/south%20asian%20wireless%20communications%20front%20cover 1 -
+/www.clearline.co.za 1 -
+/sawc/SAWC-med.jpg 8 -
+/detecon 1 -
+/register 1 -
+/tyco%20electronics 1 -
+/team%20simoco 1 -
+/paradise%20datacom 1 -
+/cclick 1 -
+/forms/africa/nawchome.htm 82 -
+/adax 1 -
+/www.tramigo.com 1 -
+/net/ark2.swf 3 http://www.kadiumpublishing.com/net.html
+/www.rfsworld.com 1 -
+/eewc/EEWC-med.jpg 10 http://www.kadiumpublishing.com/eewc.html
+/buy/index.cfm 1 -
+/--%20rahieln@kadiumpublishing.com 1 -
+/zetron 1 -
+/www.claudelyons.com 2 -
+/www.paradisedata.com 1 -
+/net/pdfs/EEWCfeatures2009.pdf 1 -
+/net/forms/africa/sawc_reg.htm 1 -
+/autodiscover/autodiscover.xml 2 -
+/adverts/risk_smartupsFEUTEU_100x800_a.gif 1 http://www.kadiumpublishing.com/
+/zinwave 1 -
+/net/PartnerBanner_300x100.gif 2 http://www.kadiumpublishing.com/net.html
+/jdi 1 -
+/www.pixink.net 1 -
+/<wbr>eewc.html 1 -
+/richardl@kadiumpublishing.com 1 -
+/forms/networkingplus/kathym%40kadiumpublishing.com 1 http://www.kadiumpublishing.com/forms/networkingplus/reg2009.htm
+/itu 1 -
+/forms/africa/here 1 -
+/support/my_support.cfm 1 -
+/net/pdfs/SAWCfeatures2009.pdf 1 -
+/forms/asia/here 1 -
+/www.swisspost.com 1 -
+/media/system/js/mootools.js 2 -
+/net/navbar.css 1 http://www.kadiumpublishing.com/net/net.html
+/click%20here%20for%20more%20information 1 -
+/--%20%0d%0a%09%09%20gregc@kadiumpublishing.com 1 -
+/robots.txt 755 http://www.kadiumpublishing.com/robots.txt
+/cclick/index.pl 1 -
+/net/sasian.html 1 -
+/--%20%0d%0a%09%09jonh@kadiumpublishing.com 1 -
+/net/pdfs/Net2009mediapack.pdf 2 -
+/a%20href= 3 http://www.kadiumpublishing.com/index.html
+/net/forms/asia/sasia_reg.htm 2 -
+/support/index.cfm 1 -
+/ibm 1 -
+/andrew 1 -
+/adverts/yearbook%20ss.jpg 27 http://www.kadiumpublishing.com/contact.html
+/employment/index.cfm 1 -
+/--%20richardl@kadiumpublishing.com 1 -
+/elsevier%20direct 1 -
+/support/ask.cfm 1 -
+/net/forms/networkingplus/reg2009.htm 1 -
+/danielm@kadiumpublishing.com 1 -
+/index.cfm 1 -
+/for%20our%202009%20features%20list%20click%20here 1 -
+/nawc/NAWC-med.jpg 10 -
+/matrixstats.kadiumpublishing.com/click 1 -
+/www.test-book.com 1 -
+/gid%20quantor 1 -
+/www.gatewaycomms.com 1 -
+/www.skyvision.net 2 -
+/0409_KN4140V_CC2000_Networking+_800x100.gif 4 http://www.kadiumpublishing.com/net.html
+/net/pdfs/NAWCfeatures2009.pdf 1 -
+/networking+ 1 -
+/net/nawc.html 1 -
+/south%20asian%20wireless%20-%20communications%20this%20month's%20cover 1 -
+/www.superiorelectric.com 2 -
+/for%20our%202009%20media%20pack%20click%20here 1 -
+/www.kathrein.co.za 1 -
+/www.andrew.com 1 -
+/anacom 1 -
+/kell%20systems 1 -
+/www.corning.com/africa2009 1 -
+/dyn 40 -
+/forms/africa/paid_subs.htm 44 -
+/eastern%20european%20wireless%20communications 1 -
+/net/contact.html 2 -
+/forms/networkingplus/kathym@kadiumpublishing.com 23 -
+/www.anacominc.com 2 -
+/lhs 1 -
+/media/system/js/caption.js 2 -
+/sawc/SAWC%200904.jpg 8 -
+/net/bsd_banner_800x100_01.gif 2 http://www.kadiumpublishing.com/net.html
+/template/country_selection.cfm 1 -
+/bitea 1 -
+/motorola 1 -
+/net/eewc.html 1 -
+/forms/asia/paid_subs.htm 26 -
+/weeeit 1 -
+/net/pdfs/SAWC2009media.pdf 1 -
+/net/forms/africa/nawc_reg.htm 1 -
+/ccount/Linking%20to%20http://www.bluesquaredata.com 10 -
+/www.radioandtrunking.com 1 -
+/pdfs/SASIAN2009media.pdf 10 -
+/net/Stonesoft.gif 2 http://www.kadiumpublishing.com/net.html
+/networking%20plus%20-%20this%20month's%20cover 1 -
+/danutan@kadiumpublishing.com 1 -
+/www.mobilemark.com 1 -
+/cclick/click.pl 1 -
+/net/pdfs/EEWC2009media.pdf 1 -
+/corporate/index.cfm 1 -
+/support/answers.cfm 1 -
+/register%20today 1 -
+/here 1 -
+/orga%20systems 1 -
+/%22%3erahieln@kadiumpublishing.com 1 -
+/www.memotec-double.com 1 -
+/register%20for%20a%20free%20copy%20of%20networking+%20today 1 -
+/wireless%20telecom%20group 1 -
+/mobile%20mark%20advertisement 1 -
+/net/emulex_120x600-bmx.jpg 2 http://www.kadiumpublishing.com/net.html
+/hosting%20and%20content%20updates%20provided%20by%20pixink%20ltd 1 -
+/corporate/legal/privacy.cfm 1 -
+/kvm%20choice 1 -
+END_SIDER_404

@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>African Wireless Communications Yearbook 2013 Buyers Guide Questionnaire</title>
+<link href="questionnaire.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	function validate() {
+		if (document.getElementById('Company_Name').value == '') {
+			alert('The Company Name is a required field');
+			return false;
+		}
+		if (document.getElementById('Company_Address').value == '') {
+			alert('The Company Address is a required field');
+			return false;
+		}
+		if (document.getElementById('Company_Email').value == '') {
+			alert('The Company Email is a required field');
+			return false;
+		}
+		if (document.getElementById('Company_Email').value.search("@") < 0) {
+			alert('The Company Email address does not appear to be valid');
+			return false;
+		}
+		if (document.getElementById('Company_Website').value == '') {
+			alert('The Company Website is a required field');
+			return false;
+		}
+		if (document.getElementById('Company_Telephone').value == '') {
+			alert('The Company Telephone Number is a required field');
+			return false;
+		}
+		if (document.getElementById('Company_Facsimile').value == '') {
+			alert('The Company Facsimile Number is a required field');
+			return false;
+		}
+		if (document.getElementById('Contact_Name').value == '') {
+			alert('The Contact Name is a required field');
+			return false;
+		}
+		if (document.getElementById('Contact_Tel').value == '') {
+			alert('The Contact Telephone Number is a required field');
+			return false;
+		}
+		return true;
+	}
+</script>
+</head>
+
+<body>
+	<div id="border">
+		<div id="title"><strong>Welcome to the <em>African Wireless Communications Yearbook 2013 </em>Buyer&#8217;s Guide Questionnaire</strong></div>
+		<br>
+		<div id="tabletitle">Buyer&#8217;s Guide Basic Listing</div>
+		<div class="tablebg">
+			<p class="style2">Please remember, this basic listing within the Buyer&#8217;s Guide is completely FREE OF CHARGE</p>
+			<form name="form1" method="post" action="questionnaire.php" onsubmit="return validate()">
+			  <table>
+					<tbody><tr><td colspan="2"><strong>1. Your Company Details</strong></td></tr>
+					<tr>
+						<td class="companydetails">Company name:</td>
+						<td><input name="Company_Name" id="Company_Name" size="90" type="text"></td></tr>
+					<tr>
+						<td class="companydetails aligntop">Company address:</td>
+						<td><textarea name="Company_Address" id="Company_Address" cols="65" rows="5" wrap="physical"></textarea></td></tr>
+					<tr>
+						<td class="companydetails">Company email:</td>
+						<td><input name="Company_Email" id="Company_Email" size="70" type="text"></td></tr>
+					<tr>
+						<td class="companydetails">Company website:</td>
+						<td><input name="Company_Website" id="Company_Website" size="70" type="text"></td></tr>
+					<tr>
+						<td class="companydetails">Company telephone:</td>
+						<td><input name="Company_Telephone" id="Company_Telephone" size="90" type="text"></td></tr>
+					<tr>
+						<td class="companydetails">Company facsimile:</td>
+						<td><input name="Company_Facsimile" id="Company_Facsimile" size="90" type="text"></td></tr>
+					<tr>
+						<td class="companydetails">Contact name:</td>
+						<td><input name="Contact_Name" id="Contact_Name" size="90" type="text"></td></tr>
+					<tr>
+						<td class="companydetails">Contact telephone:</td>
+						<td><input name="Contact_Tel" id="Contact_Tel" size="40" type="text"></td></tr>
+				</tbody></table>
+			  <p>&nbsp;</p>
+				<p><strong>Please tick the generic markets below in which your company is active.<br>
+		      </strong></p>
+			  <table>
+					<tbody><tr>
+					  <td colspan="2"><strong>2. Technology</strong><br></td></tr>
+					<tr><td class="c1"><input name="Cellular" value="Yes" type="checkbox"></td>
+						<td>Cellular</td></tr>
+					<tr><td class="c1"><input name="Fixed_Wireless" value="Yes" type="checkbox"></td>
+						<td>Fixed wireless</td></tr>
+					<tr><td class="c1"><input name="Satellite" id="Satellite" value="Yes" type="checkbox"></td>
+						<td>Satellite</td></tr>
+					<tr><td class="c1"><input name="PMRtetra" id="PMRtetra" value="Yes" type="checkbox"></td>
+						<td>PMR/Tetra</td></tr>
+				</tbody></table>
+		      <pre>&nbsp;</pre>
+				<p><strong>Please tick below the specific areas of supply in which your company is active.<br>
+		      </strong></p>
+
+		      <table>
+				  <tbody><tr><td colspan="2"><strong>3. Infrastructure</strong></td></tr>
+					<tr><td class="c1"><input name="Base_stations" id="Base_stations" value="Yes" type="checkbox"></td>
+						<td>Base stations </td></tr>
+					<tr><td class="c1"><input name="Masts_Towers" id="Masts_Towers" value="Yes" type="checkbox"></td>
+						<td>Masts &amp; towers</td></tr>
+					<tr><td class="c1"><input name="Antennas_AccessPoints" id="Antennas_AccessPoints" value="Yes" type="checkbox"></td>
+						<td>Antennas &amp; access points</td></tr>
+					<tr><td class="c1"><input name="Optical_fibre" id="Optical_fibre " value="Yes" type="checkbox"></td>
+						<td>Optical fibre</td></tr>
+					<tr><td class="c1"><input name="PowerSupply_Cabling" id="PowerSupply_Cabling" value="Yes" type="checkbox"></td>
+						<td>Power supply &amp; cabling</td></tr>
+					<tr><td class="c1"><input name="Test_and_Measurement" id="Test_and_Measurement" value="Yes" type="checkbox"></td>
+						<td>Test &amp; measurement</td></tr>
+					<tr><td class="c1"><input name="Physical_security" id="Physical_security" value="Yes" type="checkbox"></td>
+						<td>Physical security</td></tr>
+					<tr><td class="c1"><input name="Logical_security" id="Logical_security" value="Yes" type="checkbox"></td>
+						<td>Logical security</td></tr>
+			  </tbody></table>
+			  <pre>&nbsp;</pre>
+			  <table>
+			    <tbody>
+			      <tr>
+			        <td colspan="2"><strong>4. Operations</strong></td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Provisioning_CRM" id="Provisioning_CRM" value="Yes" type="checkbox"></td>
+			        <td>Provisioning &amp; CRM </td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Billing_OSS_BSS" id="Billing_OSS_BSS" value="Yes" type="checkbox"></td>
+			        <td>Billing, OSS/BSS</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Fraud_detection" id="Fraud_detection" value="Yes" type="checkbox"></td>
+			        <td>Fraud detection</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Traffic_analysis_management" id="Traffic_analysis_management" value="Yes" type="checkbox"></td>
+			        <td>Traffic analysis &amp; management</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Network_Planning_optimisation" id="Network_Planning_optimisation" value="Yes" type="checkbox"></td>
+			        <td>Network planning &amp; optimisation</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Inventory_management" id="Inventory_management" value="Yes" type="checkbox"></td>
+			        <td>Inventory management</td>
+		          </tr>
+		        </tbody>
+		      </table>
+			  <pre>&nbsp;</pre>
+			  <table>
+			    <tbody>
+			      <tr>
+			        <td colspan="2"><strong>5. Bought-in services</strong></td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Carrier_services" id="Carrier_services" value="Yes" type="checkbox"></td>
+			        <td>Carrier services</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Managed_network_services" id="Managed_network_services" value="Yes" type="checkbox"></td>
+			        <td>Managed network services</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Data_centre_management" id="Data_centre_management" value="Yes" type="checkbox"></td>
+			        <td>Data centre management</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Hosted_services" id="Hosted_services" value="Yes" type="checkbox"></td>
+			        <td>Hosted services</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Software_development" id="Software_development" value="Yes" type="checkbox"></td>
+			        <td>Software development</td>
+		          </tr>
+		        </tbody>
+		      </table>
+			  <pre>&nbsp;</pre>
+			  <table>
+			    <tbody>
+			      <tr>
+			        <td colspan="2"><strong>6. Ancilliaries</strong></td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="SIM_cards" id="SIM_cards" value="Yes" type="checkbox"></td>
+			        <td>SIM cards</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="End_user_devices" id="End_user_devices" value="Yes" type="checkbox"></td>
+			        <td>End user devices</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Accessories" id="Accessories" value="Yes" type="checkbox"></td>
+			        <td>Accessories</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="System_integration" id="System_integration" value="Yes" type="checkbox"></td>
+			        <td>System integration</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Consultancy_training" id="Consultancy_training" value="Yes" type="checkbox"></td>
+			        <td>Consultancy &amp; training</td>
+		          </tr>
+		        </tbody>
+		      </table>
+			  <pre>&nbsp;</pre>
+			  <table>
+			    <tbody>
+			      <tr>
+			        <td colspan="2"><strong>7. Value added service platforms</strong></td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Mobile_Money" id="Mobile_Money" value="Yes" type="checkbox"></td>
+			        <td>Mobile money</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Apps" id="Apps" value="Yes" type="checkbox"></td>
+			        <td>Apps (including music, ringtones, etc)</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Messaging" id="Messaging" value="Yes" type="checkbox"></td>
+			        <td>Messaging</td>
+		          </tr>
+			      <tr>
+			        <td class="c1"><input name="Enhanced_Voice" id="Enhanced_Voice" value="Yes" type="checkbox"></td>
+			        <td>Enhanced voice </td>
+		          </tr>
+		        </tbody>
+		      </table>
+			  <p>&nbsp;</p>
+			  <table>
+				  <tbody><tr>
+				    <td colspan="2"><strong>8. Are there any other product or service categories that your company deals in that are NOT included above?</strong> (Please define below)</td></tr>
+					<tr><td><textarea name="Other_Categories" cols="90" rows="3" wrap="physical"></textarea></td></tr>
+			  </tbody></table>
+				<br>
+ 			</div>
+				<p class="style3">Please email <a href="mailto:kathym@kadiumpublishing.com">kathym@kadiumpublishing.com</a> 
+					if you have any questions <br>
+					regarding the <em>African Wireless Communications Yearbook 2013</em></p>
+			<div class="tablebg">
+			  <table>
+					<tbody><tr>
+					  <td colspan="2&gt;"><strong>9. Advertising and Editorial in the <em>African Wireless Communications Yearbook 2013</em></strong></td></tr>
+					<tr><td class="c1"><input name="Incl_Logo" id="Incl Logo" value="Yes" type="checkbox"></td>
+						<td>I would like to include my company logo within the Buyer&#8217;s Guide at a cost of £95 / R1045</td></tr>
+					<tr><td class="c1"><input name="Incl_Extended_Listing" id="Incl Extended Listing" value="Yes" type="checkbox"></td>
+						<td>I would like to include an extended listing and company logo in the Buyer&#8217;s Guide at £495 / R4895</td></tr>
+					<tr><td class="c1"><input name="Advertising_and_Sponsorship" id="Advertising and Sponsorship" value="Yes" type="checkbox"></td>
+						<td>I would like to discuss advertising and sponsorship opportunities</td></tr>
+					<tr><td class="c1"><input name="Editorial" id="Editorial" value="Yes" type="checkbox"></td>
+						<td>I would like to discuss editorial contribution opportunities</td></tr>
+				</tbody></table>
+		</div>
+		<input id="submitbtn" type="submit">
+		 </form> 
+		<p class="style3">If you have any questions about the advertising and editorial opportunities in the <br>
+		  <em>African 
+			Wireless Communications
+			Yearbook</em>, please email <a href="http://www.kadiumpublishing.com/form%20email/kathym@kadiumpublishing.com">kathym@kadiumpublishing.com</a>.</p>
+			<br>
+	</div>
+
+
+</body></html>

@@ -1,0 +1,315 @@
+111%%2011/01/18%%http://www.upspower.co.uk/white-paper-3.aspx%%227%%UPS net key
+112%%2011/02/01%%http://www.2bm.co.uk%%165%%DCW net keyad
+113%%2011/02/01%%http://www.eutelsat.com%%340%%nawc eutelsat
+114%%2011/02/03%%http://www.eservglobal.com%%219%%NAWC key eservglobal
+115%%2011/02/08%%http://www.oracle.com/us/industries/communications/index.html%%305%%Yearbook ad Oracle
+116%%2011/02/17%%http://www.raritan.co.uk/px-1000%%170%%Net Raritan Tower
+117%%2011/03/05%%http://www.telecomsacademy.com/minimba%%342%%SAWC telecoms academy UpComing
+118%%2011/03/17%%http://aeroflex.com/ats/products/category/Communications_Test/LTE_Test.html%%662%%SASIAN Aeroflex
+119%%2011/03/18%%http://www.teligent.se%%250%%SASIAN Teligent Advertiser
+120%%2011/03/18%%http://www.teligent.se%%379%%NAWC Teligent Advertiser
+121%%2011/03/30%%http://www.satcomafrica.com%%133%%Upcoming Africa Event
+122%%2011/03/30%%http://www.satcomafrica.com%%120%%NAWC Satcoms Upcoming Event
+123%%2011/04/05%%http://www.arabsat.com/pages/Default.aspx%%121%%NAWC Arabsat
+124%%2011/04/07%%http://www.intersec.com%%474%%YEARBOOK Intersec
+125%%2011/04/18%%http://www.socomec.co.uk/presentation-ups-modulys-green-power-20-240.html%%170%%NET Socomec H
+126%%2011/04/27%%http://www.commsexpo.com/index.php?section=1103%%180%%NET Comms Register Now
+127%%2011/05/03%%http://www.communicasia.com/visitor-pre-registration%%105%%SASAIN COMMS ASIA EVENT
+128%%2011/05/12%%http://www.bridgewave.com/netplus1/%%0%%NET keyad
+129%%2011/05/12%%http://www.bridgewave.com/netplus1/%%444%%NET keyad
+130%%2011/05/13%%http://www.dialogic.com/solutions/docs/mobile-video-services-market.htm%%328%%ALTERNATE 1
+131%%2011/05/13%%http://www.dialogic.com/solutions/docs/mobile-video-services-market.htm%%0%%ALTERNATE 2
+132%%2011/05/18%%http://www.zycko.com/solutions%%352%%NET zycko
+133%%2011/06/01%%http://www.comworldseries.com/wcafrica%%164%%NAWC upcoming West and Central
+134%%2011/06/09%%http://www.tripplite.com%%226%%NEt Tripplite
+135%%2011/06/10%%http://www.bharatexhibitions.com%%129%%SASIAN UpComing Bharaeat Exhibitions
+136%%2011/06/14%%http://www.celcite.com%%338%%NAWC CeCite
+137%%2011/06/14%%http://www.celcite.com%%316%%SAWC Cecite
+138%%2011/06/21%%http://www.comworldseries.com%%66%%NAWC Coms UpComing
+139%%2011/06/21%%http://www.comworldseries.com%%51%%SAWC Coms UpComing
+140%%2011/06/22%%http://www.psiber-data.co.uk%%0%%PSIBER
+141%%2011/06/23%%https://www.anritsu.com/en-GB/Promotions/FTTx-guide/registration_np.aspx%%166%%NET SPONSOR ANRITSU PRIZE
+142%%2011/06/27%%http://www.sungard.co.uk/%%807%%K
+204%%2012/05/16%%http://www.events.cto.int/default.aspx?event=CRCAfrica2012%%114%%CRC africa event
+205%%2012/05/17%%http://www.infoblox.com/en/resources/network-automation-center.html%%63%%Net Infoblox upcoming
+206%%2012/05/18%%http://proxim.com/partners%%254%%PROXIM SAWC
+207%%2012/05/18%%http://www.globalcommhost.com/cof/2012events%%246%%CORNING
+208%%2012/05/18%%http://www.globalcommhost.com/cof/2012events/%%1197%%NAWC corning SIDE
+209%%2012/05/18%%http://campaign.proxim.com/go/proxim/WPSurveillanceNAWC?userId=guest%%880%%Cording Side NAWC
+210%%2012/05/18%%http://www.cloudcomputinglive.com/africa%%74%%Cloud Computing World
+211%%2012/05/18%%http://www.wiocc.net%%326%%nawc keyad WIOCC
+212%%2012/05/18%%http://www.rorotika.com%%327%%keyad rorotika
+213%%2012/05/18%%http://www.cloudafricasummit.com%%34%%CLOUD upcoming
+214%%2012/05/18%%http://vasafrica.comworldseries.com/%%93%%VAS upcoming
+215%%2012/05/18%%http://www.comworldseries.com/wcafrica%%814%%NAWC comworld
+216%%2012/05/18%%http://www.telecomsacademy.com/tech_eng/faculty-of-technology-and-engineering%%282%%Telecom Academy upcoming
+217%%2012/05/18%%http://www.absatellite.com%%898%%ABS sasian sidebanner
+218%%2012/05/19%%http://www.o3bnetworks.com%%1007%%o3b
+219%%2012/05/19%%http://www.telecomsacademy.com/tech_eng/faculty-of-technology-and-engineering/%%73%%NET telecoms academy
+220%%2012/05/20%%http://www.communicasia.com%%146%%SASIAN side Communicasia
+221%%2012/05/20%%http://www.orga-systems.com%%291%%orga sasian key
+222%%2012/05/20%%http://telmarnt.com%%123%%sasian key telmar
+223%%2012/05/21%%http://www.milanoteleport.com/new%%315%%Yearbook 2012 Milano
+224%%2012/05/21%%http://www.hughes.com/Pages/Default.aspx%%303%%Yearbook 2012 Hughes
+225%%2012/05/21%%http://www.amdocs.com/Pages/HomePage.aspx%%300%%Yearbook 2012 Amdocs
+226%%2012/05/21%%http://www.anacominc.com/%%273%%Yearbook 2012 Anacom
+227%%2012/05/21%%http://www.aviatnetworks.com/%%95%%Yearbook 2012 Aviat
+228%%2012/05/21%%http://www.teligent.se%%312%%Yearbook 2012 Teligent
+229%%2012/05/21%%http://www.cummins.com/cmi/%%276%%Yearbook 2012 Cummins
+230%%2012/05/21%%http://www.corning.com/index.aspx%%253%%Yearbook 2012 Corning
+231%%2012/05/21%%http://www.ses.com/4232583/en%%294%%Yearbook 2012 SES
+232%%2012/05/21%%http://www.rorotika.com%%294%%Yearbook 2012 Rorotika
+233%%2012/05/21%%http://www.skywareglobal.com%%318%%Yearbook 2012 Skyware
+234%%2012/05/21%%http://www.taitradio.com%%256%%Yearbook 2012 Tait
+235%%2012/05/28%%http://www.eutelsat.com%%311%%Yearbook Eutelsat
+236%%2012/06/01%%http://www.commsexpo.com/index.php?section=1103%%49%%NET upcoming Comms
+237%%2012/06/12%%http://www.proxim.com%%45%%Proxim Webinar Africa
+238%%2012/06/19%%http://www.nexans.co.uk/eservice/navigation/NavigationPublication.nx?publicationId=-31904&obsOrigin=BOOKMARK&language=en_GB&CZ=UK%%166%%Nexans Net Keyad
+239%%2012/07/03%%http://www.cerebralbusiness.com%%118%%sasian upcoming event cerebral
+240%%2012/07/04%%http://www.fscables.com%%139%%net keyad fscables
+241%%2012/07/11%%http://www.comworldseries.com%%107%%SAWC H Nigeria Com
+242%%2012/07/11%%http://www.comworldseries.com%%73%%NAWC H Nigeria Com
+243%%2012/07/20%%http://www.paessler.com/prtg/download?utm_source=banner&utm_medium=networkingplus&utm_campaign=networkingplus_Q3&utm_content=serverschrank%%182%%Net PRTG keyad
+244%%2012/07/31%%http://www.riverbed.com/crush%%114%%Riverbed NET
+245%%2012/08/09%%http://www.telmarnt.com%%103%%Telmar x2
+246%%2012/08/23%%http://www.comworldseries.com%%82%%Nov Africa Com SAWC
+247%%2012/08/23%%http://www.comworldseries.com%%83%%Nov Africa Com NAWC
+248%%2012/09/06%%http://www.gid-quantor.co.uk%%178%%silent cubes NET
+249%%2012/09/19%%http://www.excel-networking.com%%144%%NET excel
+250%%2012/10/01%%http://www.dialogic.com/landing/network-optimization?utm_source=nawonline&utm_medium=banner&utm_campaign=netopt%%97%%NAWC Dialogic
+252%%2012/10/03%%http://www.ipexpo.co.uk/S3%%97%%IP Expo NET
+253%%2012/10/07%%http://www.tisparkle.com/%%156%%NAWC Sparkle
+254%%2012/10/26%%http://info.commscope.com/AfricaCom2012_AfricaComLandingPagewithRegistration.html?Lead Source=AfricaCom2012BannerAds%%73%%H ComScope
+255%%2012/10/26%%http://info.commscope.com/AfricaCom2012_AfricaComLandingPagewithRegistration.html?Lead Source=AfricaCom2012BannerAds%%71%%V ComScope
+256%%2012/10/30%%http://www.cairon.com%%206%%cairon
+257%%2012/11/08%%http://www.harting.com%%91%%harting
+258%%2012/11/27%%http://www.intechnology.co.uk/MainPage.aspx?ID=656 %%95%%intechnology
+260%%2012/11/28%%http://www.livingston.co.uk%%361%%livingston
+261%%2012/12/03%%http://www.eigroup.in%%193%%SASIAN EIGROUP
+262%%2012/12/11%%http://www.excel-networking.com%%882%%NET excel upcoming
+263%%2012/12/17%%http://www.rfsworld.com%%180%%RFS world on SASIAN
+264%%2012/12/21%%http://www.harting.com%%407%%NET v Harting
+265%%2013/01/25%%http://www.mpowerups.co.uk%%235%%Net Tower D
+266%%2013/01/28%%http://www.minkels.com%%269%%NEt Minkles
+267%%2013/02/08%%http://www.amdocs.com%%342%%Amdocs Tower NAWC
+268%%2013/02/22%%http://www.telecomsacademy.com/minimba%%339%%SAWC/NAWC Telecoms Academy
+269%%2013/02/25%%http://www.telecomsacademy.com/atms%%203%%Net Upcoming Telecoms
+270%%2013/03/01%%http://www.draytek.co.uk/products/failover.html%%660%%NET DrayTek
+271%%2013/03/08%%http://www.cloudworldseries.com/mena/?utm_source=Kadium&utm_medium=banner&utm_campaign=Kadium%%93%%CloudWorldSeries NAWC
+272%%2013/04/08%%http://www.cerebralbusiness.com/NFC%%115%%NFC Upcoming SAWC
+273%%2013/04/08%%http://www.cerebralbusiness.com/LTE%%31%%LTE Upcoming SASIAN
+274%%2013/04/08%%http://www.clarionevents.com%%28%%SASIAN Top MobileMoney
+275%%2013/04/09%%http://www.comworldseries.com%%52%%SAWC appgig
+276%%2013/04/09%%http://www.comworldseries.com%%48%%NAWC appgig
+277%%2013/05/22%%http://www.everge.vertexstandard.com/EMEA-EN/index.aspx%%137%%Everge NAWC
+278%%2013/05/22%%http://www.everge.vertexstandard.com/EMEA-EN/index.aspx%%72%%Evolve SAWC
+279%%2013/05/31%%http://www.taitradio.com/products-and-services/technologies-products/dmr?%%74%%Tait SAWC
+280%%2013/05/31%%http://www.taitradio.com/products-and-services/technologies-products/dmr?%%262%%NAWC Tait
+281%%2013/05/31%%http://westafrica.comworldseries.com/?utm_source=Kadium&utm_medium=Banner&utm_campaign=Media%20Partner%%49%%SAWC West Africa
+282%%2013/05/31%%http://westafrica.comworldseries.com/?utm_source=Kadium&utm_medium=Banner&utm_campaign=Media%20Partner%%41%%NAWC West Africa
+283%%2013/05/31%%http://www.lteworldseries.com%%69%%NAWC LTE July
+284%%2013/05/31%%http://www.lteworldseries.com/%%73%%SAWC LTE July
+285%%2013/06/04%%http://www.taitradio.com/%%182%%YEARBOOK Tait
+286%%2013/06/04%%http://www.tisparkle.com%%175%%YEARBOOK Sparkle
+287%%2013/06/04%%http://www.hughes.com%%189%%YEARBOOK Hughes
+288%%2013/06/04%%http://www.africasat.com%%231%%YEARBOOK Measat Africasat
+289%%2013/06/04%%http://www.amdocs.com%%217%%YEARBOOK Amdocs
+290%%2013/06/04%%http://www.mobilemark.com%%271%%YEARBOOK Mobile Mark
+291%%2013/06/09%%http://www.eutelsat.com%%232%%YEARBOOK Eutelsat
+292%%2013/06/09%%http://www.franceix.net%%236%%YEARBOOK Franceix
+293%%2013/06/09%%http://www.orbcomm.com%%192%%YEARBOOK OrbComm
+294%%2013/06/09%%http://www.wiocc.net%%267%%YEARBOOK wiocc
+295%%2013/06/10%%http://www.edpeurope.com/en%%153%%NET edp strip
+296%%2013/06/19%%http://www.optelian.com/index.php?option=com_content&view=article&id=417&utm_source=communicasia&utm_medium=banner&utm_campaign=asia-packet-optical%%459%%SASIAN Optelian
+297%%2013/06/19%%http://www.cto.int%%106%%CTO SAWC
+298%%2013/06/19%%http://www.cto.int%%115%%CTO NAWC
+299%%2013/06/21%%http://www.advantechwireless.com/solutions/latest/%%302%%YEARBOOK Avantech
+300%%2013/06/21%%http://www.idtexpress.com/?key_code=AFRICANWIRELESS%%391%%YEARBOOK idt Roof
+301%%2013/06/21%%http://www.qkon.com%%265%%YEARBOOK qkon
+302%%2013/06/21%%http://www.balefyre.co.za%%245%%YEARBOOK Balefrye bottomH
+303%%2013/06/24%%http://www.idtexpress.com/?key_code=AFRICANWIRELESS%%123%%NAWC idt Roof
+304%%2013/06/24%%http://www.idtexpress.com/?key_code=AFRICANWIRELESS%%146%%SAWC idt roof
+305%%2013/06/24%%http://info.commscope.com/EMEAWirelessWebinarJuly2013_Registration/?p=Africa_Online_Advert%%297%%YEARBOOK Commscope
+306%%2013/07/03%%http://www.sentrumcolo.com/index.php%%152%%NET Sentrum
+307%%2013/07/05%%http://www.emcom.co.za%%366%%yearbook emcom
+308%%2013/07/05%%http://www.csgi.com%%338%%sawc CSG
+309%%2013/07/08%%http://www.alcatelonetouch.com/za/%%537%%SAWC Alcatel One Touch
+310%%2013/07/12%%http://www.sereply.com/promo/get.cfm?keycode=34000P&isocountrycode=GB %%382%%NET schneider KeyAd
+311%%2013/08/01%%http://www.comptel.com%%76%%SAWC comptel v
+312%%2013/08/01%%http://www.comptel.com%%110%%NAWC comptel v
+313%%2013/08/01%%http://www.comptel.com%%66%%SAWC comptel h
+314%%2013/08/01%%http://www.comptel.com%%77%%NAWC comptel h
+315%%2013/08/05%%http://www.datacentres-ireland.com%%245%%NET datacentres KeyAd
+316%%2013/08/07%%http://www.ipexpo.co.uk?WT.mc_id=IP131017WSNPL%%87%%IPexpo NET
+317%%2013/08/08%%http://www.comworldseries.com%%129%%NAWC AfricaCom Nov
+318%%2013/08/08%%http://www.comworldseries.com%%96%%NAWC Nigeria Com Sep
+319%%2013/08/08%%http://http://www.tecnotree.com/Whitepapers?elqCampaignId=118?article-1969%%66%%NAWC Technotree
+320%%2013/08/09%%http://www.comworldseries.com%%86%%SAWC AfricaCom
+321%%2013/08/26%%http://www.anritsu.com/en-GB/Promotions/MS2830A/level_accuracy/registration_nawc.aspx%%253%%Anritsu NAWC &amp; SAWC
+322%%2013/09/26%%http://www.zycko.com/manufacturers/meru-networks/meru-technology%%608%%NET Zycko Meru Networks
+323%%2013/09/26%%http://www.sereply.com/promo/get.cfm?keycode=39672P&isocountrycode=GB %%595%%NET Sneider Electric
+324%%2013/09/26%%http://www.sereply.com/promo/get.cfm?keycode=39525P&isocountrycode=GB %%592%%NET schneider KeyAd
+325%%2013/10/03%%http://www.tecnotree.com/Whitepapers?elqCampaignId=118?article-1969%%74%%NAWC Technotree Oct 13
+326%%2013/10/07%%http://www.eaton.com%%50%%NAWC V Eaton
+327%%2013/10/07%%http://www.eaton.com%%105%%SAWC V Eaton
+328%%2013/10/15%%http://www.corning.com/cablesystems/nafta/en/markets_applications/lanscape/pretiumedge.aspx%%99%%NET Corning
+329%%2013/10/24%%http://asperasoft.com/index.php?id=751%%80%%NET Aspera KeyAd
+330%%2013/10/29%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1832%%255%%SAWC Sparkle h
+331%%2013/10/29%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1832%%105%%NAWC sparkle h
+332%%2013/10/30%%http://www.rohde-schwarz.ae/en/news-events/trade-fairs/africa_com_registration?WT.mc_id=site_mea_dsp_TradeFair_SAWC_13-11%%132%%SAWC keyad Value Instruments
+333%%2013/10/31%%http://info.commscope.com/MEA_Wireless_AfricaCom2013_RegistrationLandingPage.html?AfricaComRegistration2013=&AfricaCom2013=OnlineAdvert%%96%%NAWC Commscope
+334%%2013/10/31%%http://info.commscope.com/MEA_Wireless_AfricaCom2013_RegistrationLandingPage.html?AfricaComRegistration2013=&AfricaCom2013=OnlineAdvert%%238%%SAWC Commscope
+335%%2013/10/31%%http://www.anacominc.com%%228%%SASIAN anacominc.com
+336%%2013/11/01%%http://www.anacominc.com%%91%%SAWC anacominc Keyad
+337%%2013/11/01%%http://www.optelian.com/index.php?option=com_content&view=article&id=417&utm_source=communicasia&utm_medium=banner&utm_campaign=asia-packet-optical%%106%%SAWC optelian V
+338%%2013/11/01%%http://www.anacominc.com%%247%%NAWC anacominc V
+339%%2013/11/01%%http://www.cambiumnetworks.com/epmp%%175%%NAWC + SAWC cambium H bottom
+340%%2013/11/06%%http://www.satadsl.net%%272%%SAWC Satadsl
+341%%2013/11/06%%http://www.satadsl.net%%265%%NAWC satadsl
+342%%2013/11/07%%http://www.hp.com/go/csp%%454%%SAWC AfricaCom - HP
+343%%2013/11/07%%http://hp.com/go/csp%%368%%NAWC AfricaCom - HP
+344%%2013/11/19%%http://www.colt.net/optimum%%623%%NET Keyad Colt
+345%%2014/01/10%%http://www.cto.int%%93%%NAWC Digital Switchover
+346%%2014/01/10%%http://www.cto.int%%64%%SAWC Digital Switchover
+347%%2014/02/13%%http://www.telecomsacademy.com/atms%%333%%Telecoms Academy 2014
+348%%2014/02/24%%http://www.communicasia.com%%212%%SASIA communicsasia2014
+349%%2014/03/07%%http://www.intelsat.com/about-us/50th-anniversary%%89%%SAWC h Intelsat
+350%%2014/03/31%%http://www.intelsat.com/about-us/50th-anniversary/%%260%%IntelSAT NAWC
+351%%2014/03/31%%http://www.intelsat.com/about-us/50th-anniversary/%%616%%IntelSAT SAWC
+352%%2014/03/31%%http://www.intelsat.com/about-us/50th-anniversary/%%345%%IntelSAT SASIAN
+353%%2014/04/03%%http://www.singtelteleport.com%%334%%NAWC SingTel
+354%%2014/04/03%%http://www.singtelteleport.com%%129%%SAWC SingTel
+355%%2014/04/03%%http://www.iir-telecoms.com%%114%%Sasian TCCA presents IIT Telecoms
+356%%2014/05/07%%http://www.clarionevents.com%%29%%SAWC Clairon
+357%%2014/05/07%%http://www.clarionevents.com%%66%%NAWC Clairon
+358%%2014/06/04%%http://vasafrica.comworldseries.com/%%264%%SAWC VasAfrica v
+359%%2014/06/04%%http://vasafrica.comworldseries.com/%%141%%NAWC VasAfrica
+360%%2014/06/04%%http://westafrica.comworldseries.com/%%215%%SAWC Connecting West Africa
+361%%2014/06/04%%http://westafrica.comworldseries.com/%%91%%NAWC Connecting West Africa
+362%%2014/06/11%%http://www.idtbeyond.com/?keycode=AFRICANWIRELESS%%240%%IDT Roof
+363%%2014/06/27%%http://www.comworldseries.com%%198%%NAWC Nigeria Coms
+364%%2014/06/27%%http://www.comworldseries.com%%99%%SAWC Nigeria Coms
+365%%2014/06/27%%http://www.idtcarrierservices.com%%448%%Yearbook14 IDT
+366%%2014/06/27%%http://www.ccsl.com/%%339%%Yearbook14 CSSL
+367%%2014/06/27%%http://www.satadsl.net/%%249%%Yearbook14 SATadsl
+368%%2014/06/27%%http://www.tisparkle.com/%%226%%YEARBOOK14 Sparkle
+369%%2014/06/27%%http://eng.rscc.ru/%%340%%YEARBOOK14 RSCC
+370%%2014/06/30%%http://www.eltek.com/%%232%%YEARBOOK Eltek
+371%%2014/06/30%%http://info.emc-corp.net/emc-west-africa-offshore-vsat-services-0%%308%%YEARBOOK emc
+372%%2014/07/04%%http://www.singtelteleport.com/contact-us%%271%%Yearbook2014 SingTel
+373%%2014/07/04%%http://www.eutelsat.com%%272%%Yearbook2014 Eutelsat
+374%%2014/08/20%%http://bit.ly/IMILoyalty%%149%%NAWC v IMImobile
+375%%2014/08/20%%http://bit.ly/IMImCRM%%88%%NAWC h IMImobile
+376%%2014/10/01%%http://www.idtmedia.net/idt-express/submit-details.html%%197%%IDT Oct v
+377%%2014/10/01%%http://www.idtmedia.net/idt-express/submit-details.html%%64%%IDT Oct h
+378%%2014/10/19%%http://www.damm.dk/references/%%39%%SASIAN roof Damm
+379%%2014/10/20%%http://www.eutelsat.com%%215%%SAWC eutelsat
+380%%2014/10/27%%http://www.sepura.com/products/dmr/%%218%%SASIAN Supura h
+381%%2014/10/27%%http://www.sepura.com/products/dmr/%%1437%%AFRICA Sepura v
+382%%2014/10/27%%http://www.arieso.com%%262%%Sasian V - JDSU
+383%%2014/10/30%%http://www.damm.dk/references/%%12098%%SASIAN Damm h
+384%%2014/10/31%%http://www.intersec.com%%101%%NAWC v Intersec
+385%%2014/11/04%%http://www.rfsworld.com%%375%%NAWC upcoming RFSworld
+386%%2014/11/04%%http://www.newtec.eu/product/newtec-dialog%%422%%NAWC newtec
+387%%2014/11/05%%http://eng.rscc.ru%%642%%RSCC KeyAd
+388%%2014/11/07%%http://www.proxim.com/products/tsunami-820-series%%175%%PROXIM af
+389%%2014/11/10%%http://www.amos-spacecom.com%%148%%SAWC Amos
+390%%2014/11/10%%http://www.acsys.com%%130%%ACSYS
+391%%2014/11/10%%http://www.hytera.com%%219%%Hytera
+392%%2014/11/12%%https://www.saftehnika.com/en/spectrumanalyzer%%349%%SAWC Spectrum
+393%%2014/11/12%%https://www.saftehnika.com/en/integra%%205%%NAWC Spectrum
+394%%2014/11/12%%http://www.alcatelonetouch.com/uk%%141%%SAWC alcatel
+395%%2014/11/13%%http://www.simocogroup.com%%272%%SASIAN simoco
+396%%2014/12/09%%http://criticalcommunicationsasia.com%%280%%SASIAN critical comms
+397%%2014/12/24%%http://info.csgi.com/SAW2014%%162%%SASIAN - LTE
+398%%2015/01/06%%http://www.cto.int/events/upcoming-events/commonwealth-digital-broadcasting-switchover-forum-2015%%231%%NAWC switchover
+399%%2015/01/06%%http://www.cto.int/events/upcoming-events/commonwealth-digital-broadcasting-switchover-forum-2015%%108%%SAWC switchover
+400%%2015/01/23%%http://criticalcommunicationsasia.com%%154%%SASIAN critcoms march
+401%%2015/02/03%%http://info.csgi.com/monetizing-digital-content%%146%%NAWC key CSG
+402%%2015/02/10%%http://www.intelsat.com/applications/broadband-2/intelsat-epicng-for-broadband/?utm_source=NAW&utm_medium=SideTower&utm_campaign=BBAfrica%%383%%NAWC intelsat Feb15
+403%%2015/02/25%%http://www.sepura.com/market-sectors/government-public-safety/public-safety/?utm_source=StripBanner-SAW-PS&utm_medium=Banner&utm_campaign=SAWirelessPublicSafety%%317%%SASIAN Septura KeyAd
+404%%2015/03/05%%http://info.csgi.com/SAW2014%%288%%SASIAN roof CSG
+405%%2015/03/06%%http://www.comworldseries.com/eaafrica%%0%%AfricaWC COMwld Upcoming
+406%%2015/03/06%%http://www.comworldseries.com/eaafrica%%126%%AfricaWC COMwld Upcoming
+407%%2015/03/18%%http://www.acsys.com%%283%%SASIAN Acsys V
+408%%2015/03/24%%http://www.acsys.com%%8729%%NAWC Acsys V
+409%%2015/05/18%%http://www.tisparkle.com%%151%%YEARBOOK Sparkle H
+410%%2015/05/18%%http://www.eltek.com%%294%%YEARBOOK Eltek S
+411%%2015/05/18%%http://www.hughes.com%%345%%YEARBOOK Hughes S
+412%%2015/05/18%%http://www.eutelsat.com/en/home.html%%344%%YEARBOOK Eutelsat S
+413%%2015/05/18%%http://www.rfsworld.com%%535%%YEARBOOK rfs S
+414%%2015/05/18%%http://www.radwin.com%%519%%YEARBOOK Radwin V
+415%%2015/05/18%% http://www.anacominc.com%%439%%YEARBOOK Anacom V
+416%%2015/05/18%% http://www.measat.com%%519%%YEARBOOK Measat V
+417%%2015/05/18%%http://www.absatellite.net/%%408%%YEARBOOK absSatellite V
+418%%2015/05/18%%http://www.rfsworld.com/%%127%%AWC rfsworld V
+419%%2015/05/20%%http://www.gazprom.com%%530%%YEARBOOK Gazprom S
+420%%2015/05/28%%http://www.avantiplc.com/satcom/%%24%%SAWC Avanti
+421%%2015/06/04%%http://www.gilat.net%%308%%NAWC Gialt
+422%%2015/06/04%%http://www.anacominc.com%%709%%SASIAN Anacom + NAWC/SAWC
+423%%2015/06/04%% http://www.hytera.com%%840%%HYTERA
+424%%2015/06/04%%http://vasafrica.comworldseries.com%%78%%VAS Africa upcoming
+425%%2015/06/09%%http://www.intelsat.com/applications/broadband-2/intelsat-epicng-for-broadband/?utm_source=SAsia&utm_medium=StripBanner&utm_campaign=BBAsia%%220%%
+426%%2015/06/10%%http://www.intorel.com%%9508%%saisan Intorel
+427%%2015/06/10%%http://www.avantiplc.com%%90%%SAWC Avanti H
+428%%2015/06/17%%https://www.pccwglobal.com/en%%302%%YEARBOOK pccw global
+429%%2015/06/17%%http://www.elitecore.com/pressrelease-thailand-CAT-telecom-select-elitecore.html%%343%%YEARBOOK Elitecore
+430%%2015/07/06%% http://www.measat.com%%21073%%MEASAT home V
+431%%2015/07/06%%http://www.radwin.com%%1194%%RADWIN home V
+432%%2015/07/06%% http://www.rfsworld.com%%6092%%RFS World V home
+433%%2015/07/06%%http://www.hughes.com%%149%%NAWC Hughes h
+434%%2015/07/06%%http://www.anacominc.com%%141%%NAWC Anacominc h
+435%%2015/07/06%% http://www.absatellite.net/%%342%%SAWC v ABS
+436%%2015/07/06%%http://www.gazprom.com%%117%%SAWC v sidetower (Gazprom?)
+437%%2015/07/17%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1831%%0%%SASIAN Sparkle Roof
+438%%2015/07/17%%http://www.rfsworld.com%%85%%NAWC RFS strip
+439%%2015/07/29%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1831%%673%%HOME Sparkle V
+440%%2015/07/29%%http://www.tisparkle.com%%174%%ARCHIVE Sparkle H
+441%%2015/07/29%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1831%%60%%NAWC Sparkle V
+442%%2015/07/29%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1831%%84%%SAWC Sparkle Strip
+443%%2015/08/11%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1833%%3685%%Sparkle Campaign
+444%%2015/08/21%%http://www.damm.dk/products/tetraflex-system-/?utm_source=NorthAfricanWirelessComm&utm_medium=banner&utm_campaign=SystemBrochure_stripbanner%%330%%Damm Strip
+445%%2015/09/08%%http://www.hughes.com%%318%%hughes
+446%%2015/09/10%%http://www.rfsworld.com%%173%%SAWC/NAWC RFS v
+447%%2015/10/01%% http://www.yahclick.com%%172%%NAWC and SAWC YahClick
+448%%2015/10/14%%http://www.c-comsat.com%%112%%NAWC/SAWC Arfrica Com Campaign
+449%%2015/10/19%%http://www.newtec.eu/product/newtec-dialog%%318%%NAWC/SAWC Newtech Campaign
+450%%2015/10/22%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1832%%639%%NAWC/SAWC Sparkle Campaign
+451%%2015/11/03%%http://www.eutelsat.com%%59%%Eutelsat Banniere
+452%%2015/11/03%%http://www.measat.com%%194%%Measat
+453%%2015/11/04%%http://www.singtel.com%%235%%Singtel Strip Banner
+454%%2015/11/04%%http://www.singtel.com%%0%%Singtel Tower
+455%%2015/11/04%%http://www.gilat.com/X-Architecture%%73%%Gilat
+456%%2015/11/04%%http://www.tisparkle.com%%2830%%Sparkle Wallpaper Campaign
+457%%2015/11/10%%http://goo.gl/6CVnrp%%78%%SAWC/NAWC Arabsat s
+458%%2015/11/11%%http://www.dartcom.co.za%%153%%SAWC v Dartcom
+459%%2015/11/16%%http://www.comworldseries.com/africa%%362%%SAWC/NAWC ComWorld Nov
+460%%2015/11/16%%http://goo.gl/6CVnrp  %%133%%NAWC/SAWC Arabsat 2
+461%%2015/12/04%%http://www.pixink.net%%13675%%Pixink Test
+462%%2015/12/10%%http://www.convergenceindia.org%%254%%SASIA Convergence Campaign
+463%%2015/12/22%%http://www.dialogic.com%%133%%SASIAN Dialogic
+464%%2015/12/22%%http://www.damm.dk/products/tetraflex-system-/?utm_source=NorthAfricanWirelessComm&utm_medium=banner&utm_campaign=SystemBrochure_stripbanner%%491%%SASIA Damm strip
+465%%2015/12/24%%http://www.c-comsat.com%%133%%SASIAN Ccoms h
+466%%2016/01/04%%http://www.sesallworld.com%%213%%SASIAN CommAsia
+467%%2016/01/28%%http://www.c-comsat.com%%77%%NAWC/SAWC cComsat
+468%%2016/01/29%%http://www.tandcca.com/events/article/24771%%85%%TETRA Botsawana
+469%%2016/01/29%%http://www.tandcca.com/events/article/24770%%110%%TETRA South Africa
+470%%2016/03/29%%http://www.aptilo.com/events-showcase-2016  %%83%%SASIAN Aptilio
+471%%2016/03/31%%https://www.comworldseries.com%%98%%COM WORLD SERIES Campaign
+472%%2016/04/13%% http://www.absatellite.net%%94%%ABS new apr2016
+473%%2016/05/23%%http://www.tisparkle.com%%55%%SAWC/NAWC istituzionale TisSparkle
+474%%2016/05/23%%http://www2.intelsat.com/data-telecoms/SAW-banner-broadband%%107%%Intelsat Strip
+475%%2016/05/23%%http://www2.intelsat.com/data-telecoms/NAW-banner-broadband%%110%%Intelsat Strip NAWC
+476%%2016/05/23%%http://www2.intelsat.com/data-telecoms/NAW-tower-broadband%%111%%Intelsat Side NAWC
+477%%2016/05/23%%http://www2.intelsat.com/data-telecoms/SAW-tower-broadband%%118%%Intelsat Side SAWC
+478%%2016/06/13%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=1831%%1189%%Sparkle Roof Tis
+479%%2016/06/20%%http://www.absatellite.com%%96%%ABS June 2016
+480%%2016/06/23%%https://www.liquidtelecom.com/?utm_source=southern-african-wireless-communications&utm_medium=banner&utm_campaign=african-july-banking-side%%3900%%Liquid Africa Banking Side
+481%%2016/06/23%%https://www.liquidtelecom.com/?utm_source=southern-african-wireless-communications&utm_medium=banner&utm_campaign=african-july-banking-strip%%87%%Liquid Africa Banking H
+482%%2016/06/23%%http://www.singtelteleport.com/%%44%%Singtel H
+483%%2016/06/23%%http://www.singtelteleport.com/singtel-awarded-satellite-operator-of-the-year-at-asia-communication-awards-2016-for-the-second-consecutive-year%%91%%Singtel V
+484%%2016/07/05%%http://www.tisparkle.com/default.aspx?Lang=ENG&idPage=2531%%1661%%July TisSparkle
+486%%2016/07/13%%http://www.hytera.com%%79%%Hytera Campaign
+487%%2016/07/13%%http://coiler.com.tw%%69%%Coiler campaign
+488%%2016/07/29%%https://tmt.knect365.com/africacom%%2123%%AfricaCom
+489%%2016/08/15%%http://emcconnected.com/mobile-network-operators/?utm_source=KADIUMlimited&utm_medium=MNObanner&utm_campaign=SAWCandNAWC%%45%%EMC Connected Campaign

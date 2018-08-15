@@ -1,0 +1,107 @@
+<iRem iStamp by WORK STATION 1, 10-26-2000 16:31:28>
+<!iHTML>
+<iERROR>
+	<iCLEAR>
+	<b>An Error has occurred processing the form.</b><br><br>
+	<B>Please try e-mailing us on admin@networkingplus.co.uk.</B><BR><BR>
+	<!--  Error Number :i_error (:i_errortext)<br> -->
+	<iIF <iMATH a=':i_error' b=350 o="=">>SQL error details are:  :i_sqlerrortext <br>
+	</iIF>:i_hinttext<br>
+	<iHeapDump>
+	<iStop>
+</iERROR>
+<iIf NOTCOND=<iSTRIN src=":email" dst="@">>
+	<iSet email2="invalid@emailaddress.fld">
+<iElse>
+	<iSet email2=:email>
+</iIf>
+<iMAIL ADDRESS="subscriptions@networkingplus.co.uk"
+	HOST="smtp.networkingplus.co.uk"
+       FROM=":email2"
+       SUBJECT="Form: Reader Registration"
+       >
+:forename :surname filled in the following details:
+
+This is a :registration.
+
+Name:
+:forename :surname
+
+Organisation:
+:company
+
+Address:
+:ad1
+:ad2
+:county
+:pcode
+
+Job Title:
+:jobtitle
+
+Phone:
+:phone
+
+E-Mail
+:email
+
+-------------------------------------------------------------------------------------
+
+Which of the following best describes your job function?
+:type
+			
+Number of employees?
+:employees	
+			
+Size of organisation?
+:turnover
+			
+How are you involved in acquiring network products/services?
+:influence
+			
+Annual IT budget?
+:budget		
+			
+Which of the following best describes your company's activities?			
+:activities	
+			
+Network Type:	
+:network
+
+---------------------------------
+
+Please specify your job function/company's activities if not listed above:
+:unlisted
+
+For readership verification purposes, please enter the first two letters of your place of birth:
+:maidenname
+
+:promotional
+
+Tick here to confirm that you would like to enter the Ipanema Technologies iPod Nano draw:
+:Ipanema
+
+Already a registered reader?
+:already
+</iMAIL>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>Kadium Publishing - Thank You</title>
+<LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
+
+</script>
+</head>
+<body onLoad="javascript:defaultStatus = 'Thank you for your enquiry.'">
+
+<DIV ALIGN=center><BR><BR><BR><H2>Thank you for your application</H2>
+<P>We will process your application as soon as possible.</p>
+<a href="index.htm">Click here to return to our homepage.</a>
+
+</body>
+</html>

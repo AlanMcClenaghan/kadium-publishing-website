@@ -1,0 +1,71 @@
+/* CSS Document */
+
+* {margin: 0; padding: 0; border: 0;}	/* always add this declaration at the top so all browsers start with the same defaults */
+p {margin-bottom: 1em;}					/* you need to add this because we cleared all the default margins above */
+
+body {
+	padding: 1em;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11pt;		/* always express the main body font size in points not ems, different browsers have different default font sizes */
+}
+table, tr, td {				/* I added this because we cleared the padding on every element above */
+	padding: 1px;
+}
+
+#border {
+	border: 1px solid black;
+	padding: 1.5em 3em 3em 3em;
+	width: 790px;
+	margin: 0 auto;
+}
+#title {
+	width: 750px;
+	font-size: 2em;
+	color: #A3238F;
+	position: relative;
+	padding-top: .5em;
+}
+#tabletitle {
+	clear: both;
+	font-size: 1.3em;
+	color:#8080C0;
+	font-weight: 600;
+	margin-left: -.05em;		/* this does nothing. Negative margins are not permitted  if you need to move something in a negative direction
+									use position: relative; and set the top and or left to a negative number as I did with the #logo above*/
+}
+#submitbtn {
+	margin: 1em auto;
+}
+#submitbtn:hover {
+	cursor: pointer;
+}
+.tablebg {
+	padding: 1em;
+	background-color: #CCCCFF;
+}
+.clearfix {
+	clear: both;
+	}
+.style2 {
+color: #32327E;
+margin-top: .5em;
+}
+.style3 {
+color: #32327E;
+font-size: .8em;
+}
+.box{
+	border: 1px solid #32327E;
+	padding: 0 1em 0 1em;
+	margin: 1em 1em 1em 2em;
+	background-color:#FFFFFF;
+	float: right;
+	width: 14em;
+}
+.aligntop {
+	vertical-align: text-top;
+}
+.companydetails {
+	padding-right: .6em;
+	text-align: right;
+}

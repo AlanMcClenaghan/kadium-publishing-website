@@ -1,0 +1,195 @@
+a:hover {
+  text-decoration: none;
+}
+
+h3 a {
+  color: black;
+}
+
+p {
+/*  line-height: 1.25;*/
+}
+
+.line-height1 {
+  line-height: 1;
+}
+
+.white {
+  color: white;
+}
+
+.ad-border {
+  border: 1px solid black;
+}
+
+hr.nawc-color,
+hr.sawc-color,
+hr.sasia-color {
+  border: 5px solid;
+}
+
+.navbar {
+  background-color: #378247;
+}
+
+.navbar-brand img {
+  background-color: #378247;
+}
+
+.nav-link {
+  font-size: .75rem;
+  font-weight: bold;
+  line-height: 1;
+  margin-right: 5px;
+}
+
+.dropdown-item {
+  font-size: .75rem;
+  font-weight: bold;
+  padding: .25rem .5rem;
+}
+
+/*
+.nav-link a {
+  color: white;
+  vertical-align: middle;
+}*/
+
+.red {
+  color: red;
+}
+
+
+footer {
+  color: white;
+  background-color: #378247;
+}
+
+.nawc-color {
+  color: #0e9246;
+}
+
+.nawc-button {
+  color: white;
+  background-color: #0e9246;
+}
+
+.nawc-button:hover {
+  background-color: #058641;
+}
+
+.sawc-color {
+  color: #f28521;
+}
+
+.sawc-button {
+  color: white;
+  background-color: #f28521;
+}
+
+.sawc-button:hover {
+  background-color: #d9791e;
+}
+
+.sasia-color {
+  color:#4e2a7e;
+}
+
+.sasia-button {
+  color: white;
+  background-color:#4e2a7e;
+}
+
+.sasia-button:hover {
+  background-color:#5f3399;
+}
+
+.download {
+  margin-bottom: 0;
+}
+
+
+.cover {
+/*
+  margin: 40px 16px 20px;
+  height: 158px;
+  width: 112px;
+*/
+  box-shadow: 3px 3px 10px black;
+  transition-duration: .1s;
+}
+
+.yearbook {
+  box-shadow: 3px 3px 10px black;
+  max-width: 65%;
+}
+
+.cover:hover {
+/*
+  margin-top: 40px;
+  margin-bottom: 20px;
+*/
+  box-shadow: 0 0 1px black;
+  -ms-transform: scale(0.975); /* IE 9 */
+  -webkit-transform: scale(0.975); /* Safari */
+  transform: scale(0.975);
+}
+
+.archive {
+  box-shadow: 3px 3px 10px black;
+  transition-duration: .1s;
+  -ms-transform: scale(0.975); /* IE 9 */
+  -webkit-transform: scale(0.975); /* Safari */
+  transform: scale(0.975);
+}
+
+.archive:hover {
+  box-shadow: 0 0 1px black;
+  -ms-transform: scale(0.95); /* IE 9 */
+  -webkit-transform: scale(0.95); /* Safari */
+  transform: scale(0.95);
+}
+
+.register {
+  margin: 0 auto;
+  width: 112px;
+  /* box-shadow: 3px 3px 10px black; 
+  transition-duration: .1s; */
+}
+
+/* .register:hover {
+  box-shadow: 0 0 1px black;
+  -ms-transform: scale(0.975); /* IE 9 */
+  -webkit-transform: scale(0.975); /* Safari */
+  transform: scale(0.975);
+} */
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .yearbook {
+    max-width: 60%;
+  } 
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .yearbook {
+    max-width: 50%;
+  } 
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .yearbook {
+    max-width: 80%;
+  } 
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+  .yearbook {
+    max-width: 60%;
+  }
+}
+
